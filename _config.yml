@@ -3,6 +3,5 @@ plugins:
   - jekyll-seo-tag
 title: Lietuviški klaviatūros išdėstymai
 description: <em>Lietuviškų klaviatūros išdėstymų palyginimas.</em>
-show_downloads: true
 lang: lt_LT
 encoding: UTF-8
