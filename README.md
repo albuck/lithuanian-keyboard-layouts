@@ -65,14 +65,6 @@ __Pastabos.__ Patikroje septintas viršutinis mygtukas (QWERTY skaičių eilėje
    4. AŽERTY IBM, LT Standard 1992 (ISO) — 47.53
    5. QWERTY Baltic-Numeric (ISO) — 46.13
 
-+ [Keyboard Layout Analyzer: Lietuvių kalbos literatūros terminų žodynėlis](http://patorjk.com/keyboard-layout-analyzer/#/load/LhW7gkVt)
-
-   1. __ŪĖYOQJ Ratise (ISO) — 67.93__
-   2. QGRLDČ LEKP (ISO) — 57.11
-   3. AŽERTY LT Standard 2000 (ISO) — 43.05
-   4. QWERTY Baltic-Numeric (ISO) — 42.90
-   5. AŽERTY IBM, LT Standard 1992 (ISO) — 42.89
-
 + [Keyboard Layout Analyzer: Lietuvių padavimai](http://patorjk.com/keyboard-layout-analyzer/#/load/q1kP7h2b)
 
    1. __ŪĖYOQJ Ratise (ISO) — 67.70__
