@@ -181,21 +181,25 @@ __Pastabos.__ Patikroje septintas viršutinis mygtukas (QWERTY skaičių eilėje
    4. AŽERTY IBM, LT Standard 1992 (ISO) — 46.36
    5. AŽERTY LT Standard 2000 (ISO) — 46.24
 
+## Išvados:
 
-__Pastabos.__ Vadinamieji išdėstymai _Lithuanian [Baltic](https://www.registrucentras.lt/litwin/kbdltb.gif), [Numeric/Skaičiukinis](https://www.registrucentras.lt/litwin/kbdlt1.gif), [Skaičiukinis pagerintas](https://rimas.kudelis.lt/numeric/), [LEKP Baltic+](https://lekp.info/images/baltic+.jpg)_ yra vienas ir tas pats išdėstymas su [mažai reikšmingais patikrai skirtumais](http://patorjk.com/keyboard-layout-analyzer/#/load/BWsjctw1), manasis, ko gero, netgi geresnis patikrai (nes turi papildomą ilgąjį brūkšnį ir lietuviškas kabutes pirmame lygyje). _Lithuanian Standard_ arba _Lietuviška standartinė klaviatūra_ turi du valstybinius standartus (LST 1582:2000 ir LST 1582:2012), senu įpratimu rašau _LT Standard 2000_, abiejų standartų išdėstymai nesiskiria vienas nuo kito. ‘Programming Punctuation Torture Test’ paimtas iš [stevep99 puslapio](https://stevep99.github.io/keyboard-layout-analyzer/#/main).
++ Iš visų aukščiau tikrintų klaviatūros išdėstymų, _ŪĖYOQJ Ratisės_ išdėstymas geriausiai tinka lietuvių, anglų bei programavimo kalbų [tekstams rinkti visais pirštais (vadinamasis „Aklasis teksto rinkimas“)](https://albuck.github.io/Ratise-layout/docs/spausdinimo-visais-pirstais-tvarka.html), t. y. su _Ratise_ atliksite tą patį darbą patogiau ir lengviau negu su kitais išdėstymais.
++ _AŽERTY LT Standard 2000_, _AŽERTY IBM (LT Standard 1992)_ ir _QWERTY Baltic-Numeric_ išdėstymuose dažnai dažniau reikalingi ženklai išdėstyti toliau nuo pagrindinės pirštų padėties, daug dažniau kai kuriems pirštams tenka iš eilės spaudinėti vėl mygtukus, pirštai nueina didesnį atstumą spausdindami. Ženklai šiuose išdėstymuose išdėstyti netvarkingai: visiškai neatsižvelgta nei į pirštų pajėgumą, nei į teksto rinkimo ritmą, nei į raidžių dažnumą ir eiliškumą žodžiuose. Šie išdėstymai yra patys nepatogiausi teksto rinkimui visais pirštais.
+
+__Pastabos.__ Vadinamieji išdėstymai _Lithuanian [Baltic](https://www.registrucentras.lt/litwin/kbdltb.gif), [Numeric/Skaičiukinis](https://www.registrucentras.lt/litwin/kbdlt1.gif), [Skaičiukinis pagerintas](https://rimas.kudelis.lt/numeric/), [LEKP Baltic+](https://lekp.info/images/baltic+.jpg)_ yra vienas ir tas pats išdėstymas su [mažai reikšmingais patikrai skirtumais](http://patorjk.com/keyboard-layout-analyzer/#/load/BWsjctw1), manasis, ko gero, netgi geresnis patikrai (nes turi papildomą ilgąjį brūkšnį ir lietuviškas kabutes pirmame lygyje). _Lithuanian Standard_ arba _Lietuviška standartinė klaviatūra_ turi du valstybinius standartus (LST 1582:2000 ir LST 1582:2012), senu įpratimu rašau _LT Standard 2000_, abiejų standartų išdėstymai nesiskiria vienas nuo kito. ‘Programming Punctuation Torture Test’ paimtas [stevep99 puslapio](https://stevep99.github.io/keyboard-layout-analyzer/#/main).
 
 ### Kiti išdėstymų privalumai:
+
 + _Ratisės_ išdėstymas turi tvarkingai išdėstytus ženklus, todėl yra lengviau ir greičiau įsimenamas.
 + _Ratisės_ išdėstymas turi uždėtinius priegaidžių ženklelius ir kirčiuotas lietuviškas raides (per tęsties lygius).
-+ _Ratisės_ išdėstymas turi daug daugiau papildomų (kad ir rečiau reikalingų) rašto ženklų.
++ _Ratisės_ išdėstymas turi daugiau papildomų rašto ženklų.
 + _Ratisės_ išdėstymu galima įvesti kitų Europos kalbų raides (per tęsties lygius).
 + _Ratisė_ ir _LEKP_ yra pritaikyti teksto rinkimui visais pirštais, nežiūrint į klaviatūrą.
-+ _Baltic/Numeric_ raidės sutampa su angliškojo _QWERTY_ raidėmis, kurios dažniausiai ir būna užpaišytos and pačių klaviatūrų mygtukų, kas yra labai patogu naujokui susiieškoti klaviatūroje tas raides. (Reik manyti, tai yra pagrindinė priežastis, kodėl šis išdėstymas išplito pas mus ir vis dar yra labiausiai naudojamas.)
-+ _Baltic/Numeric_ išdėstymas yra visur platinamas ir žinomas, kaip numatytasis „Lithuanian/Lietuvių“.
-+ _Lithuanian Standard_ išdėstymas yra platinamas valstybinės įstaigos.
-+ _Baltic/Numeric_ išdėstymo ženklai dažnai būna papildomai užžymėti ant Lietuvoje parduodamų klaviatūrų.
-+ _Baltic/Numeric_ išdėstymas yra pritaikytas labiau spausdinti vienu/dviem/keliais pirštais žiūrint į klaviatūrą ir ieškant, kur kokia yra raidė.
-+ _Baltic/Numeric_ ir _Lithuanian standard_ išdėstymų paprastai nereikia papildomai įdieginėti.
++ _Baltic-Numeric_ raidės sutampa su angliškojo _QWERTY_ raidėmis, kurios dažniausiai ir būna užpaišytos and pačių klaviatūrų mygtukų, kas yra labai patogu naujokui susiieškoti klaviatūroje tas raides. (Reik manyti, tai yra pagrindinė priežastis, kodėl šis išdėstymas išplito pas mus ir vis dar yra labiausiai naudojamas.)
++ _Baltic-Numeric_ išdėstymas yra visur platinamas ir žinomas, kaip numatytasis „Lithuanian/Lietuvių“.
++ _Lithuanian Standard 2000_ išdėstymas yra platinamas valstybinės įstaigos.
++ _Baltic-Numeric_ išdėstymo ženklai dažnai būna papildomai užžymėti ant Lietuvoje parduodamų klaviatūrų.
++ _Baltic-Numeric_ išdėstymas yra pritaikytas labiau spausdinti vienu/dviem/keliais pirštais žiūrint į klaviatūrą ir ieškant, kur kokia yra raidė.
++ _Baltic-Numeric_ ir _Lithuanian Standard 2000_ išdėstymų paprastai nereikia papildomai įdieginėti.
 
 -----------------------------------------
-
