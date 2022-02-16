@@ -203,3 +203,7 @@ __Pastabos.__ Vadinamieji išdėstymai _Lithuanian [Baltic](https://www.registru
 + _Baltic-Numeric_ ir _Lithuanian Standard 2000_ išdėstymų paprastai nereikia papildomai įdieginėti.
 
 -----------------------------------------
+
+[Klaviatūros valdymo mygtukų ženkliukai ir jų pavadinimai](https://albuck.github.io/Ratise-layout/docs/klaviaturos-valdymo-mygtukai.html)
+
+[Lietuviškas ergonomiškas klaviatūros išdėstymas Ratisė](https://albuck.github.io/Ratise-layout/)
