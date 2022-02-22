@@ -4,23 +4,23 @@
 
   __[ŪĖYOQJ Ratisė](https://albuck.github.io/Ratise-layout/):__
 
-   ![Lithuanian Keyboard Layout Ratisė (ŪĖYOQJ)](images/lt-ueyoqj-ratise-iso.svg)
+   ![Lietuviškas klaviatūros išdėstymas Ratisė (ŪĖYOQJ)](images/lt-ueyoqj-ratise-iso.svg)
 
   __[QGRLDČ Lekp](https://lekp.info/):__
 
-   ![Lithuanian Keyboard Layout LEKP (QGRLDČ)](images/lt-qgrldc-lekp-iso.svg)
+   ![Lietuviškas klaviatūros išdėstymas LEKP (QGRLDČ)](images/lt-qgrldc-lekp-iso.svg)
 
   __[ĄŽERTY Standard 2000](http://www.ims.mii.lt/klav/):__
 
-   ![Lithuanian Keyboard Layout Standard 2000 (ĄŽERTY)](images/lt-azerty-standard-iso.svg)
+   ![Lietuviškas klaviatūros išdėstymas Standard 2000 (ĄŽERTY)](images/lt-azerty-standard-iso.svg)
 
   __[ĄŽERTY Standard 1992 (IBM)](https://www.registrucentras.lt/litwin/keyboard.html):__
 
-   ![Lithuanian Keyboard Layout Standard 1992 (ĄŽERTY)](images/lt-azerty-ibm-iso.svg)
+   ![Lietuviškas klaviatūros išdėstymas Standard 1992 (ĄŽERTY)](images/lt-azerty-ibm-iso.svg)
 
   __[QWERTY Baltic-Numeric](https://www.registrucentras.lt/litwin/keyboard.html):__
 
-   ![Lithuanian Keyboard Layout Baltic/Numeric (QWERTY)](images/lt-qwerty-baltic-numeric-iso.svg)
+   ![Lietuviškas klaviatūros išdėstymas Baltic/Numeric (QWERTY)](images/lt-qwerty-baltic-numeric-iso.svg)
 
 + Išdėstymai rikiuojami pagal pasiekimus išdėstymų našumo patikroje.
 
