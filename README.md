@@ -115,6 +115,18 @@ __Pastabos.__ Patikroje septintas viršutinis mygtukas (QWERTY skaičių eilėje
 
    - Skliaustuose — [šio teksto vienų žodžių skaičiai](http://patorjk.com/keyboard-layout-analyzer/#/load/m0185zS4).
 
+_Žemiau pateikiami paveikslėliai su išdėstymų mygtukų naudojimo dažnumu spausdinant lietuvišką tekstą. Ryškesnė spalva rodo didesnį mygtuko naudojimo dažnumą._
+
+![Ratisė (ŪĖYOQJ)](images/test-ratise-liet.png)
+
+![LEKP (QGRLDČ)](images/test-lekp-liet.png)
+
+![Standard 2000 (ĄŽERTY)](images/test-standard-liet.png)
+
+![Standard 1992 (ĄŽERTY)](images/test-ibm-liet.png)
+
+![Baltic-Numeric (QWERTY)](images/test-baltic-liet.png)
+
 
 ## Angliško teksto skaidymas:
 
@@ -151,6 +163,18 @@ __Pastabos.__ Patikroje septintas viršutinis mygtukas (QWERTY skaičių eilėje
    5. AŽERTY LT Standard 2000 (ISO) — 38.98
 
   __Pastaba:__ kai kuriuose papildomai bandytuose angliškuose tekstuose _LEKP_ pasirodo kartais kiek geriau nei _Ratisė_.
+  
+  _Žemiau pateikiami paveikslėliai su išdėstymų mygtukų naudojimo dažnumu spausdinant anglišką tekstą. Ryškesnė spalva rodo didesnį mygtuko naudojimo dažnumą._
+
+![Ratisė (ŪĖYOQJ)](images/test-ratise-eng.png)
+
+![LEKP (QGRLDČ)](images/test-lekp-eng.png)
+
+![Standard 2000 (ĄŽERTY)](images/test-standard-eng.png)
+
+![Standard 1992 (ĄŽERTY)](images/test-ibm-eng.png)
+
+![Baltic-Numeric (QWERTY)](images/test-baltic-eng.png)
 
 ## Programavimo kalbų teksto skaidymas:
 
@@ -169,6 +193,18 @@ __Pastabos.__ Patikroje septintas viršutinis mygtukas (QWERTY skaičių eilėje
    3. QWERTY Baltic-Numeric (ISO) — 34.13
    4. AŽERTY IBM, LT Standard 1992 (ISO) — 33.88
    5. AŽERTY LT Standard 2000 (ISO) — 33.34
+
+_Žemiau pateikiami paveikslėliai su išdėstymų mygtukų naudojimo dažnumu spausdinant ‘Bash, C, CPP, HTML, JavaScript, Python’ tekstą. Ryškesnė spalva rodo didesnį mygtuko naudojimo dažnumą._
+
+![Ratisė (ŪĖYOQJ)](images/test-ratise-prog.png)
+
+![LEKP (QGRLDČ)](images/test-lekp-prog.png)
+
+![Standard 2000 (ĄŽERTY)](images/test-standard-prog.png)
+
+![Standard 1992 (ĄŽERTY)](images/test-ibm-prog.png)
+
+![Baltic-Numeric (QWERTY)](images/test-baltic-prog.png)
 
 
 ## Lotyniško teksto „Lorem Ipsum“ skaidymas:
