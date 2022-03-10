@@ -11,7 +11,7 @@ Turėti klaviatūroje 35 raides yra per daug, o kelti angliškas raides į treč
 
 Reikalingi minimalūs lietuviško raidyno bei rašybos patvarkymai-patobulinimai.
 
-Raidyno keitimai:
+__Raidyno keitimai:__
 
 - _C_ keičiama į dviraidį _TS_ (išskyrus įeinantį į dviraidį _CH_; skoliniuose _C_ galėtų būti skaitoma kaip ⟨ts⟩ arba naujoviškai kaip ⟨š⟩, pvz.: _citrina_ ⟨tsitrina⟩ arba ⟨šitrina⟩);
 - _Š_ keičiama į _C_;
@@ -19,7 +19,7 @@ Raidyno keitimai:
 - _Č_, _Š_ ir _Ž_ raidės išimamos iš lietuviško raidyno;
 - _Ł_ — pridedama papildoma raidė tarminei rašybai, skirta žymėti tarminį kietąjį _L_ prieš priešakinius balsius, pvz.: _saulałė_.
 
-Rašybos keitimai:
+__Rašybos keitimai:__
 
 - suminkštėjusio _t+i(j)_ rašymas dviraidžiu _či_ keičiamas į _ti_ (tai būtų kilminė rašyba, dviraidžio skaitymas esant reikalui galėtų priklausyti nuo tarmės), būnantis žodžio gale minkštasis _č_ rašomas dviraidžiu _tj_, pvz.: _matiau_ ⟨mačiau⟩, _ypatj_ ⟨ypač⟩;
 - suminkštėjusio _d+i(j)_ rašymas triraidžiu _dži_ keičiamas į _di_ (tai būtų kilminė rašyba, esant reikalui skaitymas galėtų priklausyti nuo tarmės), pvz.: _gaudiau_ ⟨gaudžiau⟩;
