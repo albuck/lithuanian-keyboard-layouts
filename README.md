@@ -240,6 +240,8 @@ __Pastabos.__ Vadinamieji išdėstymai _Lithuanian [Baltic](https://www.registru
 
 -----------------------------------------
 
+[Tolimesnis lietuviškos kompiuterio klaviatūros tobulinimas ir rašyba](lietuviskos-klaviaturos-tobulinimas.md)
+
 [Lietuviškas ergonomiškas klaviatūros išdėstymas Ratisė](https://albuck.github.io/Ratise-layout/)
 
 [Klaviatūros valdymo mygtukų ženkliukai ir jų pavadinimai](https://albuck.github.io/Ratise-layout/docs/klaviaturos-valdymo-mygtukai.html)
