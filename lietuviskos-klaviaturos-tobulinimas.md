@@ -1,5 +1,5 @@
 
-# Lietuviškos kompiuterio klaviatūros tobulinimas ir rašyba
+# Tolimesnis lietuviškos kompiuterio klaviatūros tobulinimas ir rašyba
 
 Kompiuterinės klaviatūros įėjo į mūsų gyvenimus ilgam, daugeliui žmonių tai yra svarbi darbo, mokymosi bei pramogos priemonė. Klaviatūros reikšmė ateityje tik didės. Klaviatūros patogumas yra svarbus darbo našumui bei sveikatai.
 
