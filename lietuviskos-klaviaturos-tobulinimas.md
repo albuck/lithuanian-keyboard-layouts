@@ -23,7 +23,7 @@ __Rašybos keitimai:__
 
 - suminkštėjusio _t+i(j)_ rašymas dviraidžiu _či_ keičiamas į _ti_ (tai būtų kilminė rašyba, dviraidžio skaitymas esant reikalui galėtų priklausyti nuo tarmės), būnantis žodžio gale minkštasis _č_ rašomas dviraidžiu _tj_, pvz.: _matiau_ ⟨mačiau⟩, _ypatj_ ⟨ypač⟩;
 - suminkštėjusio _d+i(j)_ rašymas triraidžiu _dži_ keičiamas į _di_ (tai būtų kilminė rašyba, esant reikalui skaitymas galėtų priklausyti nuo tarmės), pvz.: _gaudiau_ ⟨gaudžiau⟩;
-- kietasis _č_ keičiamas į _tc_ ⟨tš⟩ arba tiesiog į _c_ ⟨š⟩ (kas dažnai ir yra žodžio tarimo variantu, pvz.: _ginšas_);
+- kietasis _č_ keičiamas į _tc_ ⟨tš⟩ arba tiesiog į _c_ ⟨š⟩ (kas dažnai ir yra žodžio tarimo variantu, pvz.: _gincas_ ⟨ginčas/ginšas⟩);
 
 Taip naujasis lietuviškas raidynas turėtų 30 raidžių, bei dvi papildomas užsienines raides ir vieną tarminę (kietąjį ł dedamą į trečiąjį klaviatūrų išdėstymų lygį):
 
