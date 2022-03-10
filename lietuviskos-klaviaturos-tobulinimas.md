@@ -23,11 +23,13 @@ __Rašybos keitimai:__
 
 - suminkštėjusio _t+i(j)_ rašymas dviraidžiu _či_ keičiamas į _ti_ (tai būtų kilminė rašyba, dviraidžio skaitymas esant reikalui galėtų priklausyti nuo tarmės), būnantis žodžio gale minkštasis _č_ rašomas dviraidžiu _tj_, pvz.: _matiau_ ⟨mačiau⟩, _ypatj_ ⟨ypač⟩;
 - suminkštėjusio _d+i(j)_ rašymas triraidžiu _dži_ keičiamas į _di_ (tai būtų kilminė rašyba, esant reikalui skaitymas galėtų priklausyti nuo tarmės), pvz.: _gaudiau_ ⟨gaudžiau⟩;
-- kietasis _č_ keičiamas į _tc_ ⟨tš⟩ arba tiesiog į _c_ ⟨š⟩ (kas dažnai ir yra žodžio tarimo variantu, pvz.: _gincas_ ⟨ginčas/ginšas⟩);
+- _č_ nekilęs iš suminkštėjusio _t_ keičiamas į _tc_ ⟨tš⟩ arba tiesiog į _c_ ⟨š⟩ (kas dažnai ir yra žodžio tarimo variantu, pvz.: _gincas_ ⟨ginčas/ginšas⟩);
 
 Taip naujasis lietuviškas raidynas turėtų 30 raidžių, bei dvi papildomas užsienines raides ir vieną tarminę (kietąjį _ł_ dedamą į trečiąjį klaviatūrų išdėstymų lygį):
 
 _A Ą B C D E Ę Ė F G H I Į Y J K L (Ł) M N O P (Q) R S T U Ų Ū V (W) X Z_.
+
+Nauraštinio teksto pavyzdys: [Brisiaus Galas, Jonas Biliūnas](brisiaus-galas-nauractiu.txt) 
 
 __Pastabos.__ Raidžių _C_ ir _X_ skaitymas kaip ⟨š⟩ ir ⟨ž⟩ nėra koks naujoviškas dalykas, toks šių raidžių skaitymas esti kai kuriose kalbose. Kiti tokio rašybos patvarkymo privalumai: šiek tiek sumažėja raidžių skaičius tame pačiame tekste; pagreitėja rašymas ranka (papildomų ženklelių dėliojimas ant raidžių lėtina rašymą); „šveplas“ rašymo būdas išnyksta kaip reiškinys; pasidaro nuoseklesnė ir aiškesnė kaitomų žodžių šaknų rašyba; naujoji rašyba yra draugiškesnė lietuvių kalbos tarmėms neiškeliant vienos kurios. Nesant galimybei ir esant būtinybei užrašyti ypatingąsias lietuviškas balses galima dviraidžiais: _ą_ — _ah_, _ę_ — _eh_, _ė_ — _ee_, _į_ — _ih_, _ų_ — _uh_, _ū_ — _uu_, pvz.: _kah_ ⟨ką⟩, _leelee_ ⟨lėlė⟩, _buveh_ ⟨buvę⟩, _jih_ ⟨jį⟩, _juura_ ⟨jūra⟩, _juh_ ⟨jų⟩.
 
