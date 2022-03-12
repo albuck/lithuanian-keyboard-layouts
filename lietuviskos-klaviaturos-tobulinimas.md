@@ -35,4 +35,4 @@ __Pastabos.__ Raidžių [C](https://en.wikipedia.org/wiki/C) ir [X](https://en.w
 
 -----------------------------------------
 
-+ [Į pradžią](../README.md)
++ [Į pradžią](README.md)
