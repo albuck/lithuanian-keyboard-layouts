@@ -13,7 +13,7 @@ Reikalingi minimalūs lietuviško raidyno bei rašybos patvarkymai-patobulinimai
 
 __Raidyno keitimai:__
 
-- _C_ keičiama į dviraidį _TS_, išskyrus įeinantį į dviraidį _CH_; skoliniuose _C_ galėtų būti skaitoma kaip ⟨ts⟩ arba naujoviškai kaip ⟨š⟩, arba keičiama į _K_ (atsižvelgiant į garso žodyje kilmę), pvz.: _citrina_ ⟨tsitrina/šitrina⟩, _stoikas — stoikizmas (stoicizmas)_;
+- _C_ keičiama į dviraidį _TS_, išskyrus įeinantį į dviraidį _CH_; skoliniuose _C_ galėtų būti skaitoma kaip ⟨ts⟩ arba naujoviškai kaip ⟨š⟩, arba keičiama į _K_ (atsižvelgiant į garso žodyje kilmę), pvz.: _citrina_ ⟨tsitrina/šitrina⟩, _stoikas — stoikizmas (stoicizmas)_, _kentauras_ (centauras);
 - _Š_ keičiama į _C_;
 - _Ž_ keičiama į _X_;
 - _Č_, _Š_ ir _Ž_ raidės išimamos iš lietuviško raidyno;
