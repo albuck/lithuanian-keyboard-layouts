@@ -9,7 +9,7 @@ Manau, kad lolimesnis lietuviškos kompiuterio klaviatūros išdėstymo tobulini
 
 Turėti klaviatūroje 35 raides yra per daug, o kelti angliškas raides į trečiąjį lygį yra nepriimtina dėl skaitmeninės įrangos vartojimo ypatumų bei anglų kalbos įsigalėjimo kaip papildomos kalbos. Taigi, išeitis būtų mažinti raidžių kiekį, įtraukiant angliškas raides į lietuvišką raidyną vietoje kai kurių lietuviškų raidžių bei darant kelis kitus rašybos patobulinimus.
 
-Minimalūs lietuviško raidyno bei rašybos patvarkymai-patobulinimai.
+Reikalingi nedideli lietuviško raidyno bei rašybos patvarkymai-patobulinimai.
 
 __Raidyno keitimai:__
 
@@ -29,7 +29,7 @@ Taip naujasis lietuviškas raidynas turėtų 30 raidžių, bei dvi papildomas u�
 
 _A Ą B C D E Ę Ė F G H I Į Y J K L (Ł) M N O P (Q) R S T U Ų Ū V (W) X Z_.
 
-Nauraštinio teksto pavyzdys: [Brisiaus Galas, Jonas Biliūnas](brisiaus-galas-nauractiu.txt)
+- Nauraštinio teksto pavyzdys: [Brisiaus Galas, Jonas Biliūnas](brisiaus-galas-nauractiu.txt)
 
 __Galimi papildomi raidyno keitimai:__
 
@@ -41,9 +41,9 @@ Naujojo raidyno variantas su visomis lietuviškomis raidėmis (viso 31 raidė, i
 
 _A Ą B C D E Ę Ė F G H I Į Y J K L (Ł) M N O P Q R S T U Ų V W X Z_.
 
-Nauraštinio teksto pavyzdys su visais raidyno keitimais: [Brisiaus Galas, Jonas Biliūnas](brisiaus-galas-nauractiu-2.txt)
+- Nauraštinio teksto pavyzdys su visais raidyno keitimais: [Brisiaus Galas, Jonas Biliūnas](brisiaus-galas-nauractiu-2.txt)
 
-Pastarasis raidyno keitimas jau leidžia turėti gerus lietuviškus klaviatūros išdėstymus su skaičių eile viršuje.
+- Pastarasis raidyno keitimas jau leidžia turėti gerus lietuviškus klaviatūros išdėstymus su skaičių eile viršuje.
 
 
 __Pastabos.__ Raidžių [C](https://en.wikipedia.org/wiki/C) ir [X](https://en.wikipedia.org/wiki/X) skaitymas kaip ⟨š⟩ ir ⟨ž⟩ nėra koks naujoviškas negirdėtas dalykas, toks šių raidžių skaitymas esti kai kuriose kalbose. _W_ raidė garsui ⟨v⟩ žymeti buvo naudojama senesniame lietuviškame rašte. Raidė _V_ yra kilusi iš _U_ raidės atmainos, ir nors jos skaitymas kaip ⟨ū⟩ yra kiek neįprastas dabartiniais laikais, istoriškai jis nėra nepagrįstas. Suminkštėjusio _T_ ⟨či⟩ kilminis rašymas kaip _ti_ irgi nėra naujas dalykas, taip rašė Vydūnas, iš esmės ⟨či⟩ lietuvių kalboje yra ⟨ti⟩ tarminio tarimo atmaina. Kiti tokio rašybos patvarkymo privalumai: šiek tiek sumažėja raidžių skaičius tame pačiame tekste; pagreitėja rašymas ranka (papildomų ženklelių dėliojimas ant raidžių lėtina rašymą); „šveplas“ rašymo būdas išnyksta kaip reiškinys; pasidaro nuoseklesnė ir aiškesnė kaitomų žodžių šaknų rašyba; naujoji rašyba yra draugiškesnė lietuvių kalbos tarmėms neiškeliant vienos kurios. Nesant galimybei ir esant būtinybei užrašyti ypatingąsias lietuviškas balses galima dviraidžiais: _ą_ — _ah_, _ę_ — _eh_, _ė_ — _ee_, _į_ — _ih_, _ų_ — _uh_, _ū_ — _uu_, pvz.: _kah_ ⟨ką⟩, _buveh_ ⟨buvę⟩, _leelee_ ⟨lėlė⟩, _jih_ ⟨jį⟩, _juh_ ⟨jų⟩, _juura_ ⟨jūra⟩.
