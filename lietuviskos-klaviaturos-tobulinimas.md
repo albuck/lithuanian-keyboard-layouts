@@ -13,10 +13,13 @@ Reikalingi nedideli lietuviško raidyno bei rašybos patvarkymai-patobulinimai.
 
 __Raidyno keitimai:__
 
-- _C_ keičiama į dviraidį _TS_, išskyrus įeinantį į dviraidį _CH_; skoliniuose _C_ galėtų būti skaitoma kaip ⟨ts⟩ arba naujoviškai kaip ⟨š⟩, arba keičiama į _K_ (atsižvelgiant į garso žodyje kilmę), pvz.: _citrina_ ⟨tsitrina/šitrina⟩, _stoikas — stoikizmas (stoicizmas)_, _kentauras_ (centauras);
+- dviraidis _CH_ keičiamas į _Q_;
+-  _V_ į _W_;
+-  _Ū_ į _V_;
+- _C_ keičiama į dviraidį _TS_; skoliniuose _C_ galėtų būti skaitoma kaip ⟨ts⟩ arba naujoviškai kaip ⟨š⟩, arba keičiama į _K_ (atsižvelgiant į garso žodyje kilmę), pvz.: _citrina_ ⟨tsitrina/šitrina⟩, _stoikas — stoikizmas (stoicizmas)_, _kentauras_ (centauras);
 - _Š_ keičiama į _C_;
 - _Ž_ keičiama į _X_;
-- _Č_, _Š_ ir _Ž_ raidės išimamos iš lietuviško raidyno;
+- _Č_, _Š_, _Ž_ ir _Ū_ raidės išimamos iš lietuviško raidyno;
 - _Ł_ — pridedama papildoma raidė tarminei rašybai, skirta žymėti tarminį kietąjį _L_ prieš priešakinius balsius, pvz.: _saulałė_.
 
 __Rašybos keitimai:__
@@ -25,26 +28,11 @@ __Rašybos keitimai:__
 - suminkštėjusio _d+i(j)_ rašymas triraidžiu _dži_ keičiamas į _di_ (tai būtų kilminė rašyba, esant reikalui skaitymas galėtų priklausyti nuo tarmės), pvz.: _gaudiau_ ⟨gaudžiau⟩;
 - _č_ nekilęs iš suminkštėjusio _t_ keičiamas į _tc_ ⟨tš⟩ arba tiesiog į _c_ ⟨š⟩ (kas dažnai ir yra žodžio tarimo variantu, pvz.: _gincas_ ⟨ginčas/ginšas⟩);
 
-Taip naujasis lietuviškas raidynas turėtų 30 raidžių, bei dvi papildomas užsienines raides (viso 32 raidės) ir vieną tarminę (kietąjį _ł_ dedamą į trečiąjį klaviatūrų išdėstymų lygį):
-
-_A Ą B C D E Ę Ė F G H I Į Y J K L (Ł) M N O P (Q) R S T U Ų Ū V (W) X Z_.
-
-- Nauraštinio teksto pavyzdys: [Brisiaus Galas, Jonas Biliūnas](brisiaus-galas-nauractiu.txt)
-
-__Galimi papildomi raidyno keitimai:__
-
-- dviraidis _CH_ keičiamas į _Q_;
--  _V_ į _W_;
--  _Ū_ į _V_.
-
-Naujojo raidyno variantas su visomis lietuviškomis raidėmis (viso 31 raidė, ir viena papildoma tarminė raidė):
+Taip naujasis lietuviškas raidynas turėtų 31 raidę, bei vieną tarminę (kietąjį _ł_ dedamą į trečiąjį klaviatūrų išdėstymų lygį):
 
 _A Ą B C D E Ę Ė F G H I Į Y J K L (Ł) M N O P Q R S T U Ų V W X Z_.
 
-- Nauraštinio teksto pavyzdys su visais raidyno keitimais: [Brisiaus Galas, Jonas Biliūnas](brisiaus-galas-nauractiu-2.txt)
-
-- Pastarasis raidyno keitimas jau leidžia turėti gerus lietuviškus klaviatūros išdėstymus su skaičių eile viršuje.
-
+- Nauraštinio teksto pavyzdys: [Brisiaus Galas, Jonas Biliūnas](brisiaus-galas-nauractiu.txt)
 
 __Pastabos.__ Raidžių [C](https://en.wikipedia.org/wiki/C) ir [X](https://en.wikipedia.org/wiki/X) skaitymas kaip ⟨š⟩ ir ⟨ž⟩ nėra koks naujoviškas negirdėtas dalykas, toks šių raidžių skaitymas esti kai kuriose kalbose. _W_ raidė garsui ⟨v⟩ žymeti buvo naudojama senesniame lietuviškame rašte. Raidė _V_ yra kilusi iš _U_ raidės atmainos, ir nors jos skaitymas kaip ⟨ū⟩ yra kiek neįprastas dabartiniais laikais, istoriškai jis nėra nepagrįstas. Suminkštėjusio _T_ ⟨či⟩ kilminis rašymas kaip _ti_ irgi nėra naujas dalykas, taip rašė Vydūnas, iš esmės ⟨či⟩ lietuvių kalboje yra ⟨ti⟩ tarminio tarimo atmaina. Kiti tokio rašybos patvarkymo privalumai: šiek tiek sumažėja raidžių skaičius tame pačiame tekste; pagreitėja rašymas ranka (papildomų ženklelių dėliojimas ant raidžių lėtina rašymą); „šveplas“ rašymo būdas išnyksta kaip reiškinys; pasidaro nuoseklesnė ir aiškesnė kaitomų žodžių šaknų rašyba; naujoji rašyba yra draugiškesnė lietuvių kalbos tarmėms neiškeliant vienos kurios. Nesant galimybei ir esant būtinybei užrašyti ypatingąsias lietuviškas balses galima dviraidžiais: _ą_ — _ah_, _ę_ — _eh_, _ė_ — _ee_, _į_ — _ih_, _ų_ — _uh_, _ū_ — _uu_, pvz.: _kah_ ⟨ką⟩, _buveh_ ⟨buvę⟩, _leelee_ ⟨lėlė⟩, _jih_ ⟨jį⟩, _juh_ ⟨jų⟩, _juura_ ⟨jūra⟩.
 
