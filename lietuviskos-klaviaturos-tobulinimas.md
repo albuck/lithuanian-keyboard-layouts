@@ -43,6 +43,8 @@ _A Ą B C D E Ę Ė F G H I Į Y J K L (Ł) M N O P Q R S T U Ų V W X Z_.
 
 Nauraštinio teksto pavyzdys su visais raidyno keitimais: [Brisiaus Galas, Jonas Biliūnas](brisiaus-galas-nauractiu-2.txt)
 
+Šis raidyno keitimas jau leidžia turėti gerus lietuviškus klaviatūros išdėstymus su skaičių eile viršuje.
+
 
 __Pastabos.__ Raidžių [C](https://en.wikipedia.org/wiki/C) ir [X](https://en.wikipedia.org/wiki/X) skaitymas kaip ⟨š⟩ ir ⟨ž⟩ nėra koks naujoviškas negirdėtas dalykas, toks šių raidžių skaitymas esti kai kuriose kalbose. Kiti tokio rašybos patvarkymo privalumai: šiek tiek sumažėja raidžių skaičius tame pačiame tekste; pagreitėja rašymas ranka (papildomų ženklelių dėliojimas ant raidžių lėtina rašymą); „šveplas“ rašymo būdas išnyksta kaip reiškinys; pasidaro nuoseklesnė ir aiškesnė kaitomų žodžių šaknų rašyba; naujoji rašyba yra draugiškesnė lietuvių kalbos tarmėms neiškeliant vienos kurios. Nesant galimybei ir esant būtinybei užrašyti ypatingąsias lietuviškas balses galima dviraidžiais: _ą_ — _ah_, _ę_ — _eh_, _ė_ — _ee_, _į_ — _ih_, _ų_ — _uh_, _ū_ — _uu_, pvz.: _kah_ ⟨ką⟩, _buveh_ ⟨buvę⟩, _leelee_ ⟨lėlė⟩, _jih_ ⟨jį⟩, _juh_ ⟨jų⟩, _juura_ ⟨jūra⟩.
 
