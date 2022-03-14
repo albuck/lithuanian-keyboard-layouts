@@ -9,7 +9,7 @@ Manau, kad lolimesnis lietuviškos kompiuterio klaviatūros išdėstymo tobulini
 
 Turėti klaviatūroje 35 raides yra per daug, o kelti angliškas raides į trečiąjį lygį yra nepriimtina dėl skaitmeninės įrangos vartojimo ypatumų bei anglų kalbos įsigalėjimo kaip papildomos kalbos. Taigi, išeitis būtų mažinti raidžių kiekį, įtraukiant angliškas raides į lietuvišką raidyną vietoje kai kurių lietuviškų raidžių bei darant kelis kitus rašybos patobulinimus.
 
-Reikalingi minimalūs lietuviško raidyno bei rašybos patvarkymai-patobulinimai.
+Minimalūs lietuviško raidyno bei rašybos patvarkymai-patobulinimai.
 
 __Raidyno keitimai:__
 
@@ -25,13 +25,26 @@ __Rašybos keitimai:__
 - suminkštėjusio _d+i(j)_ rašymas triraidžiu _dži_ keičiamas į _di_ (tai būtų kilminė rašyba, esant reikalui skaitymas galėtų priklausyti nuo tarmės), pvz.: _gaudiau_ ⟨gaudžiau⟩;
 - _č_ nekilęs iš suminkštėjusio _t_ keičiamas į _tc_ ⟨tš⟩ arba tiesiog į _c_ ⟨š⟩ (kas dažnai ir yra žodžio tarimo variantu, pvz.: _gincas_ ⟨ginčas/ginšas⟩);
 
-Taip naujasis lietuviškas raidynas turėtų 30 raidžių, bei dvi papildomas užsienines raides ir vieną tarminę (kietąjį _ł_ dedamą į trečiąjį klaviatūrų išdėstymų lygį):
+Taip naujasis lietuviškas raidynas turėtų 30 raidžių, bei dvi papildomas užsienines raides (viso 32 raidės) ir vieną tarminę (kietąjį _ł_ dedamą į trečiąjį klaviatūrų išdėstymų lygį):
 
 _A Ą B C D E Ę Ė F G H I Į Y J K L (Ł) M N O P (Q) R S T U Ų Ū V (W) X Z_.
 
-Nauraštinio teksto pavyzdys: [Brisiaus Galas, Jonas Biliūnas](brisiaus-galas-nauractiu.txt) 
+Nauraštinio teksto pavyzdys: [Brisiaus Galas, Jonas Biliūnas](brisiaus-galas-nauractiu.txt)
 
-__Pastabos.__ Raidžių [C](https://en.wikipedia.org/wiki/C) ir [X](https://en.wikipedia.org/wiki/X) skaitymas kaip ⟨š⟩ ir ⟨ž⟩ nėra koks naujoviškas negirdėtas dalykas, toks šių raidžių skaitymas esti kai kuriose kalbose. Kiti tokio rašybos patvarkymo privalumai: šiek tiek sumažėja raidžių skaičius tame pačiame tekste; pagreitėja rašymas ranka (papildomų ženklelių dėliojimas ant raidžių lėtina rašymą); „šveplas“ rašymo būdas išnyksta kaip reiškinys; pasidaro nuoseklesnė ir aiškesnė kaitomų žodžių šaknų rašyba; naujoji rašyba yra draugiškesnė lietuvių kalbos tarmėms neiškeliant vienos kurios. Nesant galimybei ir esant būtinybei užrašyti ypatingąsias lietuviškas balses galima dviraidžiais: _ą_ — _ah_, _ę_ — _eh_, _ė_ — _ee_, _į_ — _ih_, _ų_ — _uh_, _ū_ — _uu_, pvz.: _kah_ ⟨ką⟩, _buveh_ ⟨buvę⟩, _leelee_ ⟨lėlė⟩, _jih_ ⟨jį⟩, _juh_ ⟨jų⟩, _juura_ ⟨jūra⟩. Dar galėtų būti svarstomi tolimesni raidyno keitimai: dviraidžio _CH_ keitimas į _Q_, _V_ į _W_ ir _Ū_ į _V_.
+__Galimi papildomi raidyno keitimai:__
+
+- dviraidis _CH_ keičiamas į _Q_;
+-  _V_ į _W_;
+-  _Ū_ į _V_.
+
+Naujojo raidyno variantas su visomis lietuviškomis raidėmis (viso 31 raidė, ir viena papildoma tarminė raidė):
+
+_A Ą B C D E Ę Ė F G H I Į Y J K L (Ł) M N O P Q R S T U Ų V W X Z_.
+
+Nauraštinio teksto pavyzdys su visais raidyno keitimais: [Brisiaus Galas, Jonas Biliūnas](brisiaus-galas-nauractiu-2.txt)
+
+
+__Pastabos.__ Raidžių [C](https://en.wikipedia.org/wiki/C) ir [X](https://en.wikipedia.org/wiki/X) skaitymas kaip ⟨š⟩ ir ⟨ž⟩ nėra koks naujoviškas negirdėtas dalykas, toks šių raidžių skaitymas esti kai kuriose kalbose. Kiti tokio rašybos patvarkymo privalumai: šiek tiek sumažėja raidžių skaičius tame pačiame tekste; pagreitėja rašymas ranka (papildomų ženklelių dėliojimas ant raidžių lėtina rašymą); „šveplas“ rašymo būdas išnyksta kaip reiškinys; pasidaro nuoseklesnė ir aiškesnė kaitomų žodžių šaknų rašyba; naujoji rašyba yra draugiškesnė lietuvių kalbos tarmėms neiškeliant vienos kurios. Nesant galimybei ir esant būtinybei užrašyti ypatingąsias lietuviškas balses galima dviraidžiais: _ą_ — _ah_, _ę_ — _eh_, _ė_ — _ee_, _į_ — _ih_, _ų_ — _uh_, _ū_ — _uu_, pvz.: _kah_ ⟨ką⟩, _buveh_ ⟨buvę⟩, _leelee_ ⟨lėlė⟩, _jih_ ⟨jį⟩, _juh_ ⟨jų⟩, _juura_ ⟨jūra⟩.
 
 -----------------------------------------
 
