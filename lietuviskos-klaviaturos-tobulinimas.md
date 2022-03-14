@@ -50,7 +50,7 @@ Senuoju raštu:
    4. QWERTY Lithuanian (ISO) — 45.59
    5. QWERTY Baltic-Numeric (ISO) — 44.21
 
-Anglų kalbos testuose lietuviški išdėstymai pagrįsti nauraščiu taip pat pasirodo geriau: http://patorjk.com/keyboard-layout-analyzer/#/load/L8nVsvWl
+[Anglų kalbos testuose](http://patorjk.com/keyboard-layout-analyzer/#/load/L8nVsvWl) lietuviški išdėstymai pagrįsti nauraščiu taip pat pasirodo geriau. 
 
 __Pastabos.__ Raidžių [C](https://en.wikipedia.org/wiki/C) ir [X](https://en.wikipedia.org/wiki/X) skaitymas kaip ⟨š⟩ ir ⟨ž⟩ nėra koks naujoviškas negirdėtas dalykas, toks šių raidžių skaitymas esti kai kuriose kalbose. _W_ raidė garsui ⟨v⟩ žymėti buvo naudojama senesniame lietuviškame rašte. Raidė _V_ yra kilusi iš _U_ raidės atmainos, ir nors jos skaitymas kaip ⟨ū⟩ yra kiek neįprastas dabartiniais laikais, istoriškai jis nėra nepagrįstas. Suminkštėjusių _D_ ir _T_ kilminis rašymas kaip _di_ ir _ti_ irgi nėra naujas dalykas, taip rašė Vydūnas, iš esmės ⟨dži⟩ ir ⟨či⟩ lietuvių kalboje yra suminkštėjusių ⟨di⟩ ir ⟨ti⟩ tarminio tarimo variantai. Kiti tokio rašybos patvarkymo privalumai: šiek tiek sumažėja raidžių skaičius tame pačiame tekste; pagreitėja rašymas ranka (papildomų ženklelių dėliojimas ant raidžių lėtina rašymą); „šveplas“ rašymo būdas išnyksta kaip reiškinys; pasidaro nuoseklesnė ir aiškesnė kaitomų žodžių šaknų rašyba; naujoji rašyba yra draugiškesnė lietuvių kalbos tarmėms neiškeliant vienos kurios. Nesant galimybei ir esant būtinybei užrašyti ypatingąsias lietuviškas balses galima dviraidžiais: _ą_ — _ah_, _ę_ — _eh_, _ė_ — _ee_, _į_ — _ih_, _ų_ — _uh_, pvz.: _kah_ ⟨ką⟩, _buveh_ ⟨buvę⟩, _leelee_ ⟨lėlė⟩, _jih_ ⟨jį⟩, _juh_ ⟨jų⟩. Toks raidyno keitimas yra greitai perprantamas ir nereikalauja iš naujo mokytis skaityti.
 
