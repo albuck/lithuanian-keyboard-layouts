@@ -24,7 +24,7 @@ __Raidyno keitimai:__
 
 __Rašybos keitimai:__
 
-- suminkštėjusio _t+i(j)_ rašymas dviraidžiu _či_ keičiamas į _ti_ (tai būtų kilminė rašyba, dviraidžio skaitymas esant reikalui galėtų priklausyti nuo tarmės), būnantis žodžio gale minkštasis _č_ rašomas dviraidžiu _tj_, pvz.: _matiau_ ⟨mačiau⟩, _ypatj_ ⟨ypač⟩;
+- suminkštėjusio _t+i(j)_ rašymas dviraidžiu _či_ keičiamas į _ti_ (tai būtų kilminė rašyba, dviraidžio skaitymas esant reikalui galėtų priklausyti nuo tarmės), būnantis žodžio gale minkštasis _č_ rašomas dviraidžiu _tj_, pvz.: _matiau_ ⟨mačiau⟩, _Butkewitius_ ⟨Butkevičius⟩, _ypatj_ ⟨ypač⟩;
 - suminkštėjusio _d+i(j)_ rašymas triraidžiu _dži_ keičiamas į _di_ (tai būtų kilminė rašyba, esant reikalui skaitymas galėtų priklausyti nuo tarmės), pvz.: _gaudiau_ ⟨gaudžiau⟩;
 - _č_ nekilęs iš suminkštėjusio _t_ keičiamas į _tc_ ⟨tš⟩ arba tiesiog į _c_ ⟨š⟩ (kas kartais yra žodžio tarimo variantu, pvz.: _gincas_ ⟨ginčas/ginšas⟩);
 
