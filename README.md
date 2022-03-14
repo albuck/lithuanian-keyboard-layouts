@@ -242,7 +242,7 @@ __Pastabos.__ Vadinamieji išdėstymai _Lithuanian [Baltic](https://www.registru
 
 [Pagrindinių lietuviškų klaviatūros išdėstymų palyginamosios statistinės lentelės](lt-isdestymu-statistines-lenteles.md)
 
-[Tolimesnis lietuviškos kompiuterio klaviatūros tobulinimas ir nauraštis](lietuviskos-klaviaturos-tobulinimas.md)
+[Tolimesnis lietuviškos klaviatūros tobulinimas ir nauraštis](lietuviskos-klaviaturos-tobulinimas.md)
 
 [Lietuviškas ergonomiškas klaviatūros išdėstymas Ratisė](https://albuck.github.io/Ratise-layout/)
 
