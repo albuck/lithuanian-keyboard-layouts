@@ -170,7 +170,13 @@ _Žemiau pateikiami paveikslėliai su išdėstymų mygtukų naudojimo dažnumu s
    4. AŽERTY IBM, LT Standard 1992 (ISO) — 40.79
    5. AŽERTY LT Standard 2000 (ISO) — 38.98
 
-  __Pastaba:__ kai kuriuose papildomai bandytuose angliškuose tekstuose _LEKP_ pasirodo kartais kiek geriau nei _Ratisė_.
++ [Keyboard Layout Analyzer: Quentin Tarantino “Pulp Fiction”](http://patorjk.com/keyboard-layout-analyzer/#/load/Z5rdc8rq)
+
+   1. __ŪĖYOQJ Ratise (ISO) — 54.22__
+   2. QGRLDČ LEKP (ISO) — 51.37
+   3. QWERTY Baltic-Numeric (ISO) — 45.54
+   4. AŽERTY IBM, LT Standard 1992 (ISO) — 41.78
+   5. AŽERTY LT Standard 2000 (ISO) — 39.91
   
   _Žemiau pateikiami paveikslėliai su išdėstymų mygtukų naudojimo dažnumu spausdinant anglišką tekstą. Ryškesnė spalva rodo didesnį mygtuko naudojimo dažnumą._
 
