@@ -89,6 +89,14 @@ __Pastabos.__ Patikroje septintas viršutinis mygtukas (QWERTY skaičių eilėje
    4. QWERTY Baltic-Numeric (ISO) — 45.20
    5. AŽERTY LT Standard 2000 (ISO) — 45.17
 
++ [Keyboard Layout Analyzer: Lietuvos Respublikos Konstitucija](http://patorjk.com/keyboard-layout-analyzer/#/load/C5CtLtPc)
+
+   1. __ŪĖYOQJ Ratise (ISO) — 66.12__
+   2. QGRLDČ LEKP (ISO) — 57.68
+   3. AŽERTY LT Standard 2000 (ISO) — 42.78
+   4. AŽERTY IBM, LT Standard 1992 (ISO) — 42.57
+   5. QWERTY Baltic-Numeric (ISO) — 41.21
+
 + [Keyboard Layout Analyzer: Vikipedijos straipsnis „Mokykla“](http://patorjk.com/keyboard-layout-analyzer/#/load/ZxzZwNSc) (pataisyti ilgieji brūkšniai bei keletas klaidų)
 
    1. __ŪĖYOQJ Ratise (ISO) — 65.16__
