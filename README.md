@@ -31,6 +31,7 @@ __Pastabos.__ Kampiniuose skliaustuose duoti skaičiai yra iš [stevep99 puslapi
 
 + __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „išdėstymo įvertinimo taškai“
 
+
 ## Lietuviško teksto skaidymas:
 
 + [Keyboard Layout Analyzer: Lietuviškų dažnų žodžių šimtukas](http://patorjk.com/keyboard-layout-analyzer/#/load/PsJMFvbs)
@@ -190,6 +191,7 @@ _Žemiau pateikiami paveikslėliai su išdėstymų mygtukų naudojimo dažnumu s
 
 ![Baltic-Numeric (QWERTY)](images/test-baltic-eng.png)
 
+
 ## Programavimo kalbų teksto skaidymas:
 
 + [Keyboard Layout Analyzer: ‘Programming Punctuation Torture Test’](http://patorjk.com/keyboard-layout-analyzer/#/load/V2Qmj2hB)
@@ -230,6 +232,7 @@ _Žemiau pateikiami paveikslėliai su išdėstymų mygtukų naudojimo dažnumu s
    3. QWERTY Baltic-Numeric (ISO) — 48.67 ⟨40.96⟩
    4. AŽERTY IBM, LT Standard 1992 (ISO) — 46.36 ⟨40.80⟩
    5. AŽERTY LT Standard 2000 (ISO) — 46.24 ⟨40.02⟩
+
 
 ## Išvados:
 
