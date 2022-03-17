@@ -262,9 +262,9 @@ __Pastabos.__ Vadinamieji išdėstymai _Lithuanian [Baltic](https://www.registru
 [Tolimesnis lietuviškos klaviatūros tobulinimas ir nauraštis](lietuviskos-klaviaturos-tobulinimas.md)
 
 [Lietuviškas ergonomiškas klaviatūros išdėstymas Ratisė](https://albuck.github.io/Ratise-layout/)
- 
+
 [Lietuviškų klaviatūros išdėstymų našumo palyginimas](https://albuck.github.io/Ratise-layout/docs/lt-isdestymu-palyginimas.html)
-    
+
 [Klaviatūros valdymo mygtukų ženkliukai ir jų pavadinimai](https://albuck.github.io/Ratise-layout/docs/klaviaturos-valdymo-mygtukai.html)
-    
+
 [Spausdinimo visais pirštais tvarka („Aklasis“ teksto rinkimas)](https://albuck.github.io/Ratise-layout/docs/spausdinimo-visais-pirstais-tvarka.html)
