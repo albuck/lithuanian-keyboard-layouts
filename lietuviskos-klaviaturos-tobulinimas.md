@@ -38,4 +38,6 @@ __Pastabos.__ Raidžių [C](https://en.wikipedia.org/wiki/C) ir [X](https://en.w
 
 -----------------------------------------
 
+![Ratisė test](images/ratisė.svg)
+
 + [Į pradžią](README.md)
