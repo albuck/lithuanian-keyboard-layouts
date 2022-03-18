@@ -44,7 +44,7 @@ __Pastabos.__ Kampiniuose skliaustuose duoti skaičiai yra iš [stevep99 puslapi
 
 ## Lietuviško teksto skaidymas:
 
-+ Keyboard Layout Analyzer — Lietuviškų dažnų žodžių šimtukas: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/QBq4kcpG), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/KX2tTgnK)
++ Keyboard Layout Analyzer — _Lietuviškų dažnų žodžių šimtukas_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/QBq4kcpG), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/KX2tTgnK)
 
    1. __ŪĖYOQJ Ratise (ISO) — 76.16 ⟨78.00⟩__
    2. ĖOŪYHJ Remigijaus (ISO) — 73.40 ⟨72.25⟩
@@ -57,7 +57,7 @@ __Pastabos.__ Kampiniuose skliaustuose duoti skaičiai yra iš [stevep99 puslapi
    9. QWERTY Lithuanian Programmers (ISO) — 56.87 ⟨54.84⟩
    10. QWERTY Baltic-Numeric Programmers (ISO) — 55.22 ⟨53.45⟩
 
-+ Keyboard Layout Analyzer — Paprasti rašiniai: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/ND8rzscT), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/4ThLZ1ND)
++ Keyboard Layout Analyzer — _Paprasti rašiniai_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/ND8rzscT), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/4ThLZ1ND)
 
    1. __ŪĖYOQJ Ratise (ISO) — 71.55 ⟨69.64⟩__
    2. ĖOŪYHJ Remigijaus (ISO) — 66.98 ⟨66.37⟩
@@ -70,7 +70,7 @@ __Pastabos.__ Kampiniuose skliaustuose duoti skaičiai yra iš [stevep99 puslapi
    9. FZVPUJ (ISO) — 48.86 ⟨36.00⟩
    10. QWERTY Baltic-Numeric Programmers (ISO) — 47.09 ⟨43.97⟩
 
-+ Keyboard Layout Analyzer — Jonas Biliūnas „Brisiaus galas“: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/BPkpNQVc), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/KrDXfvQ5)
++ Keyboard Layout Analyzer — _Jonas Biliūnas „Brisiaus galas“_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/BPkpNQVc), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/KrDXfvQ5)
 
    1. __ŪĖYOQJ Ratise (ISO) — 69.24 ⟨67.30⟩__
    2. ĖOŪYHJ Remigijaus (ISO) — 64.31 ⟨65.00⟩
@@ -83,7 +83,7 @@ __Pastabos.__ Kampiniuose skliaustuose duoti skaičiai yra iš [stevep99 puslapi
    9. QWERTY Lithuanian Programmers (ISO) — 47.16 ⟨43.82⟩
    10. QWERTY Baltic-Numeric Programmers (ISO) — 45.13 ⟨43.10⟩
 
-+ Keyboard Layout Analyzer — Vincas Krėvė „Skerdžius“: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/FFdGsbpM), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/p2tZ1mRq)
++ Keyboard Layout Analyzer — _Vincas Krėvė „Skerdžius“_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/FFdGsbpM), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/p2tZ1mRq)
 
    1. __ŪĖYOQJ Ratise (ISO) — 68.20 ⟨66.64⟩__
    2. ĖOŪYHJ Remigijaus (ISO) — 63.09 ⟨62.98⟩
@@ -96,7 +96,7 @@ __Pastabos.__ Kampiniuose skliaustuose duoti skaičiai yra iš [stevep99 puslapi
    9. FZVPUJ (ISO) — 44.88 ⟨32.39⟩
    10. QWERTY Baltic-Numeric Programmers (ISO) — 44.56 ⟨41.44⟩
 
-+ Keyboard Layout Analyzer — Lietuvių padavimai: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/4BhCgz5q), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/RZkprvD2)
++ Keyboard Layout Analyzer — _Lietuvių padavimai_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/4BhCgz5q), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/RZkprvD2)
 
    1. __ŪĖYOQJ Ratise (ISO) — 67.72 ⟨64.49⟩__
    2. ĖOŪYHJ Remigijaus (ISO) — 63.30 ⟨60.79⟩
@@ -109,7 +109,7 @@ __Pastabos.__ Kampiniuose skliaustuose duoti skaičiai yra iš [stevep99 puslapi
    9. FZVPUJ (ISO) — 46.27 ⟨32.42⟩
    10. QWERTY Baltic-Numeric Programmers (ISO) — 44.48 ⟨42.38⟩
 
-+ Keyboard Layout Analyzer — Lietuviškos pasakos (iš Basanavičiaus rinkinio): [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/DLqKXSHF), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/Qqs29kvs)
++ Keyboard Layout Analyzer — _Lietuviškos pasakos (iš Basanavičiaus rinkinio)_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/DLqKXSHF), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/Qqs29kvs)
 
    1. __ŪĖYOQJ Ratise (ISO) — 67.42 ⟨65.56⟩__
    2. ĖOŪYHJ Remigijaus (ISO) — 63.14 ⟨61.45⟩
@@ -122,7 +122,7 @@ __Pastabos.__ Kampiniuose skliaustuose duoti skaičiai yra iš [stevep99 puslapi
    9. FZVPUJ (ISO) — 43.36 ⟨29.35⟩
    10. QWERTY Baltic-Numeric Programmers (ISO) — 42.82 ⟨40.32⟩
 
-+ Keyboard Layout Analyzer — Vikipedijos straipsnis „Fizika“ (pataisyti ilgieji brūkšniai): [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/tWHQWhX6), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/pd6P0hSS)
++ Keyboard Layout Analyzer — _Vikipedijos straipsnis „Fizika“_ (pataisyti ilgieji brūkšniai): [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/tWHQWhX6), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/pd6P0hSS)
 
    1. __ŪĖYOQJ Ratise (ISO) — 67.06 ⟨64.54⟩__
    2. ĖOŪYHJ Remigijaus (ISO) — 61.16 ⟨58.14⟩
@@ -135,7 +135,7 @@ __Pastabos.__ Kampiniuose skliaustuose duoti skaičiai yra iš [stevep99 puslapi
    9. AŽERTY LT Standard 2000 (ISO) — 45.20 ⟨38.51⟩
    10. QWERTY Baltic-Numeric Programmers (ISO) — 44.45 ⟨38.85⟩
 
-+ Keyboard Layout Analyzer — Lietuvos Respublikos Konstitucija: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/LJKS5JjM), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/CknCBzsg)
++ Keyboard Layout Analyzer — _Lietuvos Respublikos Konstitucija_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/LJKS5JjM), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/CknCBzsg)
 
    1. __ŪĖYOQJ Ratise (ISO) — 66.12 ⟨62.94⟩__
    2. ĖOŪYHJ Remigijaus (ISO) — 60.28 ⟨58.26⟩
@@ -148,7 +148,7 @@ __Pastabos.__ Kampiniuose skliaustuose duoti skaičiai yra iš [stevep99 puslapi
    9. QWERTY Baltic-Numeric (ISO) — 42.03 ⟨34.96⟩
    10. QWERTY Baltic-Numeric Programmers (ISO) — 41.18 ⟨36.66⟩
 
-+ Keyboard Layout Analyzer — Vikipedijos straipsnis „Mokykla“ (pataisyti ilgieji brūkšniai bei keletas klaidų): [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/XjtRWwSm), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/rZNFXhGv)
++ Keyboard Layout Analyzer — _Vikipedijos straipsnis „Mokykla“_ (pataisyti ilgieji brūkšniai bei keletas klaidų): [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/XjtRWwSm), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/rZNFXhGv)
 
    1. __ŪĖYOQJ Ratise (ISO) — 65.16 ⟨62.09⟩__
    2. ĖOŪYHJ Remigijaus (ISO) — 60.85 ⟨57.94⟩
@@ -161,7 +161,7 @@ __Pastabos.__ Kampiniuose skliaustuose duoti skaičiai yra iš [stevep99 puslapi
    9. AŽERTY LT Standard 2000 (ISO) — 41.72 ⟨36.46⟩
    10. QWERTY Baltic-Numeric Programmers (ISO) — 41.58 ⟨37.67⟩
 
-+ Keyboard Layout Analyzer: Vikipedijos straipsnis „Lietuva“ (pataisyti ilgieji brūkšniai): [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/pDr7b9x0), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/kZm2N4w9)
++ Keyboard Layout Analyzer: _Vikipedijos straipsnis „Lietuva“_ (pataisyti ilgieji brūkšniai): [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/pDr7b9x0), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/kZm2N4w9)
 
    1. __ŪĖYOQJ Ratise (ISO) — 61.30 ⟨59.01⟩__
    2. ĖOŪYHJ Remigijaus (ISO) — 57.71 ⟨55.77⟩
@@ -189,7 +189,7 @@ _Žemiau pateikiami paveikslėliai su išdėstymų mygtukų naudojimo dažnumu s
 
 ## Angliško teksto skaidymas:
 
-+ Keyboard Layout Analyzer — List of the most commonly used words: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/rfHZ7qWZ), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/TxcCz5nk)
++ Keyboard Layout Analyzer — _List of the most commonly used words_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/rfHZ7qWZ), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/TxcCz5nk)
 
    1. __ŪĖYOQJ Ratise (ISO) — 66.90__ ⟨62.78⟩
    2. QGRLDČ LEKP (ISO) — 66.73 __⟨63.00⟩__
@@ -197,12 +197,12 @@ _Žemiau pateikiami paveikslėliai su išdėstymų mygtukų naudojimo dažnumu s
    4. FZVPUJ (ISO) — 55.67 ⟨44.32⟩
    5. QWERTY Baltic-Numeric (ISO) — 49.04 ⟨39.51⟩
    6. QWERTY Lithuanian Programmers (ISO) — 49.04 ⟨39.51⟩
-   7. QWERTY Baltic-Numeric Programmers (ISO (ISO) — 49.04 ⟨39.51⟩
+   7. QWERTY Baltic-Numeric Programmers (ISO) — 49.04 ⟨39.51⟩
    8. QWERTY Lithuanian (ISO) — 48.81 ⟨39.37⟩
    9. AŽERTY IBM, LT Standard 1992 (ISO) — 47.67 ⟨39.29⟩
    10. AŽERTY LT Standard 2000 (ISO) — 46.72 ⟨36.38⟩
 
-+ Keyboard Layout Analyzer — Wikipedia “Physics”: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/dDdhRXJp), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/L5xZ6Vrf)
++ Keyboard Layout Analyzer — _Wikipedia “Physics”_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/dDdhRXJp), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/L5xZ6Vrf)
 
    1. __ŪĖYOQJ Ratise (ISO) — 63.59 ⟨60.22⟩__
    2. QGRLDČ LEKP (ISO) — 58.66 ⟨50.14⟩
@@ -215,7 +215,7 @@ _Žemiau pateikiami paveikslėliai su išdėstymų mygtukų naudojimo dažnumu s
    9. AŽERTY IBM, LT Standard 1992 (ISO) — 44.95 ⟨37.30⟩
    10. AŽERTY LT Standard 2000 (ISO) — 42.77 ⟨32.91⟩
 
-+ Keyboard Layout Analyzer — Alice in Wonderland, Chapter 1: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/FJzXXpSR), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/MM6QwmSV)
++ Keyboard Layout Analyzer — _Alice in Wonderland, Chapter 1_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/FJzXXpSR), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/MM6QwmSV)
 
    1. __Ratise (ISO) — 62.38__ ⟨57.87⟩
    2. QGRLDČ LEKP (ISO) — 61.04 ⟨56.65⟩
@@ -228,7 +228,7 @@ _Žemiau pateikiami paveikslėliai su išdėstymų mygtukų naudojimo dažnumu s
    9. AŽERTY IBM, LT Standard 1992 (ISO) — 48.95 ⟨43.78⟩
    10. AŽERTY LT Standard 2000 (ISO) — 47.12 ⟨39.25⟩
 
-+ Keyboard Layout Analyzer — “Scientific Papers”: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/cRbvHxS4), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/cLXSd9Hx)
++ Keyboard Layout Analyzer — _“Scientific Papers”_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/cRbvHxS4), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/cLXSd9Hx)
 
    1. __ŪĖYOQJ Ratise (ISO) — 58.91 ⟨55.35⟩__
    2. QGRLDČ LEKP (ISO) — 58.47 ⟨53.25⟩
@@ -241,7 +241,7 @@ _Žemiau pateikiami paveikslėliai su išdėstymų mygtukų naudojimo dažnumu s
    9. AŽERTY IBM, LT Standard 1992 (ISO) — 40.97 ⟨32.01⟩
    10. AŽERTY LT Standard 2000 (ISO) — 39.17 ⟨28.49⟩
 
-+ Keyboard Layout Analyzer — Quentin Tarantino “Pulp Fiction”: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/lmR992lB), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/L7lJ2TBB)
++ Keyboard Layout Analyzer — _Quentin Tarantino “Pulp Fiction”_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/lmR992lB), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/L7lJ2TBB)
 
    1. __ŪĖYOQJ Ratise (ISO) — 54.22__ ⟨48.18⟩
    2. QGRLDČ LEKP (ISO) — 51.89 ⟨42.54⟩
@@ -269,7 +269,7 @@ _Žemiau pateikiami paveikslėliai su išdėstymų mygtukų naudojimo dažnumu s
 
 ## Programavimo kalbų teksto skaidymas:
 
-+ Keyboard Layout Analyzer — ‘Programming Punctuation Torture Test’: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/0XVsHLDr), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/zvgB0lvw)
++ Keyboard Layout Analyzer — _‘Programming Punctuation Torture Test’_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/0XVsHLDr), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/zvgB0lvw)
 
    1. __ŪĖYOQJ Ratise (ISO) — 47.32__ ⟨31.94⟩
    2. ĖOŪYHJ Remigijaus (ISO) — 42.78 __⟨35.96⟩__
@@ -282,7 +282,7 @@ _Žemiau pateikiami paveikslėliai su išdėstymų mygtukų naudojimo dažnumu s
    9. QWERTY Lithuanian Programmers (ISO) — 17.80 ⟨0.00⟩
    10. QWERTY Baltic-Numeric Programmers (ISO) — 17.80 ⟨0.00⟩
 
-+ Keyboard Layout Analyzer — ‘Bash, C, CPP, HTML, JavaScript, Python’: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/3XvH0gml), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/NQJQCVs9)
++ Keyboard Layout Analyzer — _‘Bash, C, CPP, HTML, JavaScript, Python’_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/3XvH0gml), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/NQJQCVs9)
 
    1. __ŪĖYOQJ Ratise (ISO) — 45.54__ ⟨44.09⟩
    2. ĖOŪYHJ Remigijaus (ISO) — 43.49 __⟨47.38⟩__
@@ -310,7 +310,7 @@ _Žemiau pateikiami paveikslėliai su išdėstymų mygtukų naudojimo dažnumu s
 
 ## Lotyniško teksto „Lorem Ipsum“ skaidymas:
 
-+ Keyboard Layout Analyzer — “Lorem Ipsum”: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/GpMxnkMJ), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/9KQb0gb6)
++ Keyboard Layout Analyzer — _“Lorem Ipsum”_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/GpMxnkMJ), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/9KQb0gb6)
 
    1. __ŪĖYOQJ Ratise (ISO) — 70.69 ⟨72.16⟩__
    2. QGRLDČ LEKP (ISO) —  	68.70 ⟨61.42⟩
