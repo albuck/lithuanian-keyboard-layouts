@@ -28,7 +28,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="1.2596661"
-     inkscape:cx="692.24694"
+     inkscape:cx="1024.0809"
      inkscape:cy="271.10359"
      inkscape:window-width="1920"
      inkscape:window-height="1147"
@@ -188,7 +188,9 @@
    style="font-weight:bold"
    id="tspan60122">Č</tspan> &lt; ║ <tspan
    style="font-weight:bold"
-   id="tspan60844">Š</tspan> &gt; ║ Ę ? ║ <tspan
+   id="tspan60844">Š</tspan> &gt; ║ <tspan
+   style="font-weight:bold"
+   id="tspan7102">Ę</tspan> ? ║ <tspan
    style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Oblique';fill:#53536c"
    id="tspan457248">Shift</tspan>        ║</tspan><tspan
          sodipodi:role="line"
