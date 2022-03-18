@@ -2,22 +2,37 @@
 # Lietuviškų klaviatūros išdėstymų palyginimas
 
 
-  __[ŪĖYOQJ Ratisė](https://albuck.github.io/Ratise-layout/):__
-   ![Lietuviškas klaviatūros išdėstymas Ratisė (ŪĖYOQJ)](images/lt-ueyoqj-ratise-iso.svg)
+  __[ŪĖYOQJ Ratise (ISO) ](https://albuck.github.io/Ratise-layout/):__
+   ![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO](images/lt-ueyoqj-ratise-iso.svg)
+   
+  __[ĖOŪYHJ Remigijaus (ISO)](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html):__
+   ![Lietuviškas Remigijaus klaviatūros išdėstymas ĖOŪYHJ Fonetinis ISO](images/lt-eouyhj-iso.svg)
 
   __[QGRLDČ Lekp](https://lekp.info/):__
-   ![Lietuviškas klaviatūros išdėstymas LEKP (QGRLDČ)](images/lt-qgrldc-lekp-iso.svg)
+   ![Lietuviškas klaviatūros išdėstymas LEKP QGRLDČ ISO](images/lt-qgrldc-lekp-iso.svg)
 
   __[ĄŽERTY Standard 2000](http://www.ims.mii.lt/klav/):__
-   ![Lietuviškas klaviatūros išdėstymas Standard 2000 (ĄŽERTY)](images/lt-azerty-standard-iso.svg)
+   ![Lietuviškas klaviatūros išdėstymas ĄŽERTY Standard Standartinis 2000 ISO](images/lt-azerty-standard-iso.svg)
    
-  __[ĄŽERTY Standard 1992 (IBM)](https://www.registrucentras.lt/litwin/keyboard.html):__
-   ![Lietuviškas klaviatūros išdėstymas Standard 1992 (ĄŽERTY)](images/lt-azerty-ibm-iso.svg)
+  __[ĄŽERTY IBM Standard 1992 (ISO)](https://www.registrucentras.lt/litwin/keyboard.html):__
+   ![Lietuviškas klaviatūros išdėstymas ĄŽERTY IBM Standard 1992 ISO](images/lt-azerty-ibm-iso.svg)
+   
+  __[QWERTY Lithuanian (ISO)](https://www.registrucentras.lt/litwin/keyboard.html):__
+   ![Lietuviškas klaviatūros išdėstymas QWERTY Lithuaian ISO](images/lt-qwerty-iso.svg)
 
-  __[QWERTY Baltic-Numeric](https://www.registrucentras.lt/litwin/keyboard.html):__
-   ![Lietuviškas klaviatūros išdėstymas Baltic/Numeric (QWERTY)](images/lt-qwerty-baltic-numeric-iso.svg)
+  __[QWERTY Baltic-Numeric (ISO)](https://www.registrucentras.lt/litwin/keyboard.html):__
+   ![Lietuviškas klaviatūros išdėstymas QWERTY Baltic Numeric Skaičiukinis ISO](images/lt-qwerty-baltic-numeric-iso.svg)
+   
+  __[QWERTY Lithuanian Programmers (ISO)](https://www.registrucentras.lt/litwin/keyboard.html):__
+   ![Lietuviškas klaviatūros išdėstymas QWERTY Programmers Programuotojų ISO](images/lt-qwerty-programmers-iso.svg)
+   
+  __[FZVPUJ, LST 1092-89 (ISO)](http://lietuvybė.lt/standartai/klaviat%C5%ABros-i%C5%A1d%C4%97stymai/):__
+   ![Lietuviškas klaviatūros išdėstymas FZVPUJ (LST 1092-89, RST 1092-89) ISO](images/lt-fzvpuj-iso.svg)
+   
+  __[QWERTY Baltic-Numeric Programmers (ISO)](http://lietuvybė.lt/naudotojams/klaviaturos/):__
+   ![Lietuviškas klaviatūros išdėstymas QWERTY Baltic Numeric Programmers ISO](images/lt-qwerty-baltic-numeric-programmers-iso.svg)
 
-+ Išdėstymai rikiuojami pagal pasiekimus išdėstymų našumo patikroje.
++ Išdėstymai rikiuojami pagal pasiekimus išdėstymų našumo patikroje („Paprasti rašiniai“).
 
 
 Čia naudotasi puikiu žiniatinklio ištekliu: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main), kur išdėstymo našumas-patogumas matuojamas taškais. Skaičiuojant taškus atsižvelgiama į pirštų nueinamą atstumą (33%), kaip dažnai tam pačiam pirštui tenka iš eilės spaudinėti (33%), bei kaip dažnai spausdinant kaitaliojami pirštai (17%) ir rankos (17%).
