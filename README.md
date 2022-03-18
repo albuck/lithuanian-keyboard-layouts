@@ -217,9 +217,9 @@ _Žemiau pateikiami paveikslėliai su išdėstymų mygtukų naudojimo dažnumu s
 
 + Keyboard Layout Analyzer — Alice in Wonderland, Chapter 1: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/FJzXXpSR), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/MM6QwmSV)
 
-   1. __Ratise (ISO) — 62.38 ⟨57.87⟩__
+   1. __Ratise (ISO) — 62.38__ ⟨57.87⟩
    2. QGRLDČ LEKP (ISO) — 61.04 ⟨56.65⟩
-   3. ĖOŪYHJ Remigijaus (ISO) — 57.42 ⟨59.34⟩
+   3. ĖOŪYHJ Remigijaus (ISO) — 57.42 __⟨59.34⟩__
    4. QWERTY Lithuanian Programmers (ISO) — 52.93 ⟨46.15⟩
    5. QWERTY Baltic-Numeric Programmers (ISO) — 52.93 ⟨46.15⟩
    6. QWERTY Baltic-Numeric (ISO) — 52.89 ⟨46.38⟩
@@ -243,9 +243,9 @@ _Žemiau pateikiami paveikslėliai su išdėstymų mygtukų naudojimo dažnumu s
 
 + Keyboard Layout Analyzer — Quentin Tarantino “Pulp Fiction”: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/lmR992lB), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/L7lJ2TBB)
 
-   1. __ŪĖYOQJ Ratise (ISO) — 54.22 ⟨48.18⟩__
+   1. __ŪĖYOQJ Ratise (ISO) — 54.22__ ⟨48.18⟩
    2. QGRLDČ LEKP (ISO) — 51.89 ⟨42.54⟩
-   3. ĖOŪYHJ Remigijaus (ISO) — 50.83 ⟨52.84⟩
+   3. ĖOŪYHJ Remigijaus (ISO) — 50.83 __⟨52.84⟩__
    4. QWERTY Baltic-Numeric (ISO) — 45.54 ⟨38.88⟩
    5. QWERTY Lithuanian Programmers (ISO) — 45.48 ⟨38.54⟩
    6. QWERTY Baltic-Numeric Programmers (ISO) — 45.48 ⟨38.54⟩
@@ -271,8 +271,8 @@ _Žemiau pateikiami paveikslėliai su išdėstymų mygtukų naudojimo dažnumu s
 
 + Keyboard Layout Analyzer — ‘Programming Punctuation Torture Test’: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/0XVsHLDr), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/zvgB0lvw)
 
-   1. __ŪĖYOQJ Ratise (ISO) — 47.32 ⟨31.94⟩__
-   2. ĖOŪYHJ Remigijaus (ISO) — 42.78 ⟨35.96⟩
+   1. __ŪĖYOQJ Ratise (ISO) — 47.32__ ⟨31.94⟩
+   2. ĖOŪYHJ Remigijaus (ISO) — 42.78 __⟨35.96⟩__
    3. FZVPUJ (ISO) — 41.52 ⟨28.19⟩
    4. QGRLDČ LT Standard 2000 (ISO) — 35.75 ⟨16.81⟩
    5. AŽERTY IBM, LT Standard 1992 (ISO) — 33.71 ⟨19.26⟩
@@ -284,8 +284,8 @@ _Žemiau pateikiami paveikslėliai su išdėstymų mygtukų naudojimo dažnumu s
 
 + Keyboard Layout Analyzer — ‘Bash, C, CPP, HTML, JavaScript, Python’: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/3XvH0gml), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/NQJQCVs9)
 
-   1. __ŪĖYOQJ Ratise (ISO) — 45.54 ⟨44.09⟩__
-   2. ĖOŪYHJ Remigijaus (ISO) — 43.49 ⟨47.38⟩
+   1. __ŪĖYOQJ Ratise (ISO) — 45.54__ ⟨44.09⟩
+   2. ĖOŪYHJ Remigijaus (ISO) — 43.49 __⟨47.38⟩__
    3. QGRLDČ LEKP (ISO) — 40.92 ⟨33.52⟩
    4. QWERTY Lithuanian (ISO) — 36.50 ⟨24.26⟩
    5. QWERTY Lithuanian Programmers (ISO) — 34.85 ⟨22.62⟩
