@@ -44,7 +44,7 @@ __Pastabos.__ Kampiniuose skliaustuose duoti skaičiai yra iš [stevep99 puslapi
 
 ## Lietuviško teksto skaidymas:
 
-+ Keyboard Layout Analyzer — Lietuviškų dažnų žodžių šimtukas: [1](http://patorjk.com/keyboard-layout-analyzer/#/load/QBq4kcpG), [2](http://patorjk.com/keyboard-layout-analyzer/#/load/KX2tTgnK)
++ Keyboard Layout Analyzer — Lietuviškų dažnų žodžių šimtukas: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/QBq4kcpG), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/KX2tTgnK)
 
    1. __ŪĖYOQJ Ratise (ISO) — 76.16 ⟨78.00⟩__
    2. ĖOŪYHJ Remigijaus (ISO) — 73.40 ⟨72.25⟩
