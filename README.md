@@ -8,10 +8,10 @@
   __[ĖOŪYHJ Remigijaus (ISO)](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html):__
    ![Lietuviškas Remigijaus klaviatūros išdėstymas ĖOŪYHJ Fonetinis ISO](images/lt-eouyhj-iso.svg)
 
-  __[QGRLDČ Lekp](https://lekp.info/):__
+  __[QGRLDČ Lekp (ISO)](https://lekp.info/):__
    ![Lietuviškas klaviatūros išdėstymas LEKP QGRLDČ ISO](images/lt-qgrldc-lekp-iso.svg)
 
-  __[ĄŽERTY Standard 2000](http://www.ims.mii.lt/klav/):__
+  __[ĄŽERTY Standard 2000 (ISO)](http://www.ims.mii.lt/klav/):__
    ![Lietuviškas klaviatūros išdėstymas ĄŽERTY Standard Standartinis 2000 ISO](images/lt-azerty-standard-iso.svg)
    
   __[ĄŽERTY IBM Standard 1992 (ISO)](https://www.registrucentras.lt/litwin/keyboard.html):__
@@ -24,7 +24,7 @@
    ![Lietuviškas klaviatūros išdėstymas QWERTY Baltic Numeric Skaičiukinis ISO](images/lt-qwerty-baltic-numeric-iso.svg)
    
   __[QWERTY Lithuanian Programmers (ISO)](https://www.registrucentras.lt/litwin/keyboard.html):__
-   ![Lietuviškas klaviatūros išdėstymas QWERTY Programmers Programuotojų ISO](images/lt-qwerty-programmers-iso.svg)
+   ![Lietuviškas klaviatūros išdėstymas QWERTY Lithuanian Programmers Programuotojų ISO](images/lt-qwerty-programmers-iso.svg)
    
   __[FZVPUJ, LST 1092-89 (ISO)](http://lietuvybė.lt/standartai/klaviat%C5%ABros-i%C5%A1d%C4%97stymai/):__
    ![Lietuviškas klaviatūros išdėstymas FZVPUJ (LST 1092-89, RST 1092-89) ISO](images/lt-fzvpuj-iso.svg)
