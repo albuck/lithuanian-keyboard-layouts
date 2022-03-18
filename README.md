@@ -3,23 +3,18 @@
 
 
   __[ŪĖYOQJ Ratisė](https://albuck.github.io/Ratise-layout/):__
-
    ![Lietuviškas klaviatūros išdėstymas Ratisė (ŪĖYOQJ)](images/lt-ueyoqj-ratise-iso.svg)
 
   __[QGRLDČ Lekp](https://lekp.info/):__
-
    ![Lietuviškas klaviatūros išdėstymas LEKP (QGRLDČ)](images/lt-qgrldc-lekp-iso.svg)
 
   __[ĄŽERTY Standard 2000](http://www.ims.mii.lt/klav/):__
-
    ![Lietuviškas klaviatūros išdėstymas Standard 2000 (ĄŽERTY)](images/lt-azerty-standard-iso.svg)
-
+   
   __[ĄŽERTY Standard 1992 (IBM)](https://www.registrucentras.lt/litwin/keyboard.html):__
-
    ![Lietuviškas klaviatūros išdėstymas Standard 1992 (ĄŽERTY)](images/lt-azerty-ibm-iso.svg)
 
   __[QWERTY Baltic-Numeric](https://www.registrucentras.lt/litwin/keyboard.html):__
-
    ![Lietuviškas klaviatūros išdėstymas Baltic/Numeric (QWERTY)](images/lt-qwerty-baltic-numeric-iso.svg)
 
 + Išdėstymai rikiuojami pagal pasiekimus išdėstymų našumo patikroje.
@@ -27,102 +22,142 @@
 
 Čia naudotasi puikiu žiniatinklio ištekliu: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main), kur išdėstymo našumas-patogumas matuojamas taškais. Skaičiuojant taškus atsižvelgiama į pirštų nueinamą atstumą (33%), kaip dažnai tam pačiam pirštui tenka iš eilės spaudinėti (33%), bei kaip dažnai spausdinant kaitaliojami pirštai (17%) ir rankos (17%).
 
-__Pastabos.__ Kampiniuose skliaustuose duoti skaičiai yra iš [stevep99 puslapio](https://stevep99.github.io/keyboard-layout-analyzer/#/main) gautos patikros, šis žmogus yra kiek pakeitęs-tobulinęs ‘Keybord Layout Analyzer’ kūrėjo išdėstymų skaičiavimus, didžiausias jo tų skaičiavimų skirtumas, kad jis yra atsisakęs rankų pakaitos spausdinant skaičiavimo (mat, stevep99 manymu jis yra klaidingas, nes nepagrįstai duoda pirmenybę išdėstymams su išskirtomis skirtingosna pusėsna priebalsėmis ir balsėmis, su kuo nesutikčiau), skaičiai pateikiami be nuorodų (nėra tokios galimybės, norintiems patikrinti, teks susikelti patiems išdėstymus ir tekstus). Patikroje septintas viršutinis mygtukas (QWERTY skaičių eilėje ‘6’) priskirtas kairiajam smiliui ir vienuoliktas (QWERTY ‘0’) dešiniajam bevardžiui, klaviatūrose su skersuotais mygtukais taip patogiau; taip pat perskirtose klaviatūrose tas septintas mygtukas paprastai būna kairėje pusėje. Perpaskyrus, kaip įprastai turėtų būti, patikros taškai gali nežymiai skirtis. Išdėstymuose patikroje yra suvienodinti ilgieji brūkšniai. Senesni išdėstymai (AŽERTY IBM ir QWERTY Baltic-Numeric) papildyti keliais spaudais (žali).
+__Pastabos.__ Kampiniuose skliaustuose duoti skaičiai yra iš [stevep99 puslapio](https://stevep99.github.io/keyboard-layout-analyzer/#/main) gautos patikros, šis žmogus yra kiek pakeitęs-tobulinęs ‘Keybord Layout Analyzer’ kūrėjo išdėstymų skaičiavimus, didžiausias jo tų skaičiavimų skirtumas, kad jis yra atsisakęs rankų pakaitos spausdinant skaičiavimo (mat, stevep99 manymu jis yra klaidingas, nes nepagrįstai duoda pirmenybę išdėstymams su išskirtomis skirtingosna pusėsna priebalsėmis ir balsėmis, su kuo nesutikčiau), skaičiai pateikiami be nuorodų (nėra tokios galimybės, norintiems patikrinti, teks susikelti patiems išdėstymus ir tekstus). Patikroje penktas viršutinis mygtukas (QWERTY skaičių eilėje ‘4’) yra priskirtas kairiosios rankos didžiajam pirštui, septintas viršutinis mygtukas (QWERTY skaičių eilėje ‘6’) priskirtas kairiajam smiliui ir vienuoliktas (QWERTY ‘0’) dešiniajam bevardžiui, klaviatūrose su skersuotais mygtukais taip patogiau; taip pat perskirtose klaviatūrose tas septintas mygtukas paprastai būna kairėje pusėje. Perpaskyrus, kaip įprastai turėtų būti, patikros taškai gali nežymiai skirtis. Išdėstymuose patikroje yra suvienodinti ilgieji brūkšniai. Senesni išdėstymai papildyti keliais spaudais (žali).
 
 + __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „išdėstymo įvertinimo taškai“
 
 
 ## Lietuviško teksto skaidymas:
 
-+ [Keyboard Layout Analyzer: Lietuviškų dažnų žodžių šimtukas](http://patorjk.com/keyboard-layout-analyzer/#/load/PsJMFvbs)
++ Keyboard Layout Analyzer — Lietuviškų dažnų žodžių šimtukas: [1](http://patorjk.com/keyboard-layout-analyzer/#/load/QBq4kcpG), [2](http://patorjk.com/keyboard-layout-analyzer/#/load/KX2tTgnK)
 
    1. __ŪĖYOQJ Ratise (ISO) — 76.16 ⟨78.00⟩__
-   2. QGRLDČ LEKP (ISO) — 69.00 ⟨74.70⟩
-   3. AŽERTY LT Standard 2000 (ISO) — 58.80 ⟨54.57⟩
-   4. AŽERTY IBM, LT Standard 1992 (ISO) — 58.56 ⟨54.45⟩
-   5. QWERTY Baltic-Numeric (ISO) — 57.39 ⟨52.94⟩
+   2. ĖOŪYHJ Remigijaus (ISO) — 73.40 ⟨72.25⟩
+   3. QGRLDČ LEKP (ISO) — 69.00 ⟨74.70⟩
+   4. AŽERTY LT Standard 2000 (ISO) — 58.80 ⟨54.57⟩
+   5. AŽERTY IBM, LT Standard 1992 (ISO) — 58.56 ⟨54.45⟩
+   6. QWERTY Lithuanian (ISO) — 58.37 ⟨55.49⟩
+   7. FZVPUJ (ISO) — 57.95 ⟨49.63⟩
+   8. QWERTY Baltic-Numeric (ISO) — 57.90 ⟨53.88⟩
+   9. QWERTY Lithuanian Programmers (ISO) — 56.87 ⟨54.84⟩
+   10. QWERTY Baltic-Numeric Programmers (ISO) — 55.22 ⟨53.45⟩
 
-+ [Keyboard Layout Analyzer: Paprasti rašiniai](http://patorjk.com/keyboard-layout-analyzer/#/load/wztGknfd)
++ Keyboard Layout Analyzer — Paprasti rašiniai: [1](http://patorjk.com/keyboard-layout-analyzer/#/load/ND8rzscT), [2](http://patorjk.com/keyboard-layout-analyzer/#/load/4ThLZ1ND)
 
    1. __ŪĖYOQJ Ratise (ISO) — 71.55 ⟨69.64⟩__
-   2. QGRLDČ LEKP (ISO) — 62.81 ⟨61.31⟩
-   3. AŽERTY LT Standard 2000 (ISO) — 50.21 ⟨45.06⟩
-   4. AŽERTY IBM, LT Standard 1992 (ISO) — 50.04 ⟨45.48⟩
-   5. QWERTY Baltic-Numeric (ISO) — 48.53 ⟨40.74⟩
+   2. ĖOŪYHJ Remigijaus (ISO) — 66.98 ⟨66.37⟩
+   3. QGRLDČ LEKP (ISO) — 62.67 ⟨60.56⟩
+   4. AŽERTY LT Standard 2000 (ISO) — 50.21 ⟨45.06⟩
+   5. AŽERTY IBM, LT Standard 1992 (ISO) — 50.04 ⟨45.48⟩
+   6. QWERTY Lithuanian (ISO) — 49.98 ⟨44.82⟩
+   7. QWERTY Baltic-Numeric (ISO) — 49.53 ⟨42.62⟩
+   8. QWERTY Lithuanian Programmers (ISO) — 48.95 ⟨45.24⟩
+   9. FZVPUJ (ISO) — 48.86 ⟨36.00⟩
+   10. QWERTY Baltic-Numeric Programmers (ISO) — 47.09 ⟨43.97⟩
 
-+ [Keyboard Layout Analyzer: Jonas Biliūnas „Brisiaus galas“](http://patorjk.com/keyboard-layout-analyzer/#/load/1JlsgLkr)
++ Keyboard Layout Analyzer — Jonas Biliūnas „Brisiaus galas“: [1](http://patorjk.com/keyboard-layout-analyzer/#/load/BPkpNQVc), [2](http://patorjk.com/keyboard-layout-analyzer/#/load/KrDXfvQ5)
 
    1. __ŪĖYOQJ Ratise (ISO) — 69.24 ⟨67.30⟩__
-   2. QGRLDČ LEKP (ISO) — 60.05 ⟨58.80⟩
-   3. AŽERTY LT Standard 2000 (ISO) — 49.10 ⟨44.94⟩
-   4. AŽERTY IBM, LT Standard 1992 (ISO) — 48.46 ⟨44.82⟩
-   5. QWERTY Baltic-Numeric (ISO) — 46.89 ⟨39.88⟩
+   2. ĖOŪYHJ Remigijaus (ISO) — 64.31 ⟨65.00⟩
+   3. QGRLDČ LEKP (ISO) — 59.74 ⟨57.57⟩
+   4. AŽERTY LT Standard 2000 (ISO) — 49.11 ⟨44.97⟩
+   5. AŽERTY IBM, LT Standard 1992 (ISO) — 48.47 ⟨44.85⟩
+   6. QWERTY Lithuanian (ISO) — 47.77 ⟨42.69⟩
+   7. QWERTY Baltic-Numeric (ISO) — 47.61 ⟨41.37⟩
+   8. FZVPUJ (ISO) — 47.40 ⟨36.02⟩
+   9. QWERTY Lithuanian Programmers (ISO) — 47.16 ⟨43.82⟩
+   10. QWERTY Baltic-Numeric Programmers (ISO) — 45.13 ⟨43.10⟩
 
-+ [Keyboard Layout Analyzer: Vincas Krėvė „Skerdžius“](http://patorjk.com/keyboard-layout-analyzer/#/load/CHbQHQnd)
++ Keyboard Layout Analyzer — Vincas Krėvė „Skerdžius“: [1](http://patorjk.com/keyboard-layout-analyzer/#/load/FFdGsbpM), [2](http://patorjk.com/keyboard-layout-analyzer/#/load/p2tZ1mRq)
 
    1. __ŪĖYOQJ Ratise (ISO) — 68.20 ⟨66.64⟩__
-   2. QGRLDČ LEKP (ISO) — 59.35 ⟨58.66⟩
-   3. AŽERTY LT Standard 2000 (ISO) — 47.99 ⟨42.92⟩
-   4. AŽERTY IBM, LT Standard 1992 (ISO) — 47.53 ⟨42.95⟩
-   5. QWERTY Baltic-Numeric (ISO) — 46.13 ⟨37.30⟩
+   2. ĖOŪYHJ Remigijaus (ISO) — 63.09 ⟨62.98⟩
+   3. QGRLDČ LEKP (ISO) — 59.20 ⟨57.64⟩
+   4. AŽERTY LT Standard 2000 (ISO) — 48.01 ⟨42.97⟩
+   5. AŽERTY IBM, LT Standard 1992 (ISO) — 47.55 ⟨42.95⟩
+   6. QWERTY Baltic-Numeric (ISO) — 47.49 ⟨39.87⟩
+   7. QWERTY Lithuanian (ISO) — 46.92 ⟨40.54⟩
+   8. QWERTY Lithuanian Programmers (ISO) — 46.33 ⟨41.95⟩
+   9. FZVPUJ (ISO) — 44.88 ⟨32.39⟩
+   10. QWERTY Baltic-Numeric Programmers (ISO) — 44.56 ⟨41.44⟩
 
-+ [Keyboard Layout Analyzer: Lietuvių padavimai](http://patorjk.com/keyboard-layout-analyzer/#/load/q1kP7h2b)
++ Keyboard Layout Analyzer — Lietuvių padavimai: [1](http://patorjk.com/keyboard-layout-analyzer/#/load/4BhCgz5q), [2](http://patorjk.com/keyboard-layout-analyzer/#/load/RZkprvD2)
 
-   1. __ŪĖYOQJ Ratise (ISO) — 67.70 ⟨64.47⟩__
-   2. QGRLDČ LEKP (ISO) — 60.51 ⟨59.51⟩
-   3. AŽERTY LT Standard 2000 (ISO) — 48.34 ⟨43.29⟩
-   4. AŽERTY IBM, LT Standard 1992 (ISO) — 47.87 ⟨43.03⟩
-   5. QWERTY Baltic-Numeric (ISO) — 45.20 ⟨36.78⟩
+   1. __ŪĖYOQJ Ratise (ISO) — 67.72 ⟨64.49⟩__
+   2. ĖOŪYHJ Remigijaus (ISO) — 63.30 ⟨60.79⟩
+   3. QGRLDČ LEKP (ISO) — 60.14 ⟨58.45⟩
+   4. AŽERTY LT Standard 2000 (ISO) — 48.35 ⟨43.30⟩
+   5. AŽERTY IBM, LT Standard 1992 (ISO) — 47.88 ⟨43.05⟩
+   6. QWERTY Lithuanian (ISO) — 47.82 ⟨42.61⟩
+   7. QWERTY Baltic-Numeric (ISO) — 46.98 ⟨40.23⟩
+   8. QWERTY Lithuanian Programmers (ISO) — 46.53 ⟨43.96⟩
+   9. FZVPUJ (ISO) — 46.27 ⟨32.42⟩
+   10. QWERTY Baltic-Numeric Programmers (ISO) — 44.48 ⟨42.38⟩
 
-+ [Keyboard Layout Analyzer: Lietuviškos pasakos (iš Basanavičiaus rinkinio)](http://patorjk.com/keyboard-layout-analyzer/#/load/2X1jFvVl)
++ Keyboard Layout Analyzer — Lietuviškos pasakos (iš Basanavičiaus rinkinio): [1](http://patorjk.com/keyboard-layout-analyzer/#/load/DLqKXSHF), [2](http://patorjk.com/keyboard-layout-analyzer/#/load/Qqs29kvs)
 
    1. __ŪĖYOQJ Ratise (ISO) — 67.42 ⟨65.56⟩__
-   2. QGRLDČ LEKP (ISO) — 58.00 ⟨56.51⟩
-   3. AŽERTY LT Standard 2000 (ISO) — 47.28 ⟨42.40⟩
-   4. AŽERTY IBM, LT Standard 1992 (ISO) — 46.81 ⟨42.16⟩
-   5. QWERTY Baltic-Numeric (ISO) — 44.21 ⟨34.44⟩
+   2. ĖOŪYHJ Remigijaus (ISO) — 63.14 ⟨61.45⟩
+   3. QGRLDČ LEKP (ISO) — 57.94 ⟨55.78⟩
+   4. AŽERTY LT Standard 2000 (ISO) — 47.29 ⟨42.42⟩
+   5. AŽERTY IBM, LT Standard 1992 (ISO) — 46.82 ⟨42.18⟩
+   6. QWERTY Baltic-Numeric (ISO) — 46.40 ⟨38.77⟩
+   7. QWERTY Lithuanian (ISO) — 45.61 ⟨39.63⟩
+   8. QWERTY Lithuanian Programmers (ISO) — 44.76 ⟨41.55⟩
+   9. FZVPUJ (ISO) — 43.36 ⟨29.35⟩
+   10. QWERTY Baltic-Numeric Programmers (ISO) — 42.82 ⟨40.32⟩
 
-+ [Keyboard Layout Analyzer: Vikipedijos straipsnis „Fizika“](http://patorjk.com/keyboard-layout-analyzer/#/load/3g4Rj0Lx) (pataisyti ilgieji brūkšniai)
++ Keyboard Layout Analyzer — Vikipedijos straipsnis „Fizika“ (pataisyti ilgieji brūkšniai): [1](http://patorjk.com/keyboard-layout-analyzer/#/load/tWHQWhX6), [2](http://patorjk.com/keyboard-layout-analyzer/#/load/pd6P0hSS)
 
    1. __ŪĖYOQJ Ratise (ISO) — 67.06 ⟨64.54⟩__
-   2. QGRLDČ LEKP (ISO) — 60.25 ⟨58.61⟩
-   3. AŽERTY IBM, LT Standard 1992 (ISO) — 45.40 ⟨38.91⟩
-   4. QWERTY Baltic-Numeric (ISO) — 45.20 ⟨35.99⟩
-   5. AŽERTY LT Standard 2000 (ISO) — 45.17 ⟨38.44⟩
+   2. ĖOŪYHJ Remigijaus (ISO) — 61.16 ⟨58.14⟩
+   3. QGRLDČ LEKP (ISO) — 59.69 ⟨57.18⟩
+   4. FZVPUJ (ISO) — 49.37 ⟨37.44⟩
+   5. QWERTY Lithuanian (ISO) — 46.54 ⟨39.15⟩
+   6. QWERTY Baltic-Numeric (ISO) — 45.74 ⟨37.14⟩
+   7. QWERTY Lithuanian Programmers (ISO) — 45.69 ⟨40.02⟩
+   8. AŽERTY IBM, LT Standard 1992 (ISO) — 45.43 ⟨38.97⟩
+   9. AŽERTY LT Standard 2000 (ISO) — 45.20 ⟨38.51⟩
+   10. QWERTY Baltic-Numeric Programmers (ISO) — 44.45 ⟨38.85⟩
 
-+ [Keyboard Layout Analyzer: Lietuvos Respublikos Konstitucija](http://patorjk.com/keyboard-layout-analyzer/#/load/C5CtLtPc)
++ Keyboard Layout Analyzer — Lietuvos Respublikos Konstitucija: [1](http://patorjk.com/keyboard-layout-analyzer/#/load/LJKS5JjM), [2](http://patorjk.com/keyboard-layout-analyzer/#/load/CknCBzsg)
 
    1. __ŪĖYOQJ Ratise (ISO) — 66.12 ⟨62.94⟩__
-   2. QGRLDČ LEKP (ISO) — 57.68 ⟨55.29⟩
-   3. AŽERTY LT Standard 2000 (ISO) — 42.78 ⟨35.86⟩
-   4. AŽERTY IBM, LT Standard 1992 (ISO) — 42.57 ⟨35.87⟩
-   5. QWERTY Baltic-Numeric (ISO) — 41.21 ⟨33.41⟩
+   2. ĖOŪYHJ Remigijaus (ISO) — 60.28 ⟨58.26⟩
+   3. QGRLDČ LEKP (ISO) — 57.38 ⟨54.48⟩
+   4. FZVPUJ (ISO) — 45.51 ⟨31.28⟩
+   5. QWERTY Lithuanian (ISO) — 43.49 ⟨36.99⟩
+   6. AŽERTY LT Standard 2000 (ISO) — 42.85 ⟨36.01⟩
+   7. AŽERTY IBM, LT Standard 1992 (ISO) — 42.64 ⟨36.01⟩
+   8. QWERTY Lithuanian Programmers (ISO) — 42.60 ⟨37.40⟩
+   9. QWERTY Baltic-Numeric (ISO) — 42.03 ⟨34.96⟩
+   10. QWERTY Baltic-Numeric Programmers (ISO) — 41.18 ⟨36.66⟩
 
-+ [Keyboard Layout Analyzer: Vikipedijos straipsnis „Mokykla“](http://patorjk.com/keyboard-layout-analyzer/#/load/ZxzZwNSc) (pataisyti ilgieji brūkšniai bei keletas klaidų)
++ Keyboard Layout Analyzer — Vikipedijos straipsnis „Mokykla“ (pataisyti ilgieji brūkšniai bei keletas klaidų): [1](http://patorjk.com/keyboard-layout-analyzer/#/load/XjtRWwSm), [2](http://patorjk.com/keyboard-layout-analyzer/#/load/rZNFXhGv)
 
    1. __ŪĖYOQJ Ratise (ISO) — 65.16 ⟨62.09⟩__
-   2. QGRLDČ LEKP (ISO) — 57.55 ⟨56.13⟩
-   3. AŽERTY IBM, LT Standard 1992 (ISO) — 42.40 ⟨37.56⟩
-   4. AŽERTY LT Standard 2000 (ISO) — 41.62 ⟨36.38⟩
-   5. QWERTY Baltic-Numeric (ISO) — 41.15 ⟨33.90⟩
+   2. ĖOŪYHJ Remigijaus (ISO) — 60.85 ⟨57.94⟩
+   3. QGRLDČ LEKP (ISO) — 57.01 ⟨54.79⟩
+   4. FZVPUJ (ISO) — 48.32 ⟨37.74⟩
+   5. QWERTY Lithuanian (ISO) — 44.68 ⟨38.58⟩
+   6. QWERTY Lithuanian Programmers (ISO) — 43.07 ⟨38.74⟩
+   7. AŽERTY IBM, LT Standard 1992 (ISO) — 42.50 ⟨37.65⟩
+   8. QWERTY Baltic-Numeric (ISO) — 41.85 ⟨34.74⟩
+   9. AŽERTY LT Standard 2000 (ISO) — 41.72 ⟨36.46⟩
+   10. QWERTY Baltic-Numeric Programmers (ISO) — 41.58 ⟨37.67⟩
 
-+ [Keyboard Layout Analyzer: Vikipedijos straipsnis „Lietuva“](http://patorjk.com/keyboard-layout-analyzer/#/load/DfQBPDQT) (pataisyti ilgieji brūkšniai)
++ Keyboard Layout Analyzer: Vikipedijos straipsnis „Lietuva“ (pataisyti ilgieji brūkšniai): [1](http://patorjk.com/keyboard-layout-analyzer/#/load/pDr7b9x0), [2](http://patorjk.com/keyboard-layout-analyzer/#/load/kZm2N4w9)
 
-   1. __ŪĖYOQJ Ratise (ISO) — 61.29 ⟨59.01⟩__
-   2. QGRLDČ LEKP (ISO) — 53.98 ⟨53.53⟩
-   3. AŽERTY LT Standard 2000 (ISO) — 41.61 ⟨36.08⟩
-   4. AŽERTY IBM, LT Standard 1992 (ISO) — 41.10 ⟨35.44⟩
-   5. QWERTY Baltic-Numeric (ISO) — 41.00 ⟨34.10⟩
-
-+ [Keyboard Layout Analyzer: Eglė Žalčių karalienė, Salomėja Nėris (pasaka-poema)](http://patorjk.com/keyboard-layout-analyzer/#/load/gvnL8tdm)
-
-   1. __ŪĖYOQJ Ratise (ISO) — 55.97__ (72.24)
-   2. QGRLDČ LEKP (ISO) — 44.71 (65.20)
-   3. AŽERTY IBM, LT Standard 1992 (ISO) — 36.63 (52.92)
-   4. AŽERTY LT Standard 2000 (ISO) — 36.58 (53.36)
-   5. QWERTY Baltic-Numeric (ISO) — 36.44 (49.86)
-
-   - Skliaustuose — [šio teksto vienų žodžių skaičiai](http://patorjk.com/keyboard-layout-analyzer/#/load/m0185zS4).
+   1. __ŪĖYOQJ Ratise (ISO) — 61.30 ⟨59.01⟩__
+   2. ĖOŪYHJ Remigijaus (ISO) — 57.71 ⟨55.77⟩
+   3. QGRLDČ LEKP (ISO) — 54.04 ⟨53.26⟩
+   4. QWERTY Lithuanian (ISO) — 44.04 ⟨37.81⟩
+   5. FZVPUJ (ISO) — 43.82 ⟨33.25⟩
+   6. QWERTY Lithuanian Programmers (ISO) — 43.15 ⟨39.29⟩
+   7. QWERTY Baltic-Numeric (ISO) — 42.22 ⟨36.48⟩
+   8. QWERTY Baltic-Numeric Programmers (ISO) — 41.83 ⟨37.87⟩
+   9. AŽERTY LT Standard 2000 (ISO) — 41.73 ⟨36.38⟩
+   10. AŽERTY IBM, LT Standard 1992 (ISO) — 41.21 ⟨35.74⟩
 
 _Žemiau pateikiami paveikslėliai su išdėstymų mygtukų naudojimo dažnumu spausdinant lietuvišką tekstą. Ryškesnė spalva rodo didesnį mygtuko naudojimo dažnumą._
 
@@ -139,45 +174,70 @@ _Žemiau pateikiami paveikslėliai su išdėstymų mygtukų naudojimo dažnumu s
 
 ## Angliško teksto skaidymas:
 
-+ [Keyboard Layout Analyzer: List of the most commonly used words](http://patorjk.com/keyboard-layout-analyzer/#/load/60BnXQgk)
++ Keyboard Layout Analyzer — List of the most commonly used words: [1](http://patorjk.com/keyboard-layout-analyzer/#/load/rfHZ7qWZ), [2](http://patorjk.com/keyboard-layout-analyzer/#/load/TxcCz5nk)
 
    1. __ŪĖYOQJ Ratise (ISO) — 66.90__ ⟨62.78⟩
    2. QGRLDČ LEKP (ISO) — 66.73 __⟨63.00⟩__
-   3. QWERTY Baltic+ (ISO) — 49.04 ⟨39.51⟩
-   4. AŽERTY IBM, LT Standard 1992 (ISO) — 47.67 ⟨39.29⟩
-   5. AŽERTY LT Standard 2000 (ISO) — 46.72 ⟨36.38⟩
+   3. ĖOŪYHJ Remigijaus (ISO) — 60.96 ⟨59.88⟩
+   4. FZVPUJ (ISO) — 55.67 ⟨44.32⟩
+   5. QWERTY Baltic-Numeric (ISO) — 49.04 ⟨39.51⟩
+   6. QWERTY Lithuanian Programmers (ISO) — 49.04 ⟨39.51⟩
+   7. QWERTY Baltic-Numeric Programmers (ISO (ISO) — 49.04 ⟨39.51⟩
+   8. QWERTY Lithuanian (ISO) — 48.81 ⟨39.37⟩
+   9. AŽERTY IBM, LT Standard 1992 (ISO) — 47.67 ⟨39.29⟩
+   10. AŽERTY LT Standard 2000 (ISO) — 46.72 ⟨36.38⟩
 
-+ [Keyboard Layout Analyzer: Wikipedia “Physics”](http://patorjk.com/keyboard-layout-analyzer/#/load/RV8H0NNW)
++ Keyboard Layout Analyzer — Wikipedia “Physics”: [1](http://patorjk.com/keyboard-layout-analyzer/#/load/dDdhRXJp), [2](http://patorjk.com/keyboard-layout-analyzer/#/load/L5xZ6Vrf)
 
    1. __ŪĖYOQJ Ratise (ISO) — 63.59 ⟨60.22⟩__
-   2. QGRLDČ LEKP (ISO) — 58.91 ⟨50.95⟩
-   3. QWERTY Baltic-Numeric (ISO) — 47.45 ⟨38.80⟩
-   4. AŽERTY IBM, LT Standard 1992 (ISO) — 44.89 ⟨37.22⟩
-   5. AŽERTY LT Standard 2000 (ISO) — 42.70 ⟨32.89⟩
+   2. QGRLDČ LEKP (ISO) — 58.66 ⟨50.14⟩
+   3. ĖOŪYHJ Remigijaus (ISO) — 54.46 ⟨52.36⟩
+   4. FZVPUJ (ISO) — 49.18 ⟨39.04⟩
+   5. QWERTY Lithuanian Programmers (ISO) — 47.81 ⟨38.85⟩
+   6. QWERTY QWERTY Baltic-Numeric Programmers (ISO) (ISO) — 47.81 ⟨38.85⟩
+   7. QWERTY Lithuanian (ISO) — 47.53 ⟨38.79⟩
+   8. QWERTY Baltic-Numeric (ISO) — 47.49 ⟨38.86⟩
+   9. AŽERTY IBM, LT Standard 1992 (ISO) — 44.95 ⟨37.30⟩
+   10. AŽERTY LT Standard 2000 (ISO) — 42.77 ⟨32.91⟩
 
-+ [Keyboard Layout Analyzer: Alice in Wonderland, Chapter 1](http://patorjk.com/keyboard-layout-analyzer/#/load/QPM17nf2)
++ Keyboard Layout Analyzer — Alice in Wonderland, Chapter 1: [1](http://patorjk.com/keyboard-layout-analyzer/#/load/FJzXXpSR), [2](http://patorjk.com/keyboard-layout-analyzer/#/load/MM6QwmSV)
 
    1. __Ratise (ISO) — 62.38 ⟨57.87⟩__
-   2. QGRLDČ LEKP (ISO) — 60.28 ⟨55.15⟩
-   3. QWERTY Baltic-Numeric (ISO) — 52.89 ⟨46.38⟩
-   4. AŽERTY IBM, LT Standard 1992 (ISO) — 48.91 ⟨43.77⟩
-   5. AŽERTY LT Standard 2000 (ISO) — 47.08 ⟨39.24⟩
+   2. QGRLDČ LEKP (ISO) — 61.04 ⟨56.65⟩
+   3. ĖOŪYHJ Remigijaus (ISO) — 57.42 ⟨59.34⟩
+   4. QWERTY Lithuanian Programmers (ISO) — 52.93 ⟨46.15⟩
+   5. QWERTY Baltic-Numeric Programmers (ISO) — 52.93 ⟨46.15⟩
+   6. QWERTY Baltic-Numeric (ISO) — 52.89 ⟨46.38⟩
+   7. QWERTY Lithuanian (ISO) — 52.02 ⟨45.64⟩
+   8. FZVPUJ (ISO) — 50.79 ⟨39.90⟩
+   9. AŽERTY IBM, LT Standard 1992 (ISO) — 48.95 ⟨43.78⟩
+   10. AŽERTY LT Standard 2000 (ISO) — 47.12 ⟨39.25⟩
 
-+ [Keyboard Layout Analyzer: “Scientific Papers”](http://patorjk.com/keyboard-layout-analyzer/#/load/08tpxbgP)
++ Keyboard Layout Analyzer — “Scientific Papers”: [1](http://patorjk.com/keyboard-layout-analyzer/#/load/cRbvHxS4), [2](http://patorjk.com/keyboard-layout-analyzer/#/load/cLXSd9Hx)
 
    1. __ŪĖYOQJ Ratise (ISO) — 58.91 ⟨55.35⟩__
-   2. QGRLDČ LEKP (ISO) — 58.41 ⟨53.46⟩
-   3. QWERTY Baltic-Numeric (ISO) — 43.25 ⟨34.27⟩
-   4. AŽERTY IBM, LT Standard 1992 (ISO) — 40.79 ⟨31.85⟩
-   5. AŽERTY LT Standard 2000 (ISO) — 38.98 ⟨28.33⟩
+   2. QGRLDČ LEKP (ISO) — 58.47 ⟨53.25⟩
+   3. ĖOŪYHJ Remigijaus (ISO) — 55.20 ⟨54.53⟩
+   4. FZVPUJ (ISO) — 44.82 ⟨33.52⟩
+   5. QWERTY Lithuanian Programmers (ISO) — 44.58 ⟨33.51⟩
+   6. QWERTY Baltic-Numeric Programmers (ISO) — 44.58 ⟨33.51⟩
+   7. QWERTY Lithuanian (ISO) — 44.38 ⟨33.40⟩
+   8. QWERTY Baltic-Numeric (ISO) — 43.43 ⟨34.43⟩
+   9. AŽERTY IBM, LT Standard 1992 (ISO) — 40.97 ⟨32.01⟩
+   10. AŽERTY LT Standard 2000 (ISO) — 39.17 ⟨28.49⟩
 
-+ [Keyboard Layout Analyzer: Quentin Tarantino “Pulp Fiction”](http://patorjk.com/keyboard-layout-analyzer/#/load/Z5rdc8rq)
++ Keyboard Layout Analyzer — Quentin Tarantino “Pulp Fiction”: [1](http://patorjk.com/keyboard-layout-analyzer/#/load/lmR992lB), [2](http://patorjk.com/keyboard-layout-analyzer/#/load/L7lJ2TBB)
 
    1. __ŪĖYOQJ Ratise (ISO) — 54.22 ⟨48.18⟩__
-   2. QGRLDČ LEKP (ISO) — 51.37 ⟨41.97⟩
-   3. QWERTY Baltic-Numeric (ISO) — 45.54 ⟨38.88⟩
-   4. AŽERTY IBM, LT Standard 1992 (ISO) — 41.78 ⟨37.86⟩
-   5. AŽERTY LT Standard 2000 (ISO) — 39.91 ⟨31.86⟩
+   2. QGRLDČ LEKP (ISO) — 51.89 ⟨42.54⟩
+   3. ĖOŪYHJ Remigijaus (ISO) — 50.83 ⟨52.84⟩
+   4. QWERTY Baltic-Numeric (ISO) — 45.54 ⟨38.88⟩
+   5. QWERTY Lithuanian Programmers (ISO) — 45.48 ⟨38.54⟩
+   6. QWERTY Baltic-Numeric Programmers (ISO) — 45.48 ⟨38.54⟩
+   7. QWERTY Lithuanian (ISO) — 43.21 ⟨36.67⟩
+   8. FZVPUJ (ISO) — 43.18 ⟨32.41⟩
+   9. AŽERTY IBM, LT Standard 1992 (ISO) — 41.78 ⟨37.86⟩
+   10. AŽERTY LT Standard 2000 (ISO) — 39.91 ⟨31.87⟩
   
   _Žemiau pateikiami paveikslėliai su išdėstymų mygtukų naudojimo dažnumu spausdinant anglišką tekstą. Ryškesnė spalva rodo didesnį mygtuko naudojimo dažnumą._
 
@@ -194,21 +254,31 @@ _Žemiau pateikiami paveikslėliai su išdėstymų mygtukų naudojimo dažnumu s
 
 ## Programavimo kalbų teksto skaidymas:
 
-+ [Keyboard Layout Analyzer: ‘Programming Punctuation Torture Test’](http://patorjk.com/keyboard-layout-analyzer/#/load/V2Qmj2hB)
++ Keyboard Layout Analyzer — ‘Programming Punctuation Torture Test’: [1](http://patorjk.com/keyboard-layout-analyzer/#/load/0XVsHLDr), [2](http://patorjk.com/keyboard-layout-analyzer/#/load/zvgB0lvw)
 
-   1. __ŪĖYOQJ Ratise (ISO) — 46.95 ⟨32.08⟩__
-   2. QGRLDČ LT Standard 2000 (ISO) — 34.29 ⟨15.60⟩
-   3. AŽERTY IBM, LT Standard 1992 (ISO) — 33.10 ⟨17.72⟩
-   3. QWERTY Baltic-Numeric (ISO) — 22.23 ⟨2.47⟩
-   4. QGRLDČ LEKP (ISO) — 22.14 ⟨1.11⟩
+   1. __ŪĖYOQJ Ratise (ISO) — 47.32 ⟨31.94⟩__
+   2. ĖOŪYHJ Remigijaus (ISO) — 42.78 ⟨35.96⟩
+   3. FZVPUJ (ISO) — 41.52 ⟨28.19⟩
+   4. QGRLDČ LT Standard 2000 (ISO) — 35.75 ⟨16.81⟩
+   5. AŽERTY IBM, LT Standard 1992 (ISO) — 33.71 ⟨19.26⟩
+   6. QWERTY Lithuanian (ISO) — 33.24 ⟨12.73⟩
+   7. QGRLDČ LEKP (ISO) — 24.49 ⟨0.00⟩
+   8. QWERTY Baltic-Numeric (ISO) — 22.44 ⟨2.39⟩
+   9. QWERTY Lithuanian Programmers (ISO) — 17.80 ⟨0.00⟩
+   10. QWERTY Baltic-Numeric Programmers (ISO) — 17.80 ⟨0.00⟩
 
-+ [Keyboard Layout Analyzer: ‘Bash, C, CPP, HTML, JavaScript, Python’](http://patorjk.com/keyboard-layout-analyzer/#/load/t2XQJPcd)
++ Keyboard Layout Analyzer — ‘Bash, C, CPP, HTML, JavaScript, Python’: [1](http://patorjk.com/keyboard-layout-analyzer/#/load/3XvH0gml), [2](http://patorjk.com/keyboard-layout-analyzer/#/load/NQJQCVs9)
 
-   1. __ŪĖYOQJ Ratise (ISO) — 45.38 ⟨43.94⟩__
-   2. QGRLDČ LEKP (ISO) — 40.70 ⟨33.38⟩
-   3. QWERTY Baltic-Numeric (ISO) — 34.13 ⟨23.98⟩
-   4. AŽERTY IBM, LT Standard 1992 (ISO) — 33.88 ⟨23.85⟩
-   5. AŽERTY LT Standard 2000 (ISO) — 33.34 ⟨21.55⟩
+   1. __ŪĖYOQJ Ratise (ISO) — 45.54 ⟨44.09⟩__
+   2. ĖOŪYHJ Remigijaus (ISO) — 43.49 ⟨47.38⟩
+   3. QGRLDČ LEKP (ISO) — 40.92 ⟨33.52⟩
+   4. QWERTY Lithuanian (ISO) — 36.50 ⟨24.26⟩
+   5. QWERTY Lithuanian Programmers (ISO) — 34.85 ⟨22.62⟩
+   6. QWERTY Baltic-Numeric Programmers (ISO) — 34.85 ⟨22.62⟩
+   7. FZVPUJ (ISO) — 34.60 ⟨22.15⟩
+   8. QWERTY Baltic-Numeric (ISO) — 34.18 ⟨24.04⟩
+   9. AŽERTY IBM, LT Standard 1992 (ISO) — 33.95 ⟨23.70⟩
+   10. AŽERTY LT Standard 2000 (ISO) — 33.54 ⟨21.69⟩
 
 _Žemiau pateikiami paveikslėliai su išdėstymų mygtukų naudojimo dažnumu spausdinant ‘Bash, C, CPP, HTML, JavaScript, Python’ tekstą. Ryškesnė spalva rodo didesnį mygtuko naudojimo dažnumą._
 
