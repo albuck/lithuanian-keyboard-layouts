@@ -5,7 +5,7 @@
   __[ŪĖYOQJ Ratise (ISO) ](https://albuck.github.io/Ratise-layout/) — NP-100%(‡):__
    ![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO](images/lt-ueyoqj-ratise-iso.svg)
    
-  __[ĖOŪYHJ Remigijaus (ISO)](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html) — NP92%:__
+  __[ĖOŪYHJ Remigijaus (ISO)](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html) — NP-92%:__
    ![Lietuviškas Remigijaus klaviatūros išdėstymas ĖOŪYHJ Fonetinis ISO](images/lt-eouyhj-iso.svg)
 
   __[QGRLDČ Lekp (ISO)](https://lekp.info/) — NP-89%:__
