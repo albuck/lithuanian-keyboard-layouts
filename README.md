@@ -32,7 +32,7 @@
   __10. [QWERTY Baltic-Numeric Programmers (ISO)](http://lietuvybė.lt/naudotojams/klaviaturos/) — NP-64%:__
    ![Lietuviškas klaviatūros išdėstymas QWERTY Baltic Numeric Programmers ISO](images/lt-qwerty-baltic-numeric-programmers-iso.svg)
 
-‡ Išdėstymai rikiuoti pagal našumą-patogumą (NP) nuošimčiais lyginant su geriausiai patikrose pasirodžiusiu išdėstymu (Ratise). Lyginamieji skaičiai gauti taip: paimti lietuviškų tekstų patikrų (duotos žemiau) skaičių vidurkiai, prie jų pridėti likusių patikrų skaičiai dalinti iš 10 (taip sumažinant nelietuviškų tekstų įnašą bei supaprastinant skaičiavimus), toliau paskaičiuoti lyginamieji nuošimčiai kiekvieno išdėstymo.
+    ‡ Išdėstymai rikiuoti pagal našumą-patogumą (NP) nuošimčiais lyginant su geriausiai patikrose pasirodžiusiu išdėstymu (Ratise). Lyginamieji skaičiai gauti taip: paimti lietuviškų tekstų patikrų (duotos žemiau) skaičių vidurkiai, prie jų pridėti likusių patikrų skaičiai dalinti iš 10 (taip sumažinant nelietuviškų tekstų įnašą bei supaprastinant skaičiavimus), toliau paskaičiuoti lyginamieji nuošimčiai kiekvieno išdėstymo.
 
 
 Čia naudotasi puikiu žiniatinklio ištekliu: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main), kur išdėstymo našumas-patogumas matuojamas taškais. Skaičiuojant taškus atsižvelgiama į pirštų nueinamą atstumą (33%), kaip dažnai tam pačiam pirštui tenka iš eilės spaudinėti (33%), bei kaip dažnai spausdinant kaitaliojami pirštai (17%) ir rankos (17%).
