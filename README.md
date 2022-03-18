@@ -197,7 +197,7 @@ __Pastabos.__ Kampiniuose skliaustuose duoti skaičiai yra iš [stevep99 puslapi
    3. ĖOŪYHJ Remigijaus (ISO) — 54.46 ⟨52.36⟩
    4. FZVPUJ (ISO) — 49.18 ⟨39.04⟩
    5. QWERTY Lithuanian Programmers (ISO) — 47.81 ⟨38.85⟩
-   6. QWERTY QWERTY Baltic-Numeric Programmers (ISO) (ISO) — 47.81 ⟨38.85⟩
+   6. QWERTY QWERTY Baltic-Numeric Programmers (ISO) — 47.81 ⟨38.85⟩
    7. QWERTY Lithuanian (ISO) — 47.53 ⟨38.79⟩
    8. QWERTY Baltic-Numeric (ISO) — 47.49 ⟨38.86⟩
    9. AŽERTY IBM, LT Standard 1992 (ISO) — 44.95 ⟨37.30⟩
