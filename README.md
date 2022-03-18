@@ -295,13 +295,18 @@ _Žemiau pateikiami paveikslėliai su išdėstymų mygtukų naudojimo dažnumu s
 
 ## Lotyniško teksto „Lorem Ipsum“ skaidymas:
 
-+ [Keyboard Layout Analyzer: Lorem Ipsum](http://patorjk.com/keyboard-layout-analyzer/#/load/Dx3GlBwx)
++ Keyboard Layout Analyzer — “Lorem Ipsum”: [1](http://patorjk.com/keyboard-layout-analyzer/#/load/GpMxnkMJ), [2](http://patorjk.com/keyboard-layout-analyzer/#/load/9KQb0gb6)
 
    1. __ŪĖYOQJ Ratise (ISO) — 70.69 ⟨72.16⟩__
-   2. QGRLDČ LEKP (ISO) —  	67.92 ⟨60.10⟩
-   3. QWERTY Baltic-Numeric (ISO) — 48.67 ⟨40.96⟩
-   4. AŽERTY IBM, LT Standard 1992 (ISO) — 46.36 ⟨40.80⟩
-   5. AŽERTY LT Standard 2000 (ISO) — 46.24 ⟨40.02⟩
+   2. QGRLDČ LEKP (ISO) —  	68.70 ⟨61.42⟩
+   3. ĖOŪYHJ Remigijaus (ISO) — 63.08 ⟨62.52⟩
+   4. FZVPUJ (ISO) — 59.62 ⟨49.61⟩
+   5. QWERTY Lithuanian (ISO) — 48.88 ⟨41.11⟩
+   6. QWERTY Lithuanian Programmers (ISO) — 48.84 ⟨40.99⟩
+   7. QWERTY Baltic-Numeric Programmers (ISO) — 48.84 ⟨40.99⟩
+   8. QWERTY Baltic-Numeric (ISO) — 48.67 ⟨40.96⟩
+   9. AŽERTY IBM, LT Standard 1992 (ISO) — 46.36 ⟨40.80⟩
+   10. AŽERTY LT Standard 2000 (ISO) — 46.24 ⟨40.02⟩
 
 
 ## Išvados:
