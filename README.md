@@ -16,23 +16,24 @@
  
   __5. [QWERTY Lithuanian (ISO)](https://www.registrucentras.lt/litwin/keyboard.html) — NP-72%:__
    ![Lietuviškas klaviatūros išdėstymas QWERTY Lithuaian ISO](images/lt-qwerty-iso.svg)
+  
+  __6. [QWERTY Baltic-Numeric (ISO)](https://www.registrucentras.lt/litwin/keyboard.html) — NP-71%:__
+   ![Lietuviškas klaviatūros išdėstymas QWERTY Baltic Numeric Skaičiukinis ISO](images/lt-qwerty-baltic-numeric-iso.svg)
 
-  __6. [QWERTY Lithuanian Programmers (ISO)](https://www.registrucentras.lt/litwin/keyboard.html) — NP-70%:__
+  __7. [ĄŽERTY IBM Standard 1992 (ISO)](https://www.registrucentras.lt/litwin/keyboard.html) — NP-70%:__
+   ![Lietuviškas klaviatūros išdėstymas ĄŽERTY IBM Standard 1992 ISO](images/lt-azerty-ibm-iso.svg)
+ 
+  __8. [QWERTY Lithuanian Programmers (ISO)](https://www.registrucentras.lt/litwin/keyboard.html) — NP-70%:__
    ![Lietuviškas klaviatūros išdėstymas QWERTY Lithuanian Programmers Programuotojų ISO](images/lt-qwerty-programmers-iso.svg)
   
-  __7. [ĄŽERTY Standard 2000 (ISO)](http://www.ims.mii.lt/klav/) — NP-70%:__
+  __9. [ĄŽERTY Standard 2000 (ISO)](http://www.ims.mii.lt/klav/) — NP-70%:__
    ![Lietuviškas klaviatūros išdėstymas ĄŽERTY Standard Standartinis 2000 ISO](images/lt-azerty-standard-iso.svg)
-   
-  __8. [ĄŽERTY IBM Standard 1992 (ISO)](https://www.registrucentras.lt/litwin/keyboard.html) — NP-67%:__
-   ![Lietuviškas klaviatūros išdėstymas ĄŽERTY IBM Standard 1992 ISO](images/lt-azerty-ibm-iso.svg)
-  
-  __9. [QWERTY Baltic-Numeric (ISO)](https://www.registrucentras.lt/litwin/keyboard.html) — NP-66%:__
-   ![Lietuviškas klaviatūros išdėstymas QWERTY Baltic Numeric Skaičiukinis ISO](images/lt-qwerty-baltic-numeric-iso.svg)
-   
-  __10. [QWERTY Baltic-Numeric Programmers (ISO)](http://lietuvybė.lt/naudotojams/klaviaturos/) — NP-64%:__
+    
+  __10. [QWERTY Baltic-Numeric Programmers (ISO)](http://lietuvybė.lt/naudotojams/klaviaturos/) — NP-69%:__
    ![Lietuviškas klaviatūros išdėstymas QWERTY Baltic Numeric Programmers ISO](images/lt-qwerty-baltic-numeric-programmers-iso.svg)
 
-+ ‡ Išdėstymai rikiuoti pagal našumą-patogumą (NP) nuošimčiais lyginant su geriausiai patikrose pasirodžiusiu išdėstymu (Ratise). Lyginamieji skaičiai gauti taip: paimti lietuviškų tekstų patikrų (duotos žemiau) skaičių vidurkiai, prie jų pridėti likusių patikrų skaičiai dalinti iš 10 (taip sumažinant nelietuviškų tekstų įnašą bei supaprastinant skaičiavimus), toliau paskaičiuoti lyginamieji nuošimčiai kiekvieno išdėstymo.
++ Išdėstymai rikiuoti pagal patikrose surinktų skaičių sumos dydį.
++ ‡ NP (našumas-patogumas) išreikštas nuošimčiais, lyginant išdėstymų surinktų taškų sumą su geriausiai pasirodžiusiujo išdėstymo (Ratisės) taškų suma.
 
 
 Čia naudotasi puikiu žiniatinklio ištekliu: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main), kur išdėstymo našumas-patogumas matuojamas taškais. Skaičiuojant taškus atsižvelgiama į pirštų nueinamą atstumą (33%), kaip dažnai tam pačiam pirštui tenka iš eilės spaudinėti (33%), bei kaip dažnai spausdinant kaitaliojami pirštai (17%) ir rankos (17%).
