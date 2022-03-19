@@ -32,7 +32,7 @@
   __10. [QWERTY Baltic-Numeric Programmers (ISO)](http://lietuvybė.lt/naudotojams/klaviaturos/) — NP-V69%-L66%-E78%-P57%:__
    ![Lietuviškas klaviatūros išdėstymas QWERTY Baltic Numeric Programmers ISO](images/lt-qwerty-baltic-numeric-programmers-iso.svg)
 
-+ Išdėstymai rikiuoti pagal patikrose surinktų skaičių sumos dydį.
++ Išdėstymai rikiuoti pagal visose patikrose surinktų skaičių sumos dydį.
 + ‡ NP (našumas-patogumas) išreikštas nuošimčiais, lyginant išdėstymų surinktų taškų sumą su geriausiai pasirodžiusiujo išdėstymo (Ratisės) taškų suma, nuošimtis su priešdėliu ‘V’ rodo skaičiavimą visiems bendrai skaičiams, nuošimtis su priešdėliu ‘L’ rodo skaičiavimą tik lietuviškam tekstui, nuošimtis su priešdėliu ‘E’ — tik angliškam, su ‘P’ — tik programavimo tekstui.
 
 
