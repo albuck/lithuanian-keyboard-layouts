@@ -33,10 +33,49 @@
    ![Lietuviškas klaviatūros išdėstymas QWERTY Baltic Numeric Programmers ISO](images/lt-qwerty-baltic-numeric-programmers-iso.svg)
 
 + Išdėstymai rikiuoti pagal visose patikrose surinktų skaičių sumos dydį.
-+ ‡ NP (našumas-patogumas) išreikštas nuošimčiais, lyginant išdėstymų surinktų taškų sumą su geriausiai pasirodžiusiujo išdėstymo (Ratisės) taškų suma, nuošimtis su priešdėliu ‘V’ rodo skaičiavimą visiems bendrai skaičiams, nuošimtis su priešdėliu ‘L’ rodo skaičiavimą tik lietuviškam tekstui, nuošimtis su priešdėliu ‘E’ — tik angliškam, su ‘P’ — tik programavimo tekstui.
 
+‡ NP (našumas-patogumas) išreikštas nuošimčiais, lyginant išdėstymų surinktų taškų sumą su geriausiai pasirodžiusiujo išdėstymo (Ratisės) taškų suma, nuošimtis su priešdėliu ‘V’ rodo skaičiavimą visiems bendrai skaičiams, nuošimtis su priešdėliu ‘L’ rodo skaičiavimą tik lietuviškam tekstui, nuošimtis su priešdėliu ‘E’ — tik angliškam, su ‘P’ — tik programavimo tekstui.
 
-Čia naudotasi puikiu žiniatinklio ištekliu: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main), kur išdėstymo našumas-patogumas matuojamas taškais. Skaičiuojant taškus atsižvelgiama į pirštų nueinamą atstumą (33%), kaip dažnai tam pačiam pirštui tenka iš eilės spaudinėti (33%), bei kaip dažnai spausdinant kaitaliojami pirštai (17%) ir rankos (17%).
++ Lietuviškų išdėstymų NP vertinimo eilė lietuviškam tekstui:
+ 
+   1. __ŪĖYOQJ Ratise (ISO) — 100%__
+   2. ĖOŪYHJ Remigijaus (ISO) — 93%
+   3. QGRLDČ LEKP (ISO) — 88%
+   4. FZVPUJ (ISO) — 70%
+   5. QWERTY Lithuanian (ISO) — 70%
+   6. AŽERTY LT Standard 2000 (ISO) — 70%
+   7. AŽERTY IBM, LT Standard 1992 (ISO) — 69%⟩
+   8. QWERTY Baltic-Numeric (ISO) — 69%
+   9. QWERTY Lithuanian Programmers (ISO) — 68%
+   10. QWERTY Baltic-Numeric Programmers (ISO) — 66%
+
++ Lietuviškų išdėstymų NP vertinimo eilė angliškam tekstui:
++ 
+   1. __ŪĖYOQJ Ratise (ISO) — 100%__
+   2. QGRLDČ LEKP (ISO) — 97%
+   3. ĖOŪYHJ Remigijaus (ISO) — 91%
+   4. FZVPUJ (ISO) — 80%
+   5. QWERTY Lithuanian Programmers (ISO) — 78%
+   6. QWERTY Baltic-Numeric Programmers (ISO) — 78%
+   7. QWERTY Baltic-Numeric (ISO) — 78%
+   8. QWERTY Lithuanian (ISO) — 77%
+   9. AŽERTY IBM, LT Standard 1992 (ISO) — 73%⟩
+   10. AŽERTY LT Standard 2000 (ISO) — 70%
+
++ Lietuviškų išdėstymų NP vertinimo eilė programavimo tekstui:
+
+   1. __ŪĖYOQJ Ratise (ISO) — 100%__
+   2. ĖOŪYHJ Remigijaus (ISO) — 93%
+   3. FZVPUJ (ISO) — 82%
+   4. QWERTY Lithuanian (ISO) — 75%
+   5. AŽERTY LT Standard 2000 (ISO) — 75%
+   6. AŽERTY IBM, LT Standard 1992 (ISO) — 73%
+   7. QGRLDČ LEKP (ISO) — 70%
+   8. QWERTY Baltic-Numeric (ISO) — 61%
+   9. QWERTY Lithuanian Programmers (ISO) — 57%
+   10. QWERTY Baltic-Numeric Programmers (ISO) — 57%
+
+Čia klaviatūros išdėstymų vertinimui naudotasi puikiu žiniatinklio ištekliu: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main), kur išdėstymo našumas-patogumas matuojamas taškais. Skaičiuojant taškus atsižvelgiama į pirštų nueinamą atstumą (33%), kaip dažnai tam pačiam pirštui tenka iš eilės spaudinėti (33%), bei kaip dažnai spausdinant kaitaliojami pirštai (17%) ir rankos (17%).
 
 __Pastabos.__ Kampiniuose skliaustuose duoti skaičiai yra iš [stevep99 puslapio](https://stevep99.github.io/keyboard-layout-analyzer/#/main) gautos patikros, šis žmogus yra kiek pakeitęs-tobulinęs ‘Keybord Layout Analyzer’ kūrėjo išdėstymų skaičiavimus, gal didžiausias jo tų skaičiavimų skirtumas, kad jis yra atsisakęs rankų pakaitos spausdinant skaičiavimo, skaičiai pateikiami be nuorodų (nėra tokios galimybės, norintiems patikrinti, teks susikelti patiems išdėstymus ir tekstus). Patikroje penktas viršutinis mygtukas (QWERTY skaičių eilėje ‘4’) yra priskirtas kairiosios rankos didžiajam pirštui, septintas viršutinis mygtukas (QWERTY skaičių eilėje ‘6’) priskirtas kairiajam smiliui ir vienuoliktas (QWERTY ‘0’) dešiniajam bevardžiui, klaviatūrose su skersuotais mygtukais taip patogiau; taip pat perskirtose klaviatūrose tas septintas mygtukas paprastai būna kairėje pusėje. Perpaskyrus, kaip įprastai turėtų būti, patikros taškai gali nežymiai skirtis. Išdėstymuose patikroje yra suvienodinti ilgieji brūkšniai. Senesni išdėstymai papildyti ilguoju brūkšniu ir lietuviškomis kabutėmis (žali).
 
