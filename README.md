@@ -37,9 +37,9 @@
 
 ‡ NP (našumas-patogumas, ergonomiškumas) išreikštas nuošimčiais, lyginant išdėstymų surinktų taškų sumą su geriausiai pasirodžiusiujo išdėstymo (Ratisės) taškų suma, nuošimtis su priešdėliu ‘V’ rodo skaičiavimą visiems bendrai skaičiams, nuošimtis su priešdėliu ‘L’ rodo skaičiavimą tik lietuviškam tekstui, nuošimtis su priešdėliu ‘E’ — tik angliškam, su ‘P’ — tik programavimo tekstui.
 
-+ _Lietuviškų išdėstymų NP vertinimo eilė lietuviškam tekstui:_
++ __Lietuviškų išdėstymų NP vertinimo eilė lietuviškam tekstui:__
  
-   1. __ŪĖYOQJ Ratisė (ISO) — 100%__
+   1. ŪĖYOQJ Ratisė (ISO) — 100%
    2. ĖOŪYHJ Remigijaus (ISO) — 93%
    3. QGRLDČ LEKP (ISO) — 88%
    4. FZVPUJ (ISO) — 70%
@@ -50,9 +50,9 @@
    9. QWERTY Lithuanian Programmers (ISO) — 68%
    10. QWERTY Baltic-Numeric Programmers (ISO) — 66%
 
-+ _Lietuviškų išdėstymų NP vertinimo eilė angliškam tekstui:_
++ __Lietuviškų išdėstymų NP vertinimo eilė angliškam tekstui:__
  
-   1. __ŪĖYOQJ Ratisė (ISO) — 100%__
+   1. ŪĖYOQJ Ratisė (ISO) — 100%
    2. QGRLDČ LEKP (ISO) — 97%
    3. ĖOŪYHJ Remigijaus (ISO) — 91%
    4. FZVPUJ (ISO) — 80%
@@ -63,9 +63,9 @@
    9. AŽERTY IBM, LT Standard 1992 (ISO) — 73%
    10. AŽERTY LT Standard 2000 (ISO) — 70%
 
-+ _Lietuviškų išdėstymų NP vertinimo eilė programavimo tekstui:_
++ __Lietuviškų išdėstymų NP vertinimo eilė programavimo tekstui:__
 
-   1. __ŪĖYOQJ Ratisė (ISO) — 100%__
+   1. ŪĖYOQJ Ratisė (ISO) — 100%
    2. ĖOŪYHJ Remigijaus (ISO) — 93%
    3. FZVPUJ (ISO) — 82%
    4. QWERTY Lithuanian (ISO) — 75%
