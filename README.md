@@ -1,6 +1,9 @@
 
 # Lietuviškų klaviatūros išdėstymų palyginimas
 
++ Išdėstymai rikiuojami pagal visose patikrose (žemiau) surinktų skaičių sumos didumą.
+
+
   __1. [ŪĖYOQJ Ratisė](https://albuck.github.io/Ratise-layout/) (ISO):__
    ![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO](images/lt-ueyoqj-ratise-iso.svg)
        NP — V100% L100% E100% P100%(‡)
@@ -41,7 +44,6 @@
    ![Lietuviškas klaviatūros išdėstymas QWERTY Baltic Numeric Programmers ISO](images/lt-qwerty-baltic-numeric-programmers-iso.svg)
        NP — V69% L66% E78% P57%
 
-+ Išdėstymai rikiuoti pagal visose patikrose surinktų skaičių sumos dydį.
 
 ‡ NP (našumas-patogumas, ergonomiškumas) išreikštas nuošimčiais, lyginant išdėstymų surinktų taškų sumą su geriausiai pasirodžiusiujo išdėstymo (Ratisės) taškų suma, nuošimtis su priešdėliu ‘V’ rodo skaičiavimą visiems bendrai skaičiams, nuošimtis su priešdėliu ‘L’ rodo skaičiavimą tik lietuviškam tekstui, nuošimtis su priešdėliu ‘E’ — tik angliškam, su ‘P’ — tik programavimo tekstui.
 
