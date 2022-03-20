@@ -1,7 +1,7 @@
 
 # Lietuviškų klaviatūros išdėstymų palyginimas
 
-+ Išdėstymai rikiuojami pagal visose patikrose (žemiau) surinktų skaičių sumos didumą.
+Išdėstymai rikiuojami pagal visose patikrose (žemiau) surinktų skaičių sumos didumą.
 
 
   __1. [ŪĖYOQJ Ratisė](https://albuck.github.io/Ratise-layout/) (ISO):__
