@@ -44,7 +44,7 @@
    4. FZVPUJ (ISO) — 70%
    5. QWERTY Lithuanian (ISO) — 70%
    6. AŽERTY LT Standard 2000 (ISO) — 70%
-   7. AŽERTY IBM, LT Standard 1992 (ISO) — 69%⟩
+   7. AŽERTY IBM, LT Standard 1992 (ISO) — 69%
    8. QWERTY Baltic-Numeric (ISO) — 69%
    9. QWERTY Lithuanian Programmers (ISO) — 68%
    10. QWERTY Baltic-Numeric Programmers (ISO) — 66%
@@ -59,7 +59,7 @@
    6. QWERTY Baltic-Numeric Programmers (ISO) — 78%
    7. QWERTY Baltic-Numeric (ISO) — 78%
    8. QWERTY Lithuanian (ISO) — 77%
-   9. AŽERTY IBM, LT Standard 1992 (ISO) — 73%⟩
+   9. AŽERTY IBM, LT Standard 1992 (ISO) — 73%
    10. AŽERTY LT Standard 2000 (ISO) — 70%
 
 + Lietuviškų išdėstymų NP vertinimo eilė programavimo tekstui:
