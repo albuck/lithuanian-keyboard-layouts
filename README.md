@@ -36,7 +36,7 @@
 
 ‡ NP (našumas-patogumas) išreikštas nuošimčiais, lyginant išdėstymų surinktų taškų sumą su geriausiai pasirodžiusiujo išdėstymo (Ratisės) taškų suma, nuošimtis su priešdėliu ‘V’ rodo skaičiavimą visiems bendrai skaičiams, nuošimtis su priešdėliu ‘L’ rodo skaičiavimą tik lietuviškam tekstui, nuošimtis su priešdėliu ‘E’ — tik angliškam, su ‘P’ — tik programavimo tekstui.
 
-+ Lietuviškų išdėstymų NP vertinimo eilė lietuviškam tekstui:
++ _Lietuviškų išdėstymų NP vertinimo eilė lietuviškam tekstui:_
  
    1. __ŪĖYOQJ Ratise (ISO) — 100%__
    2. ĖOŪYHJ Remigijaus (ISO) — 93%
@@ -49,8 +49,8 @@
    9. QWERTY Lithuanian Programmers (ISO) — 68%
    10. QWERTY Baltic-Numeric Programmers (ISO) — 66%
 
-+ Lietuviškų išdėstymų NP vertinimo eilė angliškam tekstui:
-+ 
++ _Lietuviškų išdėstymų NP vertinimo eilė angliškam tekstui:_
+ 
    1. __ŪĖYOQJ Ratise (ISO) — 100%__
    2. QGRLDČ LEKP (ISO) — 97%
    3. ĖOŪYHJ Remigijaus (ISO) — 91%
@@ -62,7 +62,7 @@
    9. AŽERTY IBM, LT Standard 1992 (ISO) — 73%
    10. AŽERTY LT Standard 2000 (ISO) — 70%
 
-+ Lietuviškų išdėstymų NP vertinimo eilė programavimo tekstui:
++ _Lietuviškų išdėstymų NP vertinimo eilė programavimo tekstui:_
 
    1. __ŪĖYOQJ Ratise (ISO) — 100%__
    2. ĖOŪYHJ Remigijaus (ISO) — 93%
