@@ -75,7 +75,7 @@
    9. QWERTY Lithuanian Programmers (ISO) — 57%
    10. QWERTY Baltic-Numeric Programmers (ISO) — 57%
 
-# Išdėstymų patikros
+## Išdėstymų patikros
 
 Čia klaviatūros išdėstymų vertinimui naudotasi puikiu žiniatinklio ištekliu: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main), kur išdėstymo našumas-patogumas matuojamas taškais. Skaičiuojant taškus atsižvelgiama į pirštų nueinamą atstumą (33%), kaip dažnai tam pačiam pirštui tenka iš eilės spaudinėti (33%), bei kaip dažnai spausdinant kaitaliojami pirštai (17%) ir rankos (17%).
 
@@ -84,7 +84,7 @@ __Pastabos.__ Kampiniuose skliaustuose duoti skaičiai yra iš [stevep99 puslapi
 + __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „išdėstymo įvertinimo taškai“
 
 
-## Lietuviško teksto skaidymas:
+### Lietuviško teksto skaidymas:
 
 + Keyboard Layout Analyzer — _Lietuviškų dažnų žodžių šimtukas_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/QBq4kcpG), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/KX2tTgnK)
 
@@ -217,7 +217,7 @@ __Pastabos.__ Kampiniuose skliaustuose duoti skaičiai yra iš [stevep99 puslapi
    10. AŽERTY IBM, LT Standard 1992 (ISO) — 41.21 ⟨35.74⟩
 
 
-## Angliško teksto skaidymas:
+### Angliško teksto skaidymas:
 
 + Keyboard Layout Analyzer — _List of the most commonly used words_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/rfHZ7qWZ), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/TxcCz5nk)
 
@@ -285,7 +285,7 @@ __Pastabos.__ Kampiniuose skliaustuose duoti skaičiai yra iš [stevep99 puslapi
    10. AŽERTY LT Standard 2000 (ISO) — 39.91 ⟨31.87⟩
   
 
-## Programavimo kalbų teksto skaidymas:
+### Programavimo kalbų teksto skaidymas:
 
 + Keyboard Layout Analyzer — _‘Programming Punctuation Torture Test’_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/0XVsHLDr), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/zvgB0lvw)
 
@@ -314,7 +314,7 @@ __Pastabos.__ Kampiniuose skliaustuose duoti skaičiai yra iš [stevep99 puslapi
    10. AŽERTY LT Standard 2000 (ISO) — 33.54 ⟨21.69⟩
 
 
-## Lotyniško teksto „Lorem Ipsum“ skaidymas:
+### Lotyniško teksto „Lorem Ipsum“ skaidymas:
 
 + Keyboard Layout Analyzer — _“Lorem Ipsum”_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/GpMxnkMJ), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/9KQb0gb6)
 
