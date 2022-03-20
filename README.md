@@ -251,7 +251,7 @@ __Pastabos.__ Kampiniuose skliaustuose duoti skaičiai yra iš [stevep99 puslapi
    1. __ŪĖYOQJ Ratise (ISO) — 47.32__ ⟨31.94⟩
    2. ĖOŪYHJ Remigijaus (ISO) — 42.78 __⟨35.96⟩__
    3. FZVPUJ (ISO) — 41.52 ⟨28.19⟩
-   4. QGRLDČ LT Standard 2000 (ISO) — 35.75 ⟨16.81⟩
+   4. AŽERTY LT Standard 2000 (ISO) — 35.75 ⟨16.81⟩
    5. AŽERTY IBM, LT Standard 1992 (ISO) — 33.71 ⟨19.26⟩
    6. QWERTY Lithuanian (ISO) — 33.24 ⟨12.73⟩
    7. QGRLDČ LEKP (ISO) — 24.49 ⟨0.00⟩
