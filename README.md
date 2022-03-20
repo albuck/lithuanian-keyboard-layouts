@@ -1,7 +1,7 @@
 
 # Lietuviškų klaviatūros išdėstymų palyginimas
 
-  __1. [ŪĖYOQJ Ratisė (ISO) ](https://albuck.github.io/Ratise-layout/):__
+  __1. [ŪĖYOQJ Ratisė (ISO)](https://albuck.github.io/Ratise-layout/):__
    ![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO](images/lt-ueyoqj-ratise-iso.svg)
        NP — V100% L100% E100% P100%(‡)
    
