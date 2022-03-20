@@ -2,7 +2,7 @@
 # Lietuviškų klaviatūros išdėstymų palyginimas
 
 
-  __1. [ŪĖYOQJ Ratise (ISO) ](https://albuck.github.io/Ratise-layout/) — NP-V100%-L100%-E100%-P100%(‡):__
+  __1. [ŪĖYOQJ Ratisė (ISO) ](https://albuck.github.io/Ratise-layout/) — NP-V100%-L100%-E100%-P100%(‡):__
    ![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO](images/lt-ueyoqj-ratise-iso.svg)
    
   __2. [ĖOŪYHJ Remigijaus (ISO)](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html) — NP-V92%-L93%-E91%-P93%:__
@@ -38,7 +38,7 @@
 
 + _Lietuviškų išdėstymų NP vertinimo eilė lietuviškam tekstui:_
  
-   1. __ŪĖYOQJ Ratise (ISO) — 100%__
+   1. __ŪĖYOQJ Ratisė (ISO) — 100%__
    2. ĖOŪYHJ Remigijaus (ISO) — 93%
    3. QGRLDČ LEKP (ISO) — 88%
    4. FZVPUJ (ISO) — 70%
@@ -51,7 +51,7 @@
 
 + _Lietuviškų išdėstymų NP vertinimo eilė angliškam tekstui:_
  
-   1. __ŪĖYOQJ Ratise (ISO) — 100%__
+   1. __ŪĖYOQJ Ratisė (ISO) — 100%__
    2. QGRLDČ LEKP (ISO) — 97%
    3. ĖOŪYHJ Remigijaus (ISO) — 91%
    4. FZVPUJ (ISO) — 80%
@@ -64,7 +64,7 @@
 
 + _Lietuviškų išdėstymų NP vertinimo eilė programavimo tekstui:_
 
-   1. __ŪĖYOQJ Ratise (ISO) — 100%__
+   1. __ŪĖYOQJ Ratisė (ISO) — 100%__
    2. ĖOŪYHJ Remigijaus (ISO) — 93%
    3. FZVPUJ (ISO) — 82%
    4. QWERTY Lithuanian (ISO) — 75%
@@ -74,6 +74,8 @@
    8. QWERTY Baltic-Numeric (ISO) — 61%
    9. QWERTY Lithuanian Programmers (ISO) — 57%
    10. QWERTY Baltic-Numeric Programmers (ISO) — 57%
+
+# Išdėstymų patikros
 
 Čia klaviatūros išdėstymų vertinimui naudotasi puikiu žiniatinklio ištekliu: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main), kur išdėstymo našumas-patogumas matuojamas taškais. Skaičiuojant taškus atsižvelgiama į pirštų nueinamą atstumą (33%), kaip dažnai tam pačiam pirštui tenka iš eilės spaudinėti (33%), bei kaip dažnai spausdinant kaitaliojami pirštai (17%) ir rankos (17%).
 
