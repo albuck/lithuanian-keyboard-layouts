@@ -308,8 +308,8 @@ __Pastabos.__ Kampiniuose skliaustuose duoti skaičiai yra iš [stevep99 puslapi
    6. QWERTY Lithuanian (ISO) — 33.24 ⟨12.73⟩
    7. QGRLDČ LEKP (ISO) — 24.49 ⟨0.00⟩
    8. QWERTY Baltic-Numeric (ISO) — 22.44 ⟨2.39⟩
-   9. QWERTY Lithuanian Programmers (ISO) — _17.80_ ⟨0.00⟩
-   10. QWERTY Baltic-Numeric Programmers (ISO) — _17.80_ ⟨0.00⟩
+   9. QWERTY Lithuanian Programmers (ISO) — 17.80 ⟨0.00⟩
+   10. QWERTY Baltic-Numeric Programmers (ISO) — 17.80 ⟨0.00⟩
 
 + Keyboard Layout Analyzer — _‘Bash, C, CPP, HTML, JavaScript, Python’_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/3XvH0gml), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/NQJQCVs9)
 
