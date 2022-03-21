@@ -24,7 +24,7 @@ Išdėstymai rikiuojami pagal lietuviško teksto patikrose (žemiau) surinktų s
    ![Lietuviškas klaviatūros išdėstymas QWERTY Lithuaian ISO](images/lt-qwerty-iso.svg)
        NP — L70% E77% P75%
 
-   __9. [ĄŽERTY Standard 2000](http://www.ims.mii.lt/klav/) (ISO):__
+  __6. [ĄŽERTY Standard 2000](http://www.ims.mii.lt/klav/) (ISO):__
    ![Lietuviškas klaviatūros išdėstymas ĄŽERTY Standard Standartinis 2000 ISO](images/lt-azerty-standard-iso.svg)
        NP — L70% E70% P75%
 
@@ -32,11 +32,11 @@ Išdėstymai rikiuojami pagal lietuviško teksto patikrose (žemiau) surinktų s
    ![Lietuviškas klaviatūros išdėstymas ĄŽERTY IBM Standard 1992 ISO](images/lt-azerty-ibm-iso.svg)
        NP — L69% E73% P73%
 
-  __6. [QWERTY Baltic-Numeric](https://www.registrucentras.lt/litwin/keyboard.html) (ISO):__
+  __8. [QWERTY Baltic-Numeric](https://www.registrucentras.lt/litwin/keyboard.html) (ISO):__
    ![Lietuviškas klaviatūros išdėstymas QWERTY Baltic Numeric Skaičiukinis ISO](images/lt-qwerty-baltic-numeric-iso.svg)
        NP — L69% E78% P61%
 
-  __8. [QWERTY Lithuanian Programmers](https://www.registrucentras.lt/litwin/keyboard.html) (ISO):__
+  __9. [QWERTY Lithuanian Programmers](https://www.registrucentras.lt/litwin/keyboard.html) (ISO):__
    ![Lietuviškas klaviatūros išdėstymas QWERTY Lithuanian Programmers Programuotojų ISO](images/lt-qwerty-programmers-iso.svg)
        NP — L68% E78% P57%(?)
   
