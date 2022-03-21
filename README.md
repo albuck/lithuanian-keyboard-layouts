@@ -38,11 +38,11 @@ Išdėstymai rikiuojami pagal lietuviško teksto patikrose (žemiau) surinktų s
 
   __9. [QWERTY Lithuanian Programmers](https://www.registrucentras.lt/litwin/keyboard.html) (ISO):__
    ![Lietuviškas klaviatūros išdėstymas QWERTY Lithuanian Programmers Programuotojų ISO](images/lt-qwerty-programmers-iso.svg)
-       NP — L68% E78% P57%(?)
+       NP — L68% E78% P57%
   
   __10. [QWERTY Baltic-Numeric Programmers](http://lietuvybė.lt/naudotojams/klaviaturos/) (ISO):__
    ![Lietuviškas klaviatūros išdėstymas QWERTY Baltic Numeric Programmers ISO](images/lt-qwerty-baltic-numeric-programmers-iso.svg)
-       NP — L66% E78% P57%(?)
+       NP — L66% E78% P57%
 
 
 ‡ __NP__ (našumas-patogumas, ergonomiškumas) išreikštas nuošimčiais, lyginant išdėstymų surinktų taškų sumą su geriausiai pasirodžiusiujo išdėstymo (Ratisės) taškų suma, nuošimtis su priešdėliu ‘L’ rodo skaičiavimą tik lietuviškam tekstui, nuošimtis su priešdėliu ‘E’ — tik angliškam, su ‘P’ — tik programavimo tekstui.
@@ -83,8 +83,8 @@ Išdėstymai rikiuojami pagal lietuviško teksto patikrose (žemiau) surinktų s
    6. AŽERTY IBM, LT Standard 1992 (ISO) — 73%
    7. QGRLDČ LEKP (ISO) — 70%
    8. QWERTY Baltic-Numeric (ISO) — 61%
-   9. QWERTY Lithuanian Programmers (ISO) — _57%_
-   10. QWERTY Baltic-Numeric Programmers (ISO) — _57%_
+   9. QWERTY Lithuanian Programmers (ISO) — 57%
+   10. QWERTY Baltic-Numeric Programmers (ISO) — 57%
 
 ## Išdėstymų patikros
 
