@@ -1,48 +1,48 @@
 
 # Lietuviškų klaviatūros išdėstymų palyginimas
 
-Išdėstymai rikiuojami pagal visose patikrose (žemiau) surinktų skaičių sumos didumą.
+Išdėstymai rikiuojami pagal lietuviško teksto patikrose (žemiau) surinktų skaičių sumos didumą.
 
 
   __1. [ŪĖYOQJ Ratisė](https://albuck.github.io/Ratise-layout/) (ISO):__
    ![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO](images/lt-ueyoqj-ratise-iso.svg)
-       NP — V100% L100% E100% P100%(‡)
+       NP — L100% E100% P100%(‡)
    
   __2. [ĖOŪYHJ Remigijaus](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html) (ISO):__
    ![Lietuviškas Remigijaus klaviatūros išdėstymas ĖOŪYHJ Fonetinis ISO](images/lt-eouyhj-iso.svg)
-       NP — V92% L93% E91% P93%
+       NP — L93% E91% P93%
 
   __3. [QGRLDČ Lekp](https://lekp.info/) (ISO):__
    ![Lietuviškas klaviatūros išdėstymas LEKP QGRLDČ ISO](images/lt-qgrldc-lekp-iso.svg)
-       NP — V89% L88% E97% P70%
+       NP — L88% E97% P70%
 
   __4. [FZVPUJ, LST 1092-89](http://lietuvybė.lt/standartai/klaviat%C5%ABros-i%C5%A1d%C4%97stymai/) (ISO):__
    ![Lietuviškas klaviatūros išdėstymas FZVPUJ (LST 1092-89, RST 1092-89) ISO](images/lt-fzvpuj-iso.svg)
-       NP — V74% L70% E80% P82%
+       NP — L70% E80% P82%
  
   __5. [QWERTY Lithuanian](https://www.registrucentras.lt/litwin/keyboard.html) (ISO):__
    ![Lietuviškas klaviatūros išdėstymas QWERTY Lithuaian ISO](images/lt-qwerty-iso.svg)
-       NP — V72% L70% E77% P75%
-  
-  __6. [QWERTY Baltic-Numeric](https://www.registrucentras.lt/litwin/keyboard.html) (ISO):__
-   ![Lietuviškas klaviatūros išdėstymas QWERTY Baltic Numeric Skaičiukinis ISO](images/lt-qwerty-baltic-numeric-iso.svg)
-       NP — V71% L69% E78% P61%
+       NP — L70% E77% P75%
+
+   __9. [ĄŽERTY Standard 2000](http://www.ims.mii.lt/klav/) (ISO):__
+   ![Lietuviškas klaviatūros išdėstymas ĄŽERTY Standard Standartinis 2000 ISO](images/lt-azerty-standard-iso.svg)
+       NP — L70% E70% P75%
 
   __7. [ĄŽERTY IBM Standard 1992](https://www.registrucentras.lt/litwin/keyboard.html) (ISO):__
    ![Lietuviškas klaviatūros išdėstymas ĄŽERTY IBM Standard 1992 ISO](images/lt-azerty-ibm-iso.svg)
-       NP — V70% L69% E73% P73%
- 
+       NP — L69% E73% P73%
+
+  __6. [QWERTY Baltic-Numeric](https://www.registrucentras.lt/litwin/keyboard.html) (ISO):__
+   ![Lietuviškas klaviatūros išdėstymas QWERTY Baltic Numeric Skaičiukinis ISO](images/lt-qwerty-baltic-numeric-iso.svg)
+       NP — L69% E78% P61%
+
   __8. [QWERTY Lithuanian Programmers](https://www.registrucentras.lt/litwin/keyboard.html) (ISO):__
    ![Lietuviškas klaviatūros išdėstymas QWERTY Lithuanian Programmers Programuotojų ISO](images/lt-qwerty-programmers-iso.svg)
-       NP — V70% L68% E78% P57%
+       NP — L68% E78% P57%(?)
   
-  __9. [ĄŽERTY Standard 2000](http://www.ims.mii.lt/klav/) (ISO):__
-   ![Lietuviškas klaviatūros išdėstymas ĄŽERTY Standard Standartinis 2000 ISO](images/lt-azerty-standard-iso.svg)
-       NP — V70% L70% E70% P75%
-    
   __10. [QWERTY Baltic-Numeric Programmers](http://lietuvybė.lt/naudotojams/klaviaturos/) (ISO):__
    ![Lietuviškas klaviatūros išdėstymas QWERTY Baltic Numeric Programmers ISO](images/lt-qwerty-baltic-numeric-programmers-iso.svg)
-       NP — V69% L66% E78% P57%
+       NP — L66% E78% P57%(?)
 
 
 ‡ __NP__ (našumas-patogumas, ergonomiškumas) išreikštas nuošimčiais, lyginant išdėstymų surinktų taškų sumą su geriausiai pasirodžiusiujo išdėstymo (Ratisės) taškų suma, nuošimtis su priešdėliu ‘V’ rodo skaičiavimą visiems bendrai skaičiams, nuošimtis su priešdėliu ‘L’ rodo skaičiavimą tik lietuviškam tekstui, nuošimtis su priešdėliu ‘E’ — tik angliškam, su ‘P’ — tik programavimo tekstui.
@@ -83,8 +83,8 @@ Išdėstymai rikiuojami pagal visose patikrose (žemiau) surinktų skaičių sum
    6. AŽERTY IBM, LT Standard 1992 (ISO) — 73%
    7. QGRLDČ LEKP (ISO) — 70%
    8. QWERTY Baltic-Numeric (ISO) — 61%
-   9. QWERTY Lithuanian Programmers (ISO) — 57%
-   10. QWERTY Baltic-Numeric Programmers (ISO) — 57%
+   9. QWERTY Lithuanian Programmers (ISO) — _57%_
+   10. QWERTY Baltic-Numeric Programmers (ISO) — _57%_
 
 ## Išdėstymų patikros
 
@@ -308,8 +308,8 @@ __Pastabos.__ Kampiniuose skliaustuose duoti skaičiai yra iš [stevep99 puslapi
    6. QWERTY Lithuanian (ISO) — 33.24 ⟨12.73⟩
    7. QGRLDČ LEKP (ISO) — 24.49 ⟨0.00⟩
    8. QWERTY Baltic-Numeric (ISO) — 22.44 ⟨2.39⟩
-   9. QWERTY Lithuanian Programmers (ISO) — 17.80 ⟨0.00⟩
-   10. QWERTY Baltic-Numeric Programmers (ISO) — 17.80 ⟨0.00⟩
+   9. QWERTY Lithuanian Programmers (ISO) — _17.80_ ⟨0.00⟩
+   10. QWERTY Baltic-Numeric Programmers (ISO) — _17.80_ ⟨0.00⟩
 
 + Keyboard Layout Analyzer — _‘Bash, C, CPP, HTML, JavaScript, Python’_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/3XvH0gml), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/NQJQCVs9)
 
@@ -341,7 +341,7 @@ __Pastabos.__ Kampiniuose skliaustuose duoti skaičiai yra iš [stevep99 puslapi
    10. AŽERTY LT Standard 2000 (ISO) — 46.24 ⟨40.02⟩
 
 
-__Pastabos.__ Vadinamieji išdėstymai _Lithuanian [Baltic/Numeric/Skaičiukinis](https://www.registrucentras.lt/litwin/)_ (čia neatsižvelgiama lietuviškų raidžių įvedimo būdą: per „mirusį/tęsties“ mygtuką ar per trečią išdėstymo lygį, pastarasis yra patogesnis), _[Skaičiukinis pagerintas](https://rimas.kudelis.lt/numeric/), [LEKP Baltic+](https://lekp.info/images/baltic+.jpg)_ yra vienas ir tas pats išdėstymas su [mažai reikšmingais patikrai skirtumais](http://patorjk.com/keyboard-layout-analyzer/#/load/BWsjctw1), manasis, čia duotas, ko gero, netgi geresnis patikrai (nes turi papildomą ilgąjį brūkšnį ir lietuviškas kabutes pirmame lygyje). _Lithuanian Standard_ arba _Lietuviška standartinė klaviatūra_ turi du valstybinius standartus (LST 1582:2000 ir LST 1582:2012), senu įpratimu rašau _LT Standard 2000_, abiejų standartų išdėstymai nesiskiria vienas nuo kito. ‘Programming Punctuation Torture Test’ paimtas [stevep99 puslapio](https://stevep99.github.io/keyboard-layout-analyzer/#/main).
+__Pastabos.__ Vadinamieji išdėstymai _Lithuanian [Baltic/Numeric/Skaičiukinis](https://www.registrucentras.lt/litwin/)_ (čia neatsižvelgiama lietuviškų raidžių įvedimo būdą: per „mirusį/tęsties“ mygtuką ar per trečią išdėstymo lygį, pastarasis yra patogesnis), _[Skaičiukinis pagerintas](https://rimas.kudelis.lt/numeric/), [LEKP Baltic+](https://lekp.info/images/baltic+.jpg)_ yra vienas ir tas pats išdėstymas su [mažai reikšmingais patikrai skirtumais](http://patorjk.com/keyboard-layout-analyzer/#/load/BWsjctw1), manasis, čia duotas, ko gero, netgi geresnis patikrai (nes turi papildomą ilgąjį brūkšnį ir lietuviškas kabutes pirmame lygyje). _Lithuanian Standard_ arba _Lietuviška standartinė klaviatūra_ turi du valstybinius standartus (LST 1582:2000 ir LST 1582:2012), senu įpratimu rašau _LT Standard 2000_, abiejų standartų išdėstymai nesiskiria vienas nuo kito. ‘Programming Punctuation Torture Test’ paimtas [stevep99 puslapio](https://stevep99.github.io/keyboard-layout-analyzer/#/main). Išdėstymuose su tokias pačiais spaudais skirtingose vietose patikros nėra tikslios (tai ypatingai pastebima tekstuose su dažnesniau naudojamais tais ženklais).
 
 
 -----------------------------------------
