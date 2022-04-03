@@ -30,7 +30,7 @@ __Rašybos keitimai:__
 
 Taip naujasis lietuviškas raidynas turėtų 31 raidę, bei vieną tarminę (kietąjį _ł_ dedamą į trečiąjį klaviatūrų išdėstymų lygį):
 
-__A Ą B C D E Ę Ė F G H I Į Y J K L (Ł) M N O P Q R S T U Ų V W X Z__.
+___A Ą B C D E Ę Ė F G H I Į Y J K L (Ł) M N O P Q R S T U Ų V W X Z___.
 
 - Nauraštinio teksto pavyzdys: [Brisiaus Galas, Jonas Biliūnas](brisiaus-galas-nauractiu.txt)
 
