@@ -34,9 +34,8 @@ ___A Ą B C D E Ę Ė F G H I Į Y J K L (Ł) M N O P Q R S T U Ų V W X Z___.
 
 - Nauraštinio teksto pavyzdys:
 
-```
-Jonas Bilivnas
-Brisiaus galas
+_Jonas Bilivnas
+Brisiaus galas_
 
 Caly diendarxio durų, ant didiulės spalių krvwos, guli senas Brisius — xilas, apxabalęs. Matyti jisai dar mato, bet tik kaip per dvmus, ir sawo xmogaus labai daxnai nebepaxįsta. Sunki senatwė ir jam: wisų uxmirctas, apleistas. Patsai gerai jautia, kad maxai kam bereikalingas. Bet kiek galėdamas rvpinas dar bvti naudingas. Nors nebeprigirdi, o sunkios blakstienos amxinai merkia jo traickanotas akis, tatiau waiko nuo sawęs snaudulį ir klausos. Beklausydamas apsnvsta... Ir girdi per miegą: clama netoli, tartum eina kas swetimas... Sunkiai kelias Brisius ic guolio ir loja uxkimusiu mieguistu balsu.
 — A tu, xabali, ar nenustosi!.. Sawo xmogaus nemato, — girdi jisai paxįstamą balsą.
@@ -63,7 +62,7 @@ Negali bvti? Brisius netiki. Tai tik pasijuokti ic jo nori. Bet kam taip baisiai
 ir per jo snukį rieda gailios kartios acaros.
 Staiga ugnis ir baisus trenksmas — ir jisai grivwa, sopulio perwertas. Pramerkęs akis, tik spėja pamatyti, kaip nuo jo tekinom bėga xmogus, turėdamas rankoj caudyklę...
 Gal ir suprato Brisius, kodėl tasai xmogus jį uxmucė; tik nebegalėjo suprasti, kodėl tekinom nuo jo pabėgo: juk jisai mirdamas tik kojas norėjo jam paskutinį kartą palaixyti...
-```
+
 
 __Pastabos:__
 + Raidžių [C](https://en.wikipedia.org/wiki/C) ir [X](https://en.wikipedia.org/wiki/X) skaitymas kaip ⟨š⟩ ir ⟨ž⟩ nėra koks naujoviškas negirdėtas dalykas, toks šių raidžių skaitymas esti kai kuriose kalbose.
