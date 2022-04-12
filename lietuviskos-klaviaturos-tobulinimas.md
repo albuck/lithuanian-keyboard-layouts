@@ -3,9 +3,9 @@
 
 Kompiuterinės klaviatūros įėjo į mūsų gyvenimus ilgam, daugeliui žmonių tai yra svarbi darbo, mokymosi bei pramogos priemonė. Klaviatūros reikšmė ateityje tik didės. Klaviatūros patogumas yra svarbus darbo našumui bei sveikatai.
 
-Lietuviški klaviatūros išdėstymai _Ratisė_ ir _LEKP_ leidžia lietuvių kalbai pasiekti ženkliai didesnį patogumą ir našumą informacinėse technologijose. Vis tik tai nėra lietuvių kalbos galimybių riba.
+Nors lietuviški klaviatūros išdėstymas _Ratisė_ ir leidžia lietuvių kalbai pasiekti ženkliai didesnį patogumą ir našumą informacinėse technologijose. Vis tik tai nėra lietuvių kalbos galimybių riba.
 
-Manau, kad lolimesnis lietuviškos kompiuterio klaviatūros išdėstymo tobulinimas jau yra neįmanomas be lietuviško raidyno ir rašybos šiokio tokio patvarkymo ir tobulinimo.
+Taip pat, manau, kad lolimesnis lietuviškos kompiuterio klaviatūros išdėstymo tobulinimas jau yra neįmanomas be lietuviško raidyno ir rašybos šiokio tokio patvarkymo ir tobulinimo.
 
 Turėti klaviatūroje 35 raides yra per daug, o kelti angliškas raides į trečiąjį lygį yra nepriimtina dėl skaitmeninės įrangos vartojimo ypatumų bei anglų kalbos įsigalėjimo kaip papildomos kalbos. Taigi, išeitis būtų mažinti raidžių kiekį, įtraukiant angliškas raides į lietuvišką raidyną vietoje kai kurių lietuviškų raidžių bei darant kelis kitus rašybos patobulinimus.
 
