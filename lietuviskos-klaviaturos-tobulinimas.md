@@ -3,7 +3,7 @@
 
 Kompiuterinės klaviatūros įėjo į mūsų gyvenimus ilgam, daugeliui žmonių tai yra svarbi darbo, mokymosi bei pramogos priemonė. Klaviatūros reikšmė ateityje tik didės. Klaviatūros patogumas yra svarbus darbo našumui bei sveikatai.
 
-Nors lietuviški klaviatūros išdėstymas _Ratisė_ ir leidžia lietuvių kalbai pasiekti ženkliai didesnį patogumą ir našumą informacinėse technologijose. Vis tik tai nėra lietuvių kalbos galimybių riba.
+Nors lietuviškas klaviatūros išdėstymas _Ratisė_ ir leidžia lietuvių kalbai pasiekti ženkliai didesnį patogumą ir našumą informacinėse technologijose. Vis tik tai nėra lietuvių kalbos galimybių riba.
 
 Taip pat, manau, kad lolimesnis lietuviškos kompiuterio klaviatūros išdėstymo tobulinimas jau yra neįmanomas be lietuviško raidyno ir rašybos šiokio tokio patvarkymo ir tobulinimo.
 
