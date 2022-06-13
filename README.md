@@ -20,7 +20,7 @@ Išdėstymai rikiuojami pagal lietuviško teksto patikrose (žemiau) surinktų s
    ![Lietuviškas klaviatūros išdėstymas FZVPUJ (LST 1092-89, RST 1092-89) ISO](images/fzvpuj-iso.svg)
        NP — L70% E80% P82%
  
-  __5. [QWERTY Lithuanian]([https://www.registrucentras.lt/litwin/keyboard.html](https://web.archive.org/web/20210125092522/https://www.registrucentras.lt/litwin/keyboard.html)) (ISO):__
+  __5. [QWERTY Lithuanian](https://web.archive.org/web/20210125092522/https://www.registrucentras.lt/litwin/keyboard.html) (ISO):__
    ![Lietuviškas klaviatūros išdėstymas QWERTY Lithuaian ISO](images/qwerty-lt-iso.svg)
        NP — L70% E77% P75%
 
@@ -28,15 +28,15 @@ Išdėstymai rikiuojami pagal lietuviško teksto patikrose (žemiau) surinktų s
    ![Lietuviškas klaviatūros išdėstymas ĄŽERTY Standard Standartinis 2000 ISO](images/azerty-lt-standard-iso.svg)
        NP — L70% E70% P75%
 
-  __7. [ĄŽERTY IBM Standard 1992]([https://www.registrucentras.lt/litwin/keyboard.html](https://web.archive.org/web/20210125092522/https://www.registrucentras.lt/litwin/keyboard.html)) (ISO):__
+  __7. [ĄŽERTY IBM Standard 1992](https://web.archive.org/web/20210125092522/https://www.registrucentras.lt/litwin/keyboard.html) (ISO):__
    ![Lietuviškas klaviatūros išdėstymas ĄŽERTY IBM Standard 1992 ISO](images/azerty-lt-ibm-iso.svg)
        NP — L69% E73% P73%
 
-  __8. [QWERTY Baltic-Numeric]([https://www.registrucentras.lt/litwin/keyboard.html](https://web.archive.org/web/20210125092522/https://www.registrucentras.lt/litwin/keyboard.html)) (ISO):__
+  __8. [QWERTY Baltic-Numeric](https://web.archive.org/web/20210125092522/https://www.registrucentras.lt/litwin/keyboard.html) (ISO):__
    ![Lietuviškas klaviatūros išdėstymas QWERTY Baltic Numeric Skaičiukinis ISO](images/qwerty-baltic-numeric-iso.svg)
        NP — L69% E78% P61%
 
-  __9. [QWERTY Lithuanian Programmers]([https://www.registrucentras.lt/litwin/keyboard.html](https://web.archive.org/web/20210125092522/https://www.registrucentras.lt/litwin/keyboard.html)) (ISO):__
+  __9. [QWERTY Lithuanian Programmers](https://web.archive.org/web/20210125092522/https://www.registrucentras.lt/litwin/keyboard.html) (ISO):__
    ![Lietuviškas klaviatūros išdėstymas QWERTY Lithuanian Programmers Programuotojų ISO](images/qwerty-lt-programmers-iso.svg)
        NP — L68% E78% P57%
   
