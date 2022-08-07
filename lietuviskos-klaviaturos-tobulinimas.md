@@ -42,6 +42,7 @@ __Pastabos:__
 + Kiti tokio rašybos patvarkymo privalumai: šiek tiek sumažėja raidžių skaičius tame pačiame tekste; pagreitėja rašymas ranka (papildomų ženklelių dėliojimas ant raidžių lėtina rašymą); „šveplas“ rašymo būdas išnyksta kaip reiškinys; pasidaro nuoseklesnė ir aiškesnė kaitomų žodžių šaknų rašyba; naujoji rašyba yra draugiškesnė lietuvių kalbos tarmėms neiškeliant vienos kurios.
 + Nesant galimybei ir esant būtinybei užrašyti ypatingąsias lietuviškas balses galima dviraidžiais: _ą_ — _ah_, _ę_ — _eh_, _ė_ — _ee_, _į_ — _ih_, _ų_ — _uh_, pvz.: _kah_ ⟨ką⟩, _buweh_ ⟨buvę⟩, _leelee_ ⟨lėlė⟩, _jih_ ⟨jį⟩, _juh_ ⟨jų⟩.
 + Prieg progai, mažinant raidžių skaičių žodžiuose, galima būtų palyginti vieną kurį lietuviškos gramatikos nelygumą, pavyzdžiui — pakeisti tariamosios nuosakos pirmajį asmenį senoviškesne lytimi (dar vis vartojama tarmėse): _sakytiau ⟨sakyčiau⟩ → sakytau_.
++ Galimas ir kiek minimalesnis raidyno keitimas, nekeičiant Ū ir V raidžių, bei neįtraukiant į raidyną W raidės. Tokiu atveju turėtume tokį raidyną: A Ą B C D E Ę Ė F G H I Į Y J K L M N O P Q R S T U Ų Ū V X Z.
 
 -----------------------------------------
 
