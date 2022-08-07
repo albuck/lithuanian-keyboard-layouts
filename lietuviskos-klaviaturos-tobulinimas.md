@@ -33,7 +33,7 @@ Taip naujasis lietuviškas raidynas turėtų 31 raidę, bei vieną tarminę (kie
 ___A Ą B C D E Ę Ė F G H I Į Y J K L (Ł) M N O P Q R S T U Ų V W X Z___.
 
 - Nauraštinio teksto pavyzdys: [Brisiaus Galas, Jonas Biliūnas](brisiaus-galas-nauractiu.txt)
-- Ir kiek minimalesnis raidyno keitimas, nekeičiant Ū ir V raidžių, bei neįtraukiant į raidyną W raidės: A Ą B C D E Ę Ė F G H I Į Y J K L M N O P Q R S T U Ų Ū V X Z. Teksto pavyzdys: [Brisiaus Galas, Jonas Biliūnas](brisiaus-galas-nauractiu-2.txt)
+- Ir minimalesnis raidyno keitimas, nekeičiant Ū ir V raidžių, bei neįtraukiant W ir Q raidžių: A Ą B C D E Ę Ė F G H I Į Y J K L M N O P R S T U Ų Ū V X Z. Teksto pavyzdys: [Brisiaus Galas, Jonas Biliūnas](brisiaus-galas-nauractiu-2.txt)
 
 __Pastabos:__
 + Raidžių [C](https://en.wikipedia.org/wiki/C) ir [X](https://en.wikipedia.org/wiki/X) skaitymas kaip ⟨š⟩ ir ⟨ž⟩ nėra koks naujoviškas negirdėtas dalykas, toks šių raidžių skaitymas esti kai kuriose kalbose.
