@@ -3,10 +3,11 @@
 
 Išdėstymai rikiuojami pagal lietuviško teksto patikrose (žemiau) surinktų skaičių sumos didumą.
 
++ Duodamas po išdėstymo paveikslėliu __NP__ (našumas-patogumas, ergonomiškumas) išreikštas nuošimčiais, lyginant išdėstymų surinktų taškų sumą su geriausiai pasirodžiusiojo išdėstymo (Ratisės) taškų suma, nuošimtis su priešdėliu ‘L’ rodo skaičiavimą tik lietuviškam tekstui, nuošimtis su priešdėliu ‘E’ — tik angliškam, su ‘P’ — tik programavimo tekstui.
 
   __1. [ŪĖYOQJ Ratisė](https://albuck.github.io/Ratise-layout/) (ISO):__
    ![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO](images/ueyoqj-ratise-iso.svg)
-       NP — L100% E100% P100%(‡)
+       NP — L100% E100% P100%
    
   __2. [ĖOŪYHJ Remigijaus](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html) (ISO):__
    ![Lietuviškas Remigijaus klaviatūros išdėstymas ĖOŪYHJ Fonetinis ISO](images/eouyhj-iso.svg)
@@ -44,8 +45,6 @@ Išdėstymai rikiuojami pagal lietuviško teksto patikrose (žemiau) surinktų s
    ![Lietuviškas klaviatūros išdėstymas QWERTY Baltic Numeric Programmers ISO](images/qwerty-baltic-numeric-programmers-iso.svg)
        NP — L66% E78% P57%
 
-
-‡ __NP__ (našumas-patogumas, ergonomiškumas) išreikštas nuošimčiais, lyginant išdėstymų surinktų taškų sumą su geriausiai pasirodžiusiojo išdėstymo (Ratisės) taškų suma, nuošimtis su priešdėliu ‘L’ rodo skaičiavimą tik lietuviškam tekstui, nuošimtis su priešdėliu ‘E’ — tik angliškam, su ‘P’ — tik programavimo tekstui.
 
 + __Lietuviškų išdėstymų NP vertinimo eilė lietuviškam tekstui:__
  
