@@ -3,7 +3,7 @@
 
 Išdėstymai rikiuojami pagal lietuviško teksto patikrose (žemiau) surinktų skaičių sumos didumą.
 
-+ Duodamas po išdėstymo paveikslėliu __NP__ (našumas-patogumas, ergonomiškumas) išreikštas nuošimčiais, lyginant išdėstymų surinktų taškų sumą su geriausiai pasirodžiusiojo išdėstymo (Ratisės) taškų suma, nuošimtis su priešdėliu _L_ rodo skaičiavimą tik lietuviškam tekstui, nuošimtis su priešdėliu _E_ — tik angliškam, su _P_ — tik programavimo tekstui.
++ Duodamas po išdėstymo paveikslėliu _NP_ (našumas-patogumas, ergonomiškumas) išreikštas nuošimčiais, lyginant išdėstymų surinktų taškų sumą su geriausiai pasirodžiusiojo išdėstymo (Ratisės) taškų suma, nuošimtis su priešdėliu _L_ rodo skaičiavimą tik lietuviškam tekstui, nuošimtis su priešdėliu _E_ — tik angliškam, su _P_ — tik programavimo tekstui.
 
   __1. [ŪĖYOQJ Ratisė](https://albuck.github.io/Ratise-layout/) (ISO):__
    ![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO](images/ueyoqj-ratise-iso.svg)
