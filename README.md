@@ -3,7 +3,7 @@
 
 Išdėstymai rikiuojami pagal lietuviško teksto patikrose (žemiau) surinktų skaičių sumos didumą.
 
-+ Duodamas po išdėstymo paveikslėliu __NP__ (našumas-patogumas, ergonomiškumas) išreikštas nuošimčiais, lyginant išdėstymų surinktų taškų sumą su geriausiai pasirodžiusiojo išdėstymo (Ratisės) taškų suma, nuošimtis su priešdėliu ‘L’ rodo skaičiavimą tik lietuviškam tekstui, nuošimtis su priešdėliu ‘E’ — tik angliškam, su ‘P’ — tik programavimo tekstui.
++ Duodamas po išdėstymo paveikslėliu __NP__ (našumas-patogumas, ergonomiškumas) išreikštas nuošimčiais, lyginant išdėstymų surinktų taškų sumą su geriausiai pasirodžiusiojo išdėstymo (Ratisės) taškų suma, nuošimtis su priešdėliu _L_ rodo skaičiavimą tik lietuviškam tekstui, nuošimtis su priešdėliu _E_ — tik angliškam, su _P_ — tik programavimo tekstui.
 
   __1. [ŪĖYOQJ Ratisė](https://albuck.github.io/Ratise-layout/) (ISO):__
    ![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO](images/ueyoqj-ratise-iso.svg)
@@ -90,11 +90,11 @@ Išdėstymai rikiuojami pagal lietuviško teksto patikrose (žemiau) surinktų s
 Čia klaviatūros išdėstymų vertinimui naudotasi puikiu žiniatinklio ištekliu: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main), kur išdėstymo našumas-patogumas matuojamas taškais. Skaičiuojant taškus atsižvelgiama į pirštų nueinamą atstumą (33%), kaip dažnai tam pačiam pirštui tenka iš eilės spaudinėti (33%), bei kaip dažnai spausdinant kaitaliojami pirštai (17%) ir rankos (17%).
 
 __Pastabos:__
-+ Kampiniuose skliaustuose duoti skaičiai yra iš [stevep99 puslapio](https://stevep99.github.io/keyboard-layout-analyzer/#/main) gautos patikros, šis žmogus yra kiek pakeitęs-tobulinęs ‘Keybord Layout Analyzer’ kūrėjo išdėstymų skaičiavimus, gal didžiausias jo tų skaičiavimų skirtumas, kad jis yra atsisakęs (nepagrįstai) rankų pakaitos spausdinant skaičiavimo, skaičiai pateikiami be nuorodų (nėra tokios galimybės, norintiems patikrinti, teks susikelti patiems išdėstymus ir tekstus).
-+ Patikroje penktas viršutinis mygtukas (QWERTY skaičių eilėje ‘4’) yra priskirtas kairiosios rankos didžiajam pirštui, septintas viršutinis mygtukas (QWERTY skaičių eilėje ‘6’) priskirtas kairiajam smiliui ir vienuoliktas (QWERTY ‘0’) dešiniajam bevardžiui, klaviatūrose su skersuotais mygtukais taip patogiau; taip pat perskirtose klaviatūrose tas septintas mygtukas paprastai būna kairėje pusėje. Perpaskyrus, kaip įprastai turėtų būti, patikros taškai gali nežymiai skirtis. 
++ Kampiniuose skliaustuose duoti skaičiai yra iš [stevep99 puslapio](https://stevep99.github.io/keyboard-layout-analyzer/#/main) gautos patikros, šis žmogus yra kiek pakeitęs-tobulinęs _Keybord Layout Analyzer_ kūrėjo išdėstymų skaičiavimus, gal didžiausias jo tų skaičiavimų skirtumas, kad jis yra atsisakęs (nepagrįstai) rankų pakaitos spausdinant skaičiavimo, skaičiai pateikiami be nuorodų (nėra tokios galimybės, norintiems patikrinti, teks susikelti patiems išdėstymus ir tekstus).
++ Patikroje penktas viršutinis mygtukas (QWERTY skaičių eilėje ```4```) yra priskirtas kairiosios rankos didžiajam pirštui, septintas viršutinis mygtukas (QWERTY skaičių eilėje ```6```) priskirtas kairiajam smiliui ir vienuoliktas (QWERTY ```0```) dešiniajam bevardžiui, klaviatūrose su skersuotais mygtukais taip patogiau; taip pat perskirtose klaviatūrose tas septintas mygtukas paprastai būna kairėje pusėje. Perpaskyrus, kaip įprastai turėtų būti, patikros taškai gali nežymiai skirtis. 
 + Išdėstymuose patikroje yra suvienodinti ilgieji brūkšniai. 
 + Senesni išdėstymai papildyti ilguoju brūkšniu ir lietuviškomis kabutėmis (žali). 
-+ Šičia naudojamas ‘ĄŽERTY IBM Standard 1992’ yra iš esmės paimtas toks koks naudojamas XKB (Linux), kur jis yra kiek atnaujintas.
++ Šičia naudojamas _ĄŽERTY IBM Standard 1992_ yra iš esmės paimtas toks koks naudojamas XKB (Linux), kur jis yra kiek atnaujintas.
 
 + __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „išdėstymo įvertinimo taškai“
 
@@ -348,7 +348,7 @@ __Pastabos:__
 __Pastabos:__
 + Vadinamieji išdėstymai _Lithuanian [Baltic/Numeric/Skaičiukinis](https://www.registrucentras.lt/litwin/)_ (čia neatsižvelgiama lietuviškų raidžių įvedimo būdą: per „mirusį/tęsties“ mygtuką ar per trečią išdėstymo lygį, pastarasis yra patogesnis), _[Skaičiukinis pagerintas](https://rimas.kudelis.lt/numeric/), [LEKP Baltic+](https://lekp.info/images/baltic+.jpg)_ yra vienas ir tas pats išdėstymas su [mažai reikšmingais patikrai skirtumais](http://patorjk.com/keyboard-layout-analyzer/#/load/BWsjctw1), manasis, čia duotas, ko gero, netgi geresnis patikrai (nes turi papildomą ilgąjį brūkšnį ir lietuviškas kabutes pirmame lygyje).
 + _Lithuanian Standard_ arba _Lietuviška standartinė klaviatūra_ turi du valstybinius standartus (LST 1582:2000 ir LST 1582:2012), senu įpratimu rašau _LT Standard 2000_, abiejų standartų išdėstymai nesiskiria vienas nuo kito.
-+ ‘Programming Punctuation Torture Test’ paimtas iš [stevep99 puslapio](https://stevep99.github.io/keyboard-layout-analyzer/#/main).
++ _Programming Punctuation Torture Test_ paimtas iš [stevep99 puslapio](https://stevep99.github.io/keyboard-layout-analyzer/#/main).
 + Išdėstymuose su tokias pačiais spaudais skirtingose vietose patikros nėra patikimos (ypatingai tekstuose su dažnesniau naudojamais tais ženklais), ko gero, jos paskaičiuojamos prastesnės nei iš tikro būtų.
 
 
