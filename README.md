@@ -141,7 +141,7 @@ __Pastabos:__
 
 + Keyboard Layout Analyzer — _Vincas Krėvė „Skerdžius“_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/FFdGsbpM), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/p2tZ1mRq)
 
-   1. __ŪĖYOQJ Ratise (ISO) — 68.2__
+   1. __ŪĖYOQJ Ratise (ISO) — 68.20__
    2. ĖOŪYHJ Remigijaus (ISO) — 63.09
    3. QGRLDČ LEKP (ISO) — 59.20
    4. AŽERTY LT Standard 2000 (ISO) — 48.01
