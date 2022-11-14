@@ -180,16 +180,16 @@ __Pastabos:__
 
 + Keyboard Layout Analyzer — _Vikipedijos straipsnis „Fizika“_ (pataisyti ilgieji brūkšniai): [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/tWHQWhX6), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/pd6P0hSS)
 
-   1. __ŪĖYOQJ Ratise (ISO) — 67.06 ⟨64.54⟩__
-   2. ĖOŪYHJ Remigijaus (ISO) — 61.16 ⟨58.14⟩
-   3. QGRLDČ LEKP (ISO) — 59.69 ⟨57.18⟩
-   4. FZVPUJ (ISO) — 49.37 ⟨37.44⟩
-   5. QWERTY Lithuanian (ISO) — 46.54 ⟨39.15⟩
-   6. QWERTY Baltic-Numeric (ISO) — 45.74 ⟨37.14⟩
-   7. QWERTY Lithuanian Programmers (ISO) — 45.69 ⟨40.02⟩
-   8. AŽERTY IBM, LT Standard 1992 (ISO) — 45.43 ⟨38.97⟩
-   9. AŽERTY LT Standard 2000 (ISO) — 45.20 ⟨38.51⟩
-   10. QWERTY Baltic-Numeric Programmers (ISO) — 44.45 ⟨38.85⟩
+   1. __ŪĖYOQJ Ratise (ISO) — 67.06__
+   2. ĖOŪYHJ Remigijaus (ISO) — 61.16
+   3. QGRLDČ LEKP (ISO) — 59.69
+   4. FZVPUJ (ISO) — 49.37
+   5. QWERTY Lithuanian (ISO) — 46.54
+   6. QWERTY Baltic-Numeric (ISO) — 45.74
+   7. QWERTY Lithuanian Programmers (ISO) — 45.69
+   8. AŽERTY IBM, LT Standard 1992 (ISO) — 45.43
+   9. AŽERTY LT Standard 2000 (ISO) — 45.20
+   10. QWERTY Baltic-Numeric Programmers (ISO) — 44.45
 
 + Keyboard Layout Analyzer — _Lietuvos Respublikos Konstitucija_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/LJKS5JjM), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/CknCBzsg)
 
