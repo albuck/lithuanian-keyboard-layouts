@@ -53,8 +53,8 @@ Išdėstymai rikiuojami pagal lietuviško teksto patikrose (žemiau) surinktų s
    3. QGRLDČ LEKP (ISO) — 88%
    4. FZVPUJ (ISO) — 70%
    5. QWERTY Lithuanian (ISO) — 70%
-   6. AŽERTY LT Standard 2000 (ISO) — 70%
-   7. AŽERTY IBM, LT Standard 1992 (ISO) — 69%
+   6. ĄŽERTY LT Standard 2000 (ISO) — 70%
+   7. ĄŽERTY IBM, LT Standard 1992 (ISO) — 69%
    8. QWERTY Baltic-Numeric (ISO) — 69%
    9. QWERTY Lithuanian Programmers (ISO) — 68%
    10. QWERTY Baltic-Numeric Programmers (ISO) — 66%
@@ -69,8 +69,8 @@ Išdėstymai rikiuojami pagal lietuviško teksto patikrose (žemiau) surinktų s
    6. QWERTY Baltic-Numeric Programmers (ISO) — 78%
    7. QWERTY Baltic-Numeric (ISO) — 78%
    8. QWERTY Lithuanian (ISO) — 77%
-   9. AŽERTY IBM, LT Standard 1992 (ISO) — 73%
-   10. AŽERTY LT Standard 2000 (ISO) — 70%
+   9. ĄŽERTY IBM, LT Standard 1992 (ISO) — 73%
+   10. ĄŽERTY LT Standard 2000 (ISO) — 70%
 
 + __Lietuviškų išdėstymų NP vertinimo eilė programavimo tekstui:__
 
@@ -78,8 +78,8 @@ Išdėstymai rikiuojami pagal lietuviško teksto patikrose (žemiau) surinktų s
    2. ĖOŪYHJ Remigijaus (ISO) — 93%
    3. FZVPUJ (ISO) — 82%
    4. QWERTY Lithuanian (ISO) — 75%
-   5. AŽERTY LT Standard 2000 (ISO) — 75%
-   6. AŽERTY IBM, LT Standard 1992 (ISO) — 73%
+   5. ĄŽERTY LT Standard 2000 (ISO) — 75%
+   6. ĄŽERTY IBM, LT Standard 1992 (ISO) — 73%
    7. QGRLDČ LEKP (ISO) — 70%
    8. QWERTY Baltic-Numeric (ISO) — 61%
    9. QWERTY Lithuanian Programmers (ISO) — 57%
@@ -105,8 +105,8 @@ __Pastabos:__
    1. __ŪĖYOQJ Ratise (ISO) — 76.16__
    2. ĖOŪYHJ Remigijaus (ISO) — 73.40
    3. QGRLDČ LEKP (ISO) — 69.00
-   4. AŽERTY LT Standard 2000 (ISO) — 58.80
-   5. AŽERTY IBM, LT Standard 1992 (ISO) — 58.56
+   4. ĄŽERTY LT Standard 2000 (ISO) — 58.80
+   5. ĄŽERTY IBM, LT Standard 1992 (ISO) — 58.56
    6. QWERTY Lithuanian (ISO) — 58.37
    7. FZVPUJ (ISO) — 57.95
    8. QWERTY Baltic-Numeric (ISO) — 57.90
@@ -118,8 +118,8 @@ __Pastabos:__
    1. __ŪĖYOQJ Ratise (ISO) — 71.55__
    2. ĖOŪYHJ Remigijaus (ISO) — 66.98
    3. QGRLDČ LEKP (ISO) — 62.67
-   4. AŽERTY LT Standard 2000 (ISO) — 50.21
-   5. AŽERTY IBM, LT Standard 1992 (ISO) — 50.04
+   4. ĄŽERTY LT Standard 2000 (ISO) — 50.21
+   5. ĄŽERTY IBM, LT Standard 1992 (ISO) — 50.04
    6. QWERTY Lithuanian (ISO) — 49.98
    7. QWERTY Baltic-Numeric (ISO) — 49.53
    8. QWERTY Lithuanian Programmers (ISO) — 48.95
@@ -131,8 +131,8 @@ __Pastabos:__
    1. __ŪĖYOQJ Ratise (ISO) — 69.24__
    2. ĖOŪYHJ Remigijaus (ISO) — 64.31
    3. QGRLDČ LEKP (ISO) — 59.74
-   4. AŽERTY LT Standard 2000 (ISO) — 49.11
-   5. AŽERTY IBM, LT Standard 1992 (ISO) — 48.47
+   4. ĄŽERTY LT Standard 2000 (ISO) — 49.11
+   5. ĄŽERTY IBM, LT Standard 1992 (ISO) — 48.47
    6. QWERTY Lithuanian (ISO) — 47.77
    7. QWERTY Baltic-Numeric (ISO) — 47.61
    8. FZVPUJ (ISO) — 47.40
@@ -144,8 +144,8 @@ __Pastabos:__
    1. __ŪĖYOQJ Ratise (ISO) — 68.20__
    2. ĖOŪYHJ Remigijaus (ISO) — 63.09
    3. QGRLDČ LEKP (ISO) — 59.20
-   4. AŽERTY LT Standard 2000 (ISO) — 48.01
-   5. AŽERTY IBM, LT Standard 1992 (ISO) — 47.55
+   4. ĄŽERTY LT Standard 2000 (ISO) — 48.01
+   5. ĄŽERTY IBM, LT Standard 1992 (ISO) — 47.55
    6. QWERTY Baltic-Numeric (ISO) — 47.49
    7. QWERTY Lithuanian (ISO) — 46.92
    8. QWERTY Lithuanian Programmers (ISO) — 46.33
@@ -157,8 +157,8 @@ __Pastabos:__
    1. __ŪĖYOQJ Ratise (ISO) — 67.72__
    2. ĖOŪYHJ Remigijaus (ISO) — 63.30
    3. QGRLDČ LEKP (ISO) — 60.14
-   4. AŽERTY LT Standard 2000 (ISO) — 48.35
-   5. AŽERTY IBM, LT Standard 1992 (ISO) — 47.88
+   4. ĄŽERTY LT Standard 2000 (ISO) — 48.35
+   5. ĄŽERTY IBM, LT Standard 1992 (ISO) — 47.88
    6. QWERTY Lithuanian (ISO) — 47.82
    7. QWERTY Baltic-Numeric (ISO) — 46.98
    8. QWERTY Lithuanian Programmers (ISO) — 46.53
@@ -170,8 +170,8 @@ __Pastabos:__
    1. __ŪĖYOQJ Ratise (ISO) — 67.42__
    2. ĖOŪYHJ Remigijaus (ISO) — 63.14
    3. QGRLDČ LEKP (ISO) — 57.94
-   4. AŽERTY LT Standard 2000 (ISO) — 47.29
-   5. AŽERTY IBM, LT Standard 1992 (ISO) — 46.82
+   4. ĄŽERTY LT Standard 2000 (ISO) — 47.29
+   5. ĄŽERTY IBM, LT Standard 1992 (ISO) — 46.82
    6. QWERTY Baltic-Numeric (ISO) — 46.40
    7. QWERTY Lithuanian (ISO) — 45.61
    8. QWERTY Lithuanian Programmers (ISO) — 44.76
@@ -187,8 +187,8 @@ __Pastabos:__
    5. QWERTY Lithuanian (ISO) — 46.54
    6. QWERTY Baltic-Numeric (ISO) — 45.74
    7. QWERTY Lithuanian Programmers (ISO) — 45.69
-   8. AŽERTY IBM, LT Standard 1992 (ISO) — 45.43
-   9. AŽERTY LT Standard 2000 (ISO) — 45.20
+   8. ĄŽERTY IBM, LT Standard 1992 (ISO) — 45.43
+   9. ĄŽERTY LT Standard 2000 (ISO) — 45.20
    10. QWERTY Baltic-Numeric Programmers (ISO) — 44.45
 
 + Keyboard Layout Analyzer — _Lietuvos Respublikos Konstitucija_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/LJKS5JjM), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/CknCBzsg)
@@ -198,8 +198,8 @@ __Pastabos:__
    3. QGRLDČ LEKP (ISO) — 57.38
    4. FZVPUJ (ISO) — 45.51
    5. QWERTY Lithuanian (ISO) — 43.49
-   6. AŽERTY LT Standard 2000 (ISO) — 42.85
-   7. AŽERTY IBM, LT Standard 1992 (ISO) — 42.64
+   6. ĄŽERTY LT Standard 2000 (ISO) — 42.85
+   7. ĄŽERTY IBM, LT Standard 1992 (ISO) — 42.64
    8. QWERTY Lithuanian Programmers (ISO) — 42.60
    9. QWERTY Baltic-Numeric (ISO) — 42.03
    10. QWERTY Baltic-Numeric Programmers (ISO) — 41.18
@@ -212,9 +212,9 @@ __Pastabos:__
    4. FZVPUJ (ISO) — 48.32
    5. QWERTY Lithuanian (ISO) — 44.68
    6. QWERTY Lithuanian Programmers (ISO) — 43.07
-   7. AŽERTY IBM, LT Standard 1992 (ISO) — 42.50
+   7. ĄŽERTY IBM, LT Standard 1992 (ISO) — 42.50
    8. QWERTY Baltic-Numeric (ISO) — 41.85
-   9. AŽERTY LT Standard 2000 (ISO) — 41.72
+   9. ĄŽERTY LT Standard 2000 (ISO) — 41.72
    10. QWERTY Baltic-Numeric Programmers (ISO) — 41.58
 
 + Keyboard Layout Analyzer: _Vikipedijos straipsnis „Lietuva“_ (pataisyti ilgieji brūkšniai): [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/pDr7b9x0), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/kZm2N4w9)
@@ -227,8 +227,8 @@ __Pastabos:__
    6. QWERTY Lithuanian Programmers (ISO) — 43.15
    7. QWERTY Baltic-Numeric (ISO) — 42.22
    8. QWERTY Baltic-Numeric Programmers (ISO) — 41.83
-   9. AŽERTY LT Standard 2000 (ISO) — 41.73
-   10. AŽERTY IBM, LT Standard 1992 (ISO) — 41.21
+   9. ĄŽERTY LT Standard 2000 (ISO) — 41.73
+   10. ĄŽERTY IBM, LT Standard 1992 (ISO) — 41.21
 
 
 ### Angliško teksto skaidymas:
@@ -243,8 +243,8 @@ __Pastabos:__
    6. QWERTY Lithuanian Programmers (ISO) — 49.04
    7. QWERTY Baltic-Numeric Programmers (ISO) — 49.04
    8. QWERTY Lithuanian (ISO) — 48.81
-   9. AŽERTY IBM, LT Standard 1992 (ISO) — 47.67
-   10. AŽERTY LT Standard 2000 (ISO) — 46.72
+   9. ĄŽERTY IBM, LT Standard 1992 (ISO) — 47.67
+   10. ĄŽERTY LT Standard 2000 (ISO) — 46.72
 
 + Keyboard Layout Analyzer — _Wikipedia “Physics”_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/dDdhRXJp), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/L5xZ6Vrf)
 
@@ -256,8 +256,8 @@ __Pastabos:__
    6. QWERTY QWERTY Baltic-Numeric Programmers (ISO) — 47.81
    7. QWERTY Lithuanian (ISO) — 47.53
    8. QWERTY Baltic-Numeric (ISO) — 47.49
-   9. AŽERTY IBM, LT Standard 1992 (ISO) — 44.95
-   10. AŽERTY LT Standard 2000 (ISO) — 42.77
+   9. ĄŽERTY IBM, LT Standard 1992 (ISO) — 44.95
+   10. ĄŽERTY LT Standard 2000 (ISO) — 42.77
 
 + Keyboard Layout Analyzer — _Alice in Wonderland, Chapter 1_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/FJzXXpSR), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/MM6QwmSV)
 
@@ -269,8 +269,8 @@ __Pastabos:__
    6. QWERTY Baltic-Numeric (ISO) — 52.89
    7. QWERTY Lithuanian (ISO) — 52.02
    8. FZVPUJ (ISO) — 50.79
-   9. AŽERTY IBM, LT Standard 1992 (ISO) — 48.95
-   10. AŽERTY LT Standard 2000 (ISO) — 47.12
+   9. ĄŽERTY IBM, LT Standard 1992 (ISO) — 48.95
+   10. ĄŽERTY LT Standard 2000 (ISO) — 47.12
 
 + Keyboard Layout Analyzer — _“Scientific Papers”_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/cRbvHxS4), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/cLXSd9Hx)
 
@@ -282,8 +282,8 @@ __Pastabos:__
    6. QWERTY Baltic-Numeric Programmers (ISO) — 44.58
    7. QWERTY Lithuanian (ISO) — 44.38
    8. QWERTY Baltic-Numeric (ISO) — 43.43
-   9. AŽERTY IBM, LT Standard 1992 (ISO) — 40.97
-   10. AŽERTY LT Standard 2000 (ISO) — 39.17
+   9. ĄŽERTY IBM, LT Standard 1992 (ISO) — 40.97
+   10. ĄŽERTY LT Standard 2000 (ISO) — 39.17
 
 + Keyboard Layout Analyzer — _Quentin Tarantino “Pulp Fiction”_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/lmR992lB), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/L7lJ2TBB)
 
@@ -295,8 +295,8 @@ __Pastabos:__
    6. QWERTY Baltic-Numeric Programmers (ISO) — 45.48
    7. QWERTY Lithuanian (ISO) — 43.21
    8. FZVPUJ (ISO) — 43.18
-   9. AŽERTY IBM, LT Standard 1992 (ISO) — 41.78
-   10. AŽERTY LT Standard 2000 (ISO) — 39.91
+   9. ĄŽERTY IBM, LT Standard 1992 (ISO) — 41.78
+   10. ĄŽERTY LT Standard 2000 (ISO) — 39.91
   
 
 ### Programavimo kalbų teksto skaidymas:
@@ -306,8 +306,8 @@ __Pastabos:__
    1. __ŪĖYOQJ Ratise (ISO) — 47.32__
    2. ĖOŪYHJ Remigijaus (ISO) — 42.78
    3. FZVPUJ (ISO) — 41.52
-   4. AŽERTY LT Standard 2000 (ISO) — 35.75
-   5. AŽERTY IBM, LT Standard 1992 (ISO) — 33.71
+   4. ĄŽERTY LT Standard 2000 (ISO) — 35.75
+   5. ĄŽERTY IBM, LT Standard 1992 (ISO) — 33.71
    6. QWERTY Lithuanian (ISO) — 33.24
    7. QGRLDČ LEKP (ISO) — 24.49
    8. QWERTY Baltic-Numeric (ISO) — 22.44
@@ -324,8 +324,8 @@ __Pastabos:__
    6. QWERTY Baltic-Numeric Programmers (ISO) — 34.85
    7. FZVPUJ (ISO) — 34.60
    8. QWERTY Baltic-Numeric (ISO) — 34.18
-   9. AŽERTY IBM, LT Standard 1992 (ISO) — 33.95
-   10. AŽERTY LT Standard 2000 (ISO) — 33.54
+   9. ĄŽERTY IBM, LT Standard 1992 (ISO) — 33.95
+   10. ĄŽERTY LT Standard 2000 (ISO) — 33.54
 
 
 ### Lotyniško teksto „Lorem Ipsum“ skaidymas:
@@ -340,8 +340,8 @@ __Pastabos:__
    6. QWERTY Lithuanian Programmers (ISO) — 48.84
    7. QWERTY Baltic-Numeric Programmers (ISO) — 48.84
    8. QWERTY Baltic-Numeric (ISO) — 48.67
-   9. AŽERTY IBM, LT Standard 1992 (ISO) — 46.36
-   10. AŽERTY LT Standard 2000 (ISO) — 46.24
+   9. ĄŽERTY IBM, LT Standard 1992 (ISO) — 46.36
+   10. ĄŽERTY LT Standard 2000 (ISO) — 46.24
 
 
 __Pastabos:__
