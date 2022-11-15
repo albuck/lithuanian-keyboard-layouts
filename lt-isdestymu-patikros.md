@@ -267,7 +267,7 @@ __Pastabos:__
 
 -----------------------------------------
 
-[Lietuviškų klaviatūros mygtukų spaudeliojimo dažnumai](lt-isdestymu-mygt-spaud-daznumai.md)
+[Lietuviškų klaviatūrų mygtukų spaudeliojimo dažnumai](lt-isdestymu-mygt-spaud-daznumai.md)
 
 [Pagrindinių lietuviškų klaviatūros išdėstymų palyginamosios statistinės lentelės](lt-isdestymu-statistines-lenteles.md)
 
