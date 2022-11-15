@@ -1,5 +1,5 @@
 
-# Lietuviškų klaviatūros mygtukų spaudeliojimo dažnumai
+# Lietuviškų klaviatūrų mygtukų spaudeliojimo dažnumai
 
 Išdėstymai dėstyti pagal jų pasiekimus patikrose.
 Ryškesnė spalva rodo didesnį mygtuko naudojimo dažnumą.
