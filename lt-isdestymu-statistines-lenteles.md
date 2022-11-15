@@ -110,4 +110,4 @@ __Pastabos.__ Patikrai tekste ir išdėstymuose yra suvienodinti ilgieji brūkš
 
 -----------------------------------------
 
-+ [Į pradžią](README.md)
+[Į pagrindinį puslapį](README.md)

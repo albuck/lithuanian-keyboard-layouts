@@ -46,4 +46,4 @@ __Pastabos:__
 
 -----------------------------------------
 
-+ [Į pradžią](README.md)
+[Į pagrindinį puslapį](README.md)
