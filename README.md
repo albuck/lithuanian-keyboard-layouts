@@ -90,7 +90,7 @@ Išdėstymai rikiuojami pagal [lietuviško teksto patikrose](lt-isdestymu-patikr
 
 [Lietuviškų klaviatūros išdėstymų patikros](lt-isdestymu-patikros.md)
 
-[Lietuviškų klaviatūros mygtukų spaudeliojimo dažnumai](lt-isdestymu-mygt-spaud-daznumai.md)
+[Lietuviškų klaviatūrų mygtukų spaudeliojimo dažnumai](lt-isdestymu-mygt-spaud-daznumai.md)
 
 [Pagrindinių lietuviškų klaviatūros išdėstymų palyginamosios statistinės lentelės](lt-isdestymu-statistines-lenteles.md)
 
