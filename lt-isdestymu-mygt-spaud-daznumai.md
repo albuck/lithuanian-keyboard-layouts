@@ -64,7 +64,7 @@ __QGRLDČ LEKP (ISO):__
 
 __ĖOŪYHJ (ISO):__
 
-![ĖOŪYHJ (ISO)](images/eouyhj-iso-spauda-liet.png)
+![ĖOŪYHJ (ISO)](images/eouyhj-iso-spauda-eng.png)
 
 __QWERTY Lithuanian Programmers (ISO):__
 
