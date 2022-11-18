@@ -261,6 +261,7 @@ __Pastabos:__
 __Pastabos:__
 + Vadinamieji išdėstymai _Lithuanian [Baltic/Numeric/Skaičiukinis](https://web.archive.org/web/20210125092522/https://www.registrucentras.lt/litwin/keyboard.html)_ (čia neatsižvelgiama lietuviškų raidžių įvedimo būdą: per „mirusį/tęsties“ mygtuką ar per trečią išdėstymo lygį, pastarasis yra patogesnis), _[Skaičiukinis pagerintas](https://rimas.kudelis.lt/numeric/), [LEKP Baltic+](https://lekp.info/images/baltic+.jpg)_ yra vienas ir tas pats išdėstymas su [mažai reikšmingais patikrai skirtumais](http://patorjk.com/keyboard-layout-analyzer/#/load/BWsjctw1), manasis, čia duotas, ko gero, netgi geresnis patikrai (nes turi papildomą ilgąjį brūkšnį ir lietuviškas kabutes pirmame lygyje).
 + _Lithuanian Standard_ arba _Lietuviška standartinė klaviatūra_ turi du valstybinius standartus (LST 1582:2000 ir LST 1582:2012), senu įpratimu rašau _LT Standard 2000_, abiejų standartų išdėstymai nesiskiria vienas nuo kito.
++ Čia patikroje _ĄŽERTY LT Standard 2000_ naudota įprasta spausdinimo visais pirštais tvarka, ne tokia kokią [siūlo šio išdėstymo sudarytojai](http://www.ims.mii.lt/klav/raida.html), nes siūlomoji pasirodo žymiai prasčiau.
 + _Programming Punctuation Torture Test_ paimtas iš [stevep99 puslapio](https://stevep99.github.io/keyboard-layout-analyzer/#/main).
 + Išdėstymuose su tokias pačiais spaudais skirtingose vietose patikros nėra patikimos (ypatingai tekstuose su dažnesniau naudojamais tais ženklais), ko gero, jos paskaičiuojamos prastesnės nei iš tikro būtų.
 
