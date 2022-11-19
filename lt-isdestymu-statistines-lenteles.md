@@ -44,7 +44,7 @@ __Pastabos.__ Patikrai tekste ir išdėstymuose yra suvienodinti ilgieji brūkš
 
 ## Pirštų panaudojimo skaičius nuošimčiais:
 
-|                                  |K. mažasis|K. bevardis|K. didysis|K. smilius|Nykščiai|D. smilius|D. didysis|D. bevardis|D. mažasis|Visopaspaudimų|
+|                                        |K. mažasis|K. bevardis|K. didysis|K. smilius|Nykščiai|D. smilius|D. didysis|D. bevardis|D. mažasis|Viso paspaudimų|
 |----------------------------------------|----------|-----------|----------|----------|--------|----------|----------|-----------|----------|--------|
 | ŪĖYOQJ Ratise (ISO)                    |   6,9%   |   7,2%    |   12,5%  |   15,1%  |  14,6% |   16,4%  |   12,4%  |    8,8%   |   6,3%   | 193294 |
 | QGRLDČ LEKP (ISO)                      |   10,3%  |   5,7%    |   11,1%  |   16,7%  |  14,5% |   10,3%  |   9,2%   |    13,9%  |   8,2%   | 194306 |
