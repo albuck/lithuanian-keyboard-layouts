@@ -144,7 +144,7 @@ __ĄŽERTY LT Standard 2000 (ISO):__
 
 [Lietuviškų klaviatūros išdėstymų patikros](lt-isdestymu-patikros.md)
 
-[Pagrindinių lietuviškų klaviatūros išdėstymų palyginamosios statistinės lentelės](lt-isdestymu-statistines-lenteles.md)
+[Lietuviškų klaviatūros išdėstymų palyginamosios statistinės lentelės](lt-isdestymu-statistines-lenteles.md)
 
 [Į pagrindinį puslapį](README.md)
 
