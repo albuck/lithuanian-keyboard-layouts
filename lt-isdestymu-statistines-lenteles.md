@@ -17,7 +17,7 @@
   - Ženklų (su tarpais): 189920
   - Ženklų (be tarpų): 159873
 
-+ Duomenų šaltinis: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/load/2X1jFvVl)
++ Duomenų šaltinis: _Keyboard Layout Analyzer_ „Lietuviškos pasakos (iš Basanavičiaus rinkinio)“: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/DLqKXSHF), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/Qqs29kvs)
 
 __Pastabos.__ Patikrai tekste ir išdėstymuose yra suvienodinti ilgieji brūkšniai. Sutrumpinimai: K. — „kairysis, kairiosios“, D. — „dešinysis, dešiniosios“.
 
@@ -27,10 +27,10 @@ __Pastabos.__ Patikrai tekste ir išdėstymuose yra suvienodinti ilgieji brūkš
 |                                        |K. mažasis|K. bevardis|K. didysis|K. smilius| Nykščiai|D. smilius|D. didysis|D. bevardis|D. mažasis|  Viso  |
 |----------------------------------------|----------|-----------|----------|----------|---------|----------|----------|-----------|----------|--------|
 | ŪĖYOQJ Ratise (ISO)                    |   288,3  |   266,3   |   295,4  |   471,3  |  7,1    |  1013,4  |   798,7  |   224,9   |   460,3  | 3825,7 |
-| QGRLDČ LEKP (ISO)                      |   109,6  |   117,0   |   489,3  |   1267,9 |  0      |  535,3   |   444,2  |   385,5   |   529,7  | 3878,5 |
-| AŽERTY Standard 2000 (ISO)             |   275,0  |   109,1   |   300,0  |   1493,0 |  151,6  |  1047,5  |   762,4  |   306,0   |   791,6  | 5236,3 |
-| AŽERTY Standard 1992, IBM (ISO)        |   279,9  |   109,1   |   300,0  |   1493,0 |  144,5  |  1047,5  |   771,3  |   407,5   |   782,2  | 5335,1 |
-| QWERTY Baltic-Numeric (ISO)            |   403,8  |   43,3    |   367,7  |   128,3  |  46,3   |  956,5   |   956,2  |   393,2   |   692,7  | 5599,1 |
+| QGRLDČ LEKP (ISO)                      |   109,6  |   117,0   |   788,1  |   948,2  |  0      |  535,3   |   444,2  |   385,5   |   529,7  | 3857,6 |
+| AŽERTY Standard 2000 (ISO)             |   275,0  |   109,1   |   304,6  |   1488,1 |  151,6  |  1047,5  |   762,4  |   306,0   |   791,6  | 5236,0 |
+| AŽERTY Standard 1992, IBM (ISO)        |   279,9  |   109,1   |   304,6  |   1488,1 |  144,5  |  1047,5  |   771,3  |   407,5   |   782,2  | 5334,8 |
+| QWERTY Baltic-Numeric (ISO)            |   403,8  |   43,3    |   737,2  |   1405,2 |  46,3   |  956,5   |   956,2  |   393,2   |   692,7  | 5534,5 |
 | ĖOŪYHJ Remigijaus (ISO)                |   420,5  |   378,8   |   66,9   |   128,3  |  1155,0 |  1060,5  |   509,9  |   289,2   |   461,4  | 4470,6 |
 | FZVPUJ (ISO)                           |   219,1  |   28,9    |   246,8  |   1083,2 |  151,6  |  623,2   |   321,6  |   718,1   |   695,8  | 4088,3 |
 | QWERTY Lithuanian (ISO)                |   353,5  |    0,0    |   311,4  |   1103,7 |  151,6  |  884,0   |   903,9  |   412,5   |   1298,2 | 5418,9 |
@@ -47,10 +47,10 @@ __Pastabos.__ Patikrai tekste ir išdėstymuose yra suvienodinti ilgieji brūkš
 |                                        |K. mažasis|K. bevardis|K. didysis|K. smilius|Nykščiai|D. smilius|D. didysis|D. bevardis|D. mažasis|Viso paspaudimų|
 |----------------------------------------|----------|-----------|----------|----------|--------|----------|----------|-----------|----------|--------|
 | ŪĖYOQJ Ratise (ISO)                    |   6,9%   |   7,2%    |   12,5%  |   15,1%  |  14,6% |   16,4%  |   12,4%  |    8,8%   |   6,3%   | 193294 |
-| QGRLDČ LEKP (ISO)                      |   10,3%  |   5,7%    |   11,1%  |   16,7%  |  14,5% |   10,3%  |   9,2%   |    13,9%  |   8,2%   | 194306 |
+| QGRLDČ LEKP (ISO)                      |   10,3%  |   5,7%    |   13,2%  |   14,7%  |  14,5% |   10,3%  |   9,2%   |    13,9%  |   8,2%   | 194306 |
 | AŽERTY Standard 2000 (ISO)             |   12,1%  |   7,3%    |   6,0%   |   16,7%  |  15,0% |   13,5%  |   14,2%  |    6,9%   |   8,3%   | 194311 |
 | AŽERTY Standard 1992, IBM (ISO)        |   12,1%  |   7,3%    |   6,0%   |   15,4%  |  15,0% |   13,5%  |   14,2%  |    8,1%   |   8,3%   | 194286 |
-| QWERTY Baltic-Numeric (ISO)            |   12,5%  |   6,1%    |   6,4%   |   17,6%  |  14,7% |   12,9%  |   16,3%  |    7,9%   |   5,7%   | 194610 |
+| QWERTY Baltic-Numeric (ISO)            |   12,5%  |   6,1%    |   8,9%   |   15,1%  |  14,7% |   12,9%  |   16,3%  |    7,9%   |   5,7%   | 194610 |
 | ĖOŪYHJ Remigijaus (ISO)                |   7,9%   |   13,9%   |   5,1%   |   10,9%  |  18,0% |   17,3%  |   12,2%  |    8,7%   |   5,8%   | 201371 |
 | FZVPUJ (ISO)                           |   5,4%   |   4,3%    |   7,1%   |   23,0%  |  15,0% |   7,9%   |   13,9%  |    12,7%  |   10,7%  | 194311 |
 | QWERTY Lithuanian (ISO)                |   11,9%  |   5,8%    |   6,0%   |   13,0%  |  14,9% |  12,4%   |   15,9%  |    8,2%   |   11,9%  | 195409 |
@@ -86,10 +86,10 @@ __Pastabos.__ Patikrai tekste ir išdėstymuose yra suvienodinti ilgieji brūkš
 |                                        |K. mažasis|K. bevardis|K. didysis|K. smilius|Nykščiai|D. smilius|D. didysis|D. bevardis|D. mažasis|  Viso |
 |----------------------------------------|----------|-----------|----------|----------|--------|----------|----------|-----------|----------|-------|
 | ŪĖYOQJ Ratise (ISO)                    |   357    |    112    |   509    |   4      |   10   |   622    |   505    |    175    |   521    | 2815  |
-| QGRLDČ LEKP (ISO)                      |   295    |    0      |   582    |   1311   |   10   |   310    |   41     |    326    |   2272   | 5147  |
+| QGRLDČ LEKP (ISO)                      |   295    |    0      |   1452   |   1195   |   10   |   310    |   41     |    326    |   2272   | 5901  |
 | AŽERTY Standard 2000 (ISO)             |   779    |    241    |   513    |   2253   |   10   |   2265   |   2519   |    549    |   1078   | 10207 |
 | AŽERTY Standard 1992, IBM (ISO)        |   791    |    241    |   513    |   1728   |   10   |   2265   |   2582   |    782    |   974    | 9886  |
-| QWERTY Baltic-Numeric (ISO)            |   831    |    31     |   560    |   4983   |   10   |   2265   |   3062   |    863    |   736    | 13341 |
+| QWERTY Baltic-Numeric (ISO)            |   831    |    31     |   1109   |   2472   |   10   |   2265   |   3062   |    863    |   736    | 11379 |
 | ĖOŪYHJ Remigijaus (ISO)                |   497    |    4      |   3      |   35     |   10   |   628    |   407    |    28     |   824    | 2436  |
 | FZVPUJ (ISO)                           |   246    |    13     |   992    |   10869  |   10   |   596    |   3627   |    2427   |   1637   | 20417 |
 | QWERTY Lithuanian (ISO)                |   782    |    0      |   513    |   1615   |   10   |   2113   |   2712   |    850    |   2076   | 10671 |
