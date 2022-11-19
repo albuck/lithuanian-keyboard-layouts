@@ -92,6 +92,6 @@ Išdėstymai rikiuojami pagal [lietuviško teksto patikrose](lt-isdestymu-patikr
 
 [Lietuviškų klaviatūrų mygtukų spaudeliojimo dažnumai](lt-isdestymu-mygt-spaud-daznumai.md)
 
-[Pagrindinių lietuviškų klaviatūros išdėstymų palyginamosios statistinės lentelės](lt-isdestymu-statistines-lenteles.md)
+[Lietuviškų klaviatūros išdėstymų palyginamosios statistinės lentelės](lt-isdestymu-statistines-lenteles.md)
 
 [Tolimesnis lietuviškos klaviatūros tobulinimas ir nauraštis](lietuviskos-klaviaturos-tobulinimas.md)
