@@ -86,9 +86,9 @@ Išdėstymai rikiuojami pagal [lietuviško teksto patikrose](lt-isdestymu-patikr
    10. QWERTY Baltic-Numeric Programmers (ISO) — 57%
    
 __Pastabos:__
-+ Pasenęs lietuviškos [spausdinimo mišinėlės išdėstymas](images/lt-spausdykle.svg) neįtrauktas į patikrą.
-+ Apleistas Ratisės išdėstymo pirmavaizdis [Lietuviška tikrinė klaviatūra](https://albuck.github.io/Ratise-layout/docs/images/sena_tikrine.gif) bei jos vėlesnės ar bandomosios atmainos neįtrauktos į patikrą.
-+ Galimi lietuviški išdėstymai, padaryti iš geresnių ergonomiškų angliškų išdėstymų su lietuviškomis raidėmis trečiame lygyje, neįtraukti į patikrą.
++ Pasenęs lietuviškos [spausdinimo mišinėlės išdėstymas](images/lt-spausdykle.svg) neįtrauktas į palyginimą.
++ Apleistas Ratisės išdėstymo pirmavaizdis [Lietuviška tikrinė klaviatūra](https://albuck.github.io/Ratise-layout/docs/images/sena_tikrine.gif) bei jos vėlesnės ar bandomosios atmainos neįtrauktos į palyginimą.
++ Galimi lietuviški išdėstymai, padaryti iš geresnių ergonomiškų angliškų išdėstymų su lietuviškomis raidėmis trečiame lygyje, neįtraukti į palyginimą.
 
 -----------------------------------------
 
