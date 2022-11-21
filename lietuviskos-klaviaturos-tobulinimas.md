@@ -16,7 +16,7 @@ __Raidyno keitimai:__
 - dviraidis _CH_ keičiamas į _Q_;
 -  _V_ į _W_;
 -  _Ū_ į _V_;
-- _C_ keičiama į dviraidį _TS_; skoliniuose _C_ galėtų būti skaitoma kaip ⟨ts⟩ arba naujoviškai kaip ⟨š⟩, arba keičiama į _K_ (atsižvelgiant į garso žodyje kilmę), pvz.: _citrina_ ⟨tsitrina/šitrina⟩, _stoikas — stoikizmas (stoicizmas)_, _kentauras_ (centauras);
+- _C_ keičiama į dviraidį _TS_; skoliniuose _C_ galėtų būti skaitoma kaip ⟨ts⟩ arba naujoviškai kaip ⟨š⟩, arba keičiama į _K_ (atsižvelgiant į garso žodyje kilmę), pvz.: _citrina_ ⟨tsitrina/šitrina⟩, _stoikas — stoikizmas_ (stoicizmas), _kentauras_ (centauras);
 - _Š_ keičiama į _C_;
 - _Ž_ keičiama į _X_;
 - _Ė_ keičiama į _Ɛ_;
