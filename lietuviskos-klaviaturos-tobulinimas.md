@@ -7,7 +7,7 @@ Nors lietuviškas klaviatūros išdėstymas _Ratisė_ ir leidžia lietuvių kalb
 
 Taip pat, manau, kad tolimesnis lietuviškos kompiuterio klaviatūros išdėstymo tobulinimas jau yra neįmanomas be lietuviško raidyno ir rašybos šiokio tokio patvarkymo bei patobulinimo.
 
-Turėti klaviatūroje 35 raides yra per daug (nepraktiška), o kelti angliškas raides į trečiąjį lygį yra nepriimtina dėl skaitmeninės įrangos vartojimo ypatumų bei anglų kalbos įsigalėjimo kaip papildomos kalbos. Taigi, išeitis būtų mažinti raidžių kiekį, įtraukiant angliškas raides į lietuvišką raidyną vietoje kai kurių lietuviškų raidžių bei darant kelis kitus rašybos patobulinimus.
+Turėti klaviatūroje 35 raides yra per daug (nepraktiška), o kelti angliškas raides į trečiąjį lygį yra nepriimtina dėl skaitmeninės įrangos vartojimo ypatumų bei anglų kalbos įsigalėjimo kaip papildomos kalbos. Kita vertus, nukelti lietuviškas raides į trečią-ketvirtą lygį ar rinkti per tęsties lygius taip pat yra nepraktiška: šios ypatingosios lietuviškos raidės yra per dažnos. Taigi, išeitis būtų mažinti raidžių kiekį, įtraukiant angliškas raides į lietuvišką raidyną vietoje kai kurių lietuviškų raidžių bei darant kelis kitus rašybos patobulinimus.
 
 _Galimi lietuviško raidyno bei rašybos patvarkymai-patobulinimai._
 
@@ -44,6 +44,7 @@ __Pastabos:__
 + Nesant galimybei ir esant būtinybei užrašyti ypatingąsias lietuviškas balses galima dviraidžiais: _ą_ — _ah_, _ę_ — _eh_, _ɛ(ė)_ — _ee_, _į_ — _ih_, _ų_ — _uh_, pvz.: _kah_ ⟨ką⟩, _buweh_ ⟨buvę⟩, _leelee_ ⟨lėlė⟩, _jih_ ⟨jį⟩, _juh_ ⟨jų⟩.
 + Prieg progai, mažinant raidžių skaičių žodžiuose, galima būtų palyginti vieną kurį lietuviškos gramatikos nelygumą, pavyzdžiui — pakeisti tariamosios nuosakos pirmajį asmenį senoviškesne lytimi (dar vis vartojama tarmėse): _sakytiau ⟨sakyčiau⟩ → sakytau_.
 + _Ėė_ raidė ergonomikos (patogumo, praktiškumo) požiūriu yra nevykusi: raidė su nuolatiniu tašku viršuje yra prastas spendimas — ar rašant ranka, ar ir spausdinant priegaidę ant viršaus — bereikalingi keblumai ir neaiškumai.
++ Bendrai imant, raidžių dizaino požiūriu — raidės žyminčios besiskiriančius kalbos garsus turi atrodyti aiškiai skirtingai. Tik raidė, kurios skaitymas laikinai kinta kaitaliojantis žodžio pavidalui gali turėti tai žymintį uždėtinį ženklą (pavyzdžiui: priegaidę). Taigi, raidės — _Čč, Ėė, Ūū, Šš, Žž_ — nevykusios dizaino ir ergonomikos požiūriu.
 
 -----------------------------------------
 
