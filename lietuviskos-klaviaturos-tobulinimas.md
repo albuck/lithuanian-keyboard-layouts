@@ -52,8 +52,7 @@ __Pastabos:__
   + „šveplas“ rašymo būdas išnyksta kaip reiškinys;
   + pasidaro nuoseklesnė ir aiškesnė kaitomų žodžių šaknų rašyba;
   + dingsta dešimtmetės kirčiuotų _Ėė_ ir _Ūū_ bėdos;
-  + glaustesnės gretimos teksto eilutės nelips viena ant kitos;
-  + naujoji rašyba yra draugiškesnė lietuvių kalbos tarmėms.
+  + glaustesnės gretimos teksto eilutės nelips viena ant kitos.
 
 -----------------------------------------
 
