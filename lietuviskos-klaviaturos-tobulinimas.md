@@ -53,8 +53,7 @@ __Pastabos:__
   + pasidaro nuoseklesnė ir aiškesnė kaitomų žodžių šaknų rašyba;
   + dingsta dešimtmetės kirčiuotų _Ėė_ ir _Ūū_ bėdos;
   + glaustesnės gretimos teksto eilutės nelips viena ant kitos.
- + Galimi ir kitokie raidyno keitimai, pavyzdžiui: _Šš_ → _Xx_, _Žž_ → _Hh_, _Ūū_ → _Ww_.
- + Minimalaus keitimo raidynas: A Ą B C D E Ę Ė F G H I Į Y J K L (Ł) M N O P (Q) R S T U Ų Ū V (W) X Z, kur _š_ → _x_, _ž_ → _h_, _či_ → _ti_, _dži_ → _di_, skiaustuose papildomos raidės, nenaudojamos lietuviškuose žodžiuose.
+ + Galimi ir kitokie ar tik minimalūs raidyno keitimai, pavyzdžiui, išimant tik „paukščiuotas raides“: _Š_ → _X/W_, _Ž_ → _H/X_, _či_ → _ti_, _dži_ → _di_.
 
 -----------------------------------------
 
