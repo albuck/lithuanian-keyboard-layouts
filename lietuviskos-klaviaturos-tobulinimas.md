@@ -55,7 +55,7 @@ __Pastabos:__
   + glaustesnės gretimos teksto eilutės nelips viena ant kitos.
   + Galimi ir kitokie ar tik minimalūs raidyno keitimai, pavyzdžiui, išimant tik „paukščiuotas raides“: _Š_ → _C_, _Ž_ → _X_, _či_ → _ti_, _dži_ → _di_.
 
-_Mažiausiai keisto (optimizuoto) lietuviško naujaraščio kompiuterinės klaviatūros Ratisės išdėstymas:_
+_Minimaliai optimizuoto lietuviško raidyno, „naujaraščio“ kompiuterinės klaviatūros Ratisės išdėstymas:_
 
 ![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO paprasčiausias naujaraščiui](images/ueyoqj-ratise-njr-iso.svg)
 
