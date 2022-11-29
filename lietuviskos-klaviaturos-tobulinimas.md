@@ -44,6 +44,7 @@ __Pastabos:__
 + Nesant galimybei ir esant būtinybei užrašyti ypatingąsias lietuviškas balses galima dviraidžiais: _ą_ — _ah_, _ę_ — _eh_, _ɛ(ė)_ — _ee_, _į_ — _ih_, _ų_ — _uh_, pvz.: _kah_ ⟨ką⟩, _buweh_ ⟨buvę⟩, _leelee_ ⟨lėlė⟩, _jih_ ⟨jį⟩, _juh_ ⟨jų⟩.
 + Prieg progai, mažinant raidžių skaičių žodžiuose, galima būtų palyginti vieną kurį lietuviškos gramatikos nelygumą, pavyzdžiui — pakeisti tariamosios nuosakos pirmajį asmenį senoviškesne lytimi (dar vis vartojama tarmėse): _sakytiau ⟨sakyčiau⟩ → sakytau_.
 + _Ėė_ raidė ergonomikos (patogumo, praktiškumo) požiūriu yra nevykusi: raidė su nuolatiniu tašku viršuje yra prastas spendimas — ar rašant ranka, ar ir spausdinant priegaidę ant viršaus — bereikalingi keblumai ir neaiškumai.
++ _Ɛ_ raidės minusas yra jos buvimo spaudmenyse retumas. 
 + Bendrai imant, raidžių dizaino požiūriu: _raidės žyminčios skirtingus kalbos garsus turi atrodyti aiškiai skirtingai_. Tik raidė, kurios skaitymas laikinai pakinta kaitaliojantis žodžiui gali turėti tai žymintį uždėtinį ženklą (pavyzdžiui: kirtį, priegaidę). Taigi, raidės — _Čč, Ėė, Ūū, Šš, Žž_ — nevykusios dizaino ir ergonomikos požiūriu.
 + Kiti tokio rašybos patvarkymo privalumai:
   + šiek tiek sumažėja raidžių skaičius tame pačiame tekste;
