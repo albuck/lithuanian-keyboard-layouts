@@ -53,6 +53,7 @@ __Pastabos:__
   + pasidaro nuoseklesnė ir aiškesnė kaitomų žodžių šaknų rašyba;
   + dingsta dešimtmetės kirčiuotų _Ėė_ ir _Ūū_ bėdos;
   + glaustesnės gretimos teksto eilutės nelips viena ant kitos.
+ + Galimi ir kitokie raidyno keitimai, pavyzdžiui: _Šš_ → _Xx_, _Žž_ → _Hh_, _Ūū_ → _Ww_.
 
 -----------------------------------------
 
