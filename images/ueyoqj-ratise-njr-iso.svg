@@ -41,12 +41,12 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="0.31796408"
-     inkscape:cx="370.19064"
-     inkscape:cy="369.22656"
+     inkscape:cx="706.66638"
+     inkscape:cy="671.31355"
      inkscape:window-width="1516"
      inkscape:window-height="950"
-     inkscape:window-x="427"
-     inkscape:window-y="407"
+     inkscape:window-x="503"
+     inkscape:window-y="380"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0" />
@@ -101,7 +101,7 @@
          y="173.21188"
          style="stroke-width:0.264583" /></text>
     <g
-       id="g994">
+       id="g1073">
       <g
          id="g231">
         <text
@@ -132,7 +132,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke-width:0.264583"
              x="55.437927"
              y="109.18509"
-             id="tspan2842">║ + ` ║ ! ’ ║ : ⟨ ║ . ⟩ ║ — ” ║ _ ̂  ║ | ^ ║ = 7 ║ , 8 ║ ; 9 ║ / ÷ ║ -   ║ ? ≈ ║           ║</tspan><tspan
+             id="tspan2842">║ + ` ║ ! ’ ║ : ⟨ ║ . ⟩ ║ — ” ║ _ ̂  ║ | ^ ║ = 7 ║ , 8 ║ ; 9 ║ / ÷ ║ - ‑ ║ ? ≈ ║           ║</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke-width:0.264583"
              x="55.437927"
@@ -321,12 +321,12 @@
       <path
          d="m 192.28823,92.853808 v 6.252226 h -0.66546 v -4.802418 h -1.02758 v -1.698988 h -0.97867 v 1.698988 h -1.02762 v 4.802443 h -0.66548 v -6.252251 h -0.97865 v 7.384872 h 6.32214 v -7.384872 z m -2.72066,2.582451 h 1.07653 v 3.6698 h -1.07653 z"
          id="path5923"
-         style="fill:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#808080;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
          inkscape:connector-curvature="0" />
       <path
          d="m 98.206385,98.286345 h -1.466839 v -1.2598 h 1.466839 v -1.67898 h -1.466839 v -1.2598 h 1.466839 v -1.703771 h 1.08461 v 1.703771 h 1.466845 v 1.2598 h -1.466845 v 1.67898 h 1.466845 v 1.2598 h -1.466845 v 1.703769 h -1.08461 z"
          id="path2"
-         style="stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" />
+         style="stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;fill:#808080" />
     </g>
   </g>
 </svg>
