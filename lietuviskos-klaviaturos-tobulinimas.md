@@ -45,7 +45,7 @@ Minimalaus raidyno keitimo atveju, turėtume 30 raidžių lietuvišką raidyną 
 
 __A Ą B C D E Ę Ė F G H I Į Y J K L (Ł) M N O P (Q) R S T U Ų Ū V (W) X Z__.
 
-_Minimaliai optimizuoto lietuviško raidyno, „naujaraščio“, kompiuterinės klaviatūros Ratisės išdėstymas:_
+_Minimaliai optimizuoto lietuviško raidyno, „naujaraščio“, kompiuterinės klaviatūros Ratisės galimas išdėstymas:_
 
 ![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO paprasčiausias naujaraščiui](images/ueyoqj-ratise-njr-iso.svg)
 
