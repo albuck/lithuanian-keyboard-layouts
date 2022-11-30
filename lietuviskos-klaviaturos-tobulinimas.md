@@ -30,7 +30,7 @@ __Rašybos keitimai:__
 
 __Pilnas raidyno optimizavimas__
 
-Taikant visus keitimus, naujasis lietuviškas raidynas turėtų 31 raidę, bei vieną tarminę (papildomą 32-ąją raidę, kietąją _ł_, dedamą į trečiąjį klaviatūrų išdėstymų lygį, taigi klaviatūroje būtų 31 raidžių mygtukai):
+Taikant visus keitimus, naujasis lietuviškas raidynas turėtų 31 raidę, bei vieną tarminę (papildomą 32-ąją raidę, kietąją _ł_, dedamą į trečiąjį klaviatūrų išdėstymų lygį), taigi, klaviatūroje būtų 31 raidžių mygtukai:
 
 __A Ą B C D E Ę Ɛ F G H I Į Y J K L (Ł) M N O P Q R S T U Ų V W X Z__.
 
@@ -45,7 +45,7 @@ Minimalaus raidyno keitimo atveju, turėtume 30 raidžių lietuvišką raidyną 
 
 __A Ą B C D E Ę Ė F G H I Į Y J K L (Ł) M N O P (Q) R S T U Ų Ū V (W) X Z__.
 
-_Minimaliai optimizuoto lietuviško raidyno, „naujaraščio“, kompiuterinės klaviatūros Ratisės galimas išdėstymas:_
+_Minimaliai optimizuoto lietuviško raidyno (naujaraščio), kompiuterinės klaviatūros Ratisės galimas išdėstymas:_
 
 ![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO paprasčiausias naujaraščiui](images/ueyoqj-ratise-njr-iso.svg)
 
