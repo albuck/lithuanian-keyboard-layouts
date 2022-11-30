@@ -29,7 +29,7 @@ __Rašybos keitimai:__
 - suminkštėjusio _d+i(j)_ rašymas triraidžiu _dži_ keičiamas į _di_ (tai būtų kilminė rašyba, esant reikalui skaitymas galėtų priklausyti nuo tarmės), pvz.: _gaudiau_ ⟨gaudžiau⟩;
 - _č_ nekilęs iš suminkštėjusio _t_ keičiamas į _tc_ ⟨tš⟩ arba tiesiog į _c_ ⟨š⟩ (kas kartais yra žodžio tarimo variantu, pvz.: _gincas_ ⟨ginčas/ginšas⟩);
 
-Taip naujasis lietuviškas raidynas turėtų 31 raidę, bei vieną tarminę (papildomą 32-ąją raidę, kietąją _ł_, dedamą į trečiąjį klaviatūrų išdėstymų lygį):
+1. Taip naujasis lietuviškas raidynas turėtų 31 raidę, bei vieną tarminę (papildomą 32-ąją raidę, kietąją _ł_, dedamą į trečiąjį klaviatūrų išdėstymų lygį):
 
 __A Ą B C D E Ę Ɛ F G H I Į Y J K L (Ł) M N O P Q R S T U Ų V W X Z__.
 
@@ -56,7 +56,7 @@ __Pastabos:__
   + dingsta dešimtmetės kirčiuotų _Ėė_ ir _Ūū_ bėdos;
   + glaustesnės gretimos teksto eilutės nelips viena ant kitos.
  
-Galimi ir kitokie ar tik minimalūs raidyno keitimai, pavyzdžiui, išimant tik „paukščiuotas raides“: _Š_ → _C_, _Ž_ → _X_, _či_ → _ti_, _dži_ → _di_.
+2. Galimi ir kitokie ar tik minimalūs raidyno keitimai, pavyzdžiui, išimant tik „paukščiuotas raides“: _Š_ → _C_, _Ž_ → _X_, _či_ → _ti_, _dži_ → _di_.
 
 _Minimaliai optimizuoto lietuviško raidyno, „naujaraščio“, kompiuterinės klaviatūros Ratisės išdėstymas:_
 
