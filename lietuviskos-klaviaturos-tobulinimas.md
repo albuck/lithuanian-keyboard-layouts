@@ -7,7 +7,7 @@ Nors lietuviškas klaviatūros išdėstymas _Ratisė_ ir leidžia lietuvių kalb
 
 Taip pat, manau, kad tolimesnis lietuviškos kompiuterio klaviatūros išdėstymo tobulinimas jau yra neįmanomas be lietuviško raidyno ir rašybos šiokio tokio patvarkymo bei patobulinimo.
 
-Turėti klaviatūroje 35 raides yra per daug (nepraktiška), o kelti angliškas raides į trečiąjį lygį yra nepriimtina dėl skaitmeninės įrangos vartojimo ypatumų bei anglų kalbos įsigalėjimo kaip papildomos kalbos. Kita vertus, nukelti lietuviškas raides į trečią-ketvirtą lygį ar rinkti per tęsties lygius taip pat yra nepraktiška: šios ypatingosios lietuviškos raidės yra per dažnos. Taigi, išeitis būtų mažinti raidžių kiekį, įtraukiant angliškas raides į lietuvišką raidyną vietoje kai kurių lietuviškų raidžių bei darant kelis kitus rašybos patobulinimus.
+Turėti klaviatūroje 35 raides yra per daug (nepatogu ir nepraktiška), o kelti angliškas raides į trečiąjį lygį yra nepriimtina dėl skaitmeninės įrangos vartojimo ypatumų bei anglų kalbos įsigalėjimo kaip papildomos kalbos. Kita vertus, nukelti lietuviškas raides į trečią-ketvirtą lygį ar rinkti per tęsties lygius taip pat yra nepraktiška: šios ypatingosios lietuviškos raidės yra per dažnos. Taigi, išeitis būtų mažinti raidžių kiekį, įtraukiant angliškas raides į lietuvišką raidyną vietoje kai kurių lietuviškų raidžių bei darant kelis kitus rašybos patobulinimus.
 
 __Raidyno keitimai:__
 
