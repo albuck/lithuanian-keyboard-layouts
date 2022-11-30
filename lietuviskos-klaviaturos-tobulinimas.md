@@ -28,6 +28,7 @@ __Rašybos keitimai:__
 - suminkštėjusio _t+i(j)_ rašymas dviraidžiu _či_ keičiamas į _ti_ (tai būtų kilminė rašyba, dviraidžio skaitymas esant reikalui galėtų priklausyti nuo tarmės), būnantis žodžio gale minkštasis _č_ rašomas dviraidžiu _tc_, sudėtiniuose žodžiuose _t/tc_, pvz.: _matiau_ ⟨mačiau⟩, _Butkewitius_ ⟨Butkevičius⟩, _akɛtwirbalis/akɛtcwirbalis_ (akėtvirbalis/akėčvirbalis), _ypatc_ ⟨ypač⟩;
 - suminkštėjusio _d+i(j)_ rašymas triraidžiu _dži_ keičiamas į _di_ (tai būtų kilminė rašyba, esant reikalui skaitymas galėtų priklausyti nuo tarmės), pvz.: _gaudiau_ ⟨gaudžiau⟩;
 - _č_ nekilęs iš suminkštėjusio _t_ keičiamas į _tc_ ⟨tš⟩ arba tiesiog į _c_ ⟨š⟩ (kas kartais yra žodžio tarimo variantu, pvz.: _gincas_ ⟨ginčas/ginšas⟩);
+<br>
 
 __Pilnas raidyno optimizavimas__
 
@@ -36,6 +37,7 @@ Taikant visus keitimus, naujasis lietuviškas raidynas turėtų 31 raidę, bei v
 __A Ą B C D E Ę Ɛ F G H I Į Y J K L (Ł) M N O P Q R S T U Ų V W X Z__.
 
 - Nauraštinio teksto pavyzdys: [Brisiaus Galas, Jonas Biliūnas](brisiaus-galas-nauractiu.txt)
+<br>
 
 __Minimalus raidyno optimizavimas__
 
@@ -48,6 +50,7 @@ __A Ą B C D E Ę Ė F G H I Į Y J K L (Ł) M N O P (Q) R S T U Ų Ū V (W) X Z
 _Minimaliai optimizuoto lietuviško raidyno, „naujaraščio“, kompiuterinės klaviatūros Ratisės galimas išdėstymas:_
 
 ![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO paprasčiausias naujaraščiui](images/ueyoqj-ratise-njr-iso.svg)
+<br>
 
 __Pastabos:__
 + Raidžių [C](https://en.wikipedia.org/wiki/C) ir [X](https://en.wikipedia.org/wiki/X) skaitymas kaip ⟨š⟩ ir ⟨ž⟩ nėra koks naujoviškas negirdėtas dalykas, toks šių raidžių skaitymas esti kai kuriose kalbose.
