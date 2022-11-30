@@ -29,11 +29,21 @@ __Rašybos keitimai:__
 - suminkštėjusio _d+i(j)_ rašymas triraidžiu _dži_ keičiamas į _di_ (tai būtų kilminė rašyba, esant reikalui skaitymas galėtų priklausyti nuo tarmės), pvz.: _gaudiau_ ⟨gaudžiau⟩;
 - _č_ nekilęs iš suminkštėjusio _t_ keičiamas į _tc_ ⟨tš⟩ arba tiesiog į _c_ ⟨š⟩ (kas kartais yra žodžio tarimo variantu, pvz.: _gincas_ ⟨ginčas/ginšas⟩);
 
-1. Taip naujasis lietuviškas raidynas turėtų 31 raidę, bei vieną tarminę (papildomą 32-ąją raidę, kietąją _ł_, dedamą į trečiąjį klaviatūrų išdėstymų lygį):
+1. Taikant visus keitimus, naujasis lietuviškas raidynas turėtų 31 raidę, bei vieną tarminę (papildomą 32-ąją raidę, kietąją _ł_, dedamą į trečiąjį klaviatūrų išdėstymų lygį, taigi klaviatūroje būtų 31 raidžių mygtukai):
 
 __A Ą B C D E Ę Ɛ F G H I Į Y J K L (Ł) M N O P Q R S T U Ų V W X Z__.
 
 - Nauraštinio teksto pavyzdys: [Brisiaus Galas, Jonas Biliūnas](brisiaus-galas-nauractiu.txt)
+
+2. Galimi ir kitokie ar tik minimalūs raidyno keitimai, pavyzdžiui, išimant tik „paukščiuotas raides“: _Š_ → _C_, _Ž_ → _X_, _či_ → _ti_, _dži_ → _di_.
+
+Minimalaus raidyno keitimo atveju, turėtume 30 raidžių lietuvišką raidyną ir 32 raidžių mygtukus klaviatūroje:
+
+__A Ą B C D E Ę Ė F G H I Į Y J K L (Ł) M N O P (Q) R S T U Ų Ū V (W) X Z__.
+
+_Minimaliai optimizuoto lietuviško raidyno, „naujaraščio“, kompiuterinės klaviatūros Ratisės išdėstymas:_
+
+![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO paprasčiausias naujaraščiui](images/ueyoqj-ratise-njr-iso.svg)
 
 __Pastabos:__
 + Raidžių [C](https://en.wikipedia.org/wiki/C) ir [X](https://en.wikipedia.org/wiki/X) skaitymas kaip ⟨š⟩ ir ⟨ž⟩ nėra koks naujoviškas negirdėtas dalykas, toks šių raidžių skaitymas esti kai kuriose kalbose.
@@ -45,7 +55,7 @@ __Pastabos:__
 + Prieg progai, mažinant raidžių skaičių žodžiuose, galima būtų palyginti vieną kurį lietuviškos gramatikos nelygumą, pavyzdžiui — pakeisti tariamosios nuosakos pirmajį asmenį senoviškesne lytimi (dar vis vartojama tarmėse): _sakytiau ⟨sakyčiau⟩ → sakytau_.
 + _Ėė_ raidė ergonomikos (patogumo, praktiškumo) požiūriu yra nevykusi: raidė su nuolatiniu tašku viršuje yra prastas spendimas — ar rašant ranka, ar ir spausdinant priegaidę ant viršaus — bereikalingi keblumai ir neaiškumai.
 + _Ɛ_ raidės minusas yra jos buvimo spaudmenyse retumas.
-+ _V_ į _W_ keitimo trūkumas: dažnoka _W_ tekste nelaibai gražiai atrodo.
++ _V_ į _W_ keitimo trūkumas: dažnoka _W_ tekste nelaibai gražiai atrodo (kitas pasirinkimas būtų: _Ū_ → _W_).
 + Bendrai imant, raidžių dizaino požiūriu: _raidės žyminčios skirtingus kalbos garsus turi atrodyti aiškiai skirtingai_. Tik raidė, kurios skaitymas laikinai pakinta kaitaliojantis žodžiui gali turėti tai žymintį uždėtinį ženklą (pavyzdžiui: kirtį, priegaidę). Taigi, raidės — _Čč, Ėė, Ūū, Šš, Žž_ — nevykusios dizaino ir ergonomikos požiūriu.
 + Kiti tokio rašybos patvarkymo privalumai:
   + šiek tiek sumažėja raidžių skaičius tame pačiame tekste;
@@ -55,12 +65,6 @@ __Pastabos:__
   + pasidaro nuoseklesnė ir aiškesnė kaitomų žodžių šaknų rašyba;
   + dingsta dešimtmetės kirčiuotų _Ėė_ ir _Ūū_ bėdos;
   + glaustesnės gretimos teksto eilutės nelips viena ant kitos.
- 
-2. Galimi ir kitokie ar tik minimalūs raidyno keitimai, pavyzdžiui, išimant tik „paukščiuotas raides“: _Š_ → _C_, _Ž_ → _X_, _či_ → _ti_, _dži_ → _di_.
-
-_Minimaliai optimizuoto lietuviško raidyno, „naujaraščio“, kompiuterinės klaviatūros Ratisės išdėstymas:_
-
-![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO paprasčiausias naujaraščiui](images/ueyoqj-ratise-njr-iso.svg)
 
 -----------------------------------------
 
