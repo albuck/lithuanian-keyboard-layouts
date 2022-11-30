@@ -29,13 +29,17 @@ __Rašybos keitimai:__
 - suminkštėjusio _d+i(j)_ rašymas triraidžiu _dži_ keičiamas į _di_ (tai būtų kilminė rašyba, esant reikalui skaitymas galėtų priklausyti nuo tarmės), pvz.: _gaudiau_ ⟨gaudžiau⟩;
 - _č_ nekilęs iš suminkštėjusio _t_ keičiamas į _tc_ ⟨tš⟩ arba tiesiog į _c_ ⟨š⟩ (kas kartais yra žodžio tarimo variantu, pvz.: _gincas_ ⟨ginčas/ginšas⟩);
 
-1. Taikant visus keitimus, naujasis lietuviškas raidynas turėtų 31 raidę, bei vieną tarminę (papildomą 32-ąją raidę, kietąją _ł_, dedamą į trečiąjį klaviatūrų išdėstymų lygį, taigi klaviatūroje būtų 31 raidžių mygtukai):
+__Pilnas raidyno optimizavimas__
+
+Taikant visus keitimus, naujasis lietuviškas raidynas turėtų 31 raidę, bei vieną tarminę (papildomą 32-ąją raidę, kietąją _ł_, dedamą į trečiąjį klaviatūrų išdėstymų lygį, taigi klaviatūroje būtų 31 raidžių mygtukai):
 
 __A Ą B C D E Ę Ɛ F G H I Į Y J K L (Ł) M N O P Q R S T U Ų V W X Z__.
 
 - Nauraštinio teksto pavyzdys: [Brisiaus Galas, Jonas Biliūnas](brisiaus-galas-nauractiu.txt)
 
-2. Galimi ir kitokie ar tik minimalūs raidyno keitimai, pavyzdžiui, išimant tik „paukščiuotas raides“: _Š_ → _C_, _Ž_ → _X_, _či_ → _ti_, _dži_ → _di_.
+__Minimalus raidyno optimizavimas__
+
+Galimi ir kitokie ar tik minimalūs raidyno keitimai, pavyzdžiui, išimant tik „paukščiuotas raides“: _Š_ → _C_, _Ž_ → _X_, _či_ → _ti_, _dži_ → _di_.
 
 Minimalaus raidyno keitimo atveju, turėtume 30 raidžių lietuvišką raidyną ir 32 raidžių mygtukus klaviatūroje:
 
