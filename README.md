@@ -26,7 +26,6 @@ Išdėstymai rikiuojami pagal [lietuviško teksto patikrose](lt-isdestymu-patikr
    ![Lietuviškas klaviatūros išdėstymas FZVPUJ (LST 1092-89, RST 1092-89) ISO](images/fzvpuj-iso.svg)
        NP — L70% E80% P82%
 
-<br>
 
   __5. [QWERTY Lithuanian](https://web.archive.org/web/20210125092522/https://www.registrucentras.lt/litwin/keyboard.html) (ISO):__
    ![Lietuviškas klaviatūros išdėstymas QWERTY Lithuaian ISO](images/qwerty-lt-iso.svg)
