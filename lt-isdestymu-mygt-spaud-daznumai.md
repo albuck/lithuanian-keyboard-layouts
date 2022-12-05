@@ -4,6 +4,7 @@
 Išdėstymai dėstyti pagal jų pasiekimus patikrose.
 Ryškesnė spalva rodo didesnį mygtuko naudojimo dažnumą.
 
+<br>
 
 ## Lietuviškas tekstas:
 
@@ -49,6 +50,7 @@ __QWERTY Baltic-Numeric Programmers (ISO):__
 
 ![QWERTY Baltic-Numeric Programmers (ISO)](images/qwerty-baltic-numeric-programmers-iso-spauda-liet.png)
 
+<br>
 
 ## Angliškas tekstas:
 
@@ -94,6 +96,7 @@ __ĄŽERTY LT Standard 2000 (ISO):__
 
 ![ĄŽERTY LT Standard 2000 (ISO)](images/azerty-lt-standard-iso-spauda-eng.png)
 
+<br>
 
 ## Programavimo kalbų tekstas:
 
@@ -139,6 +142,7 @@ __ĄŽERTY LT Standard 2000 (ISO):__
 
 ![ĄŽERTY LT Standard 2000 (ISO)](images/azerty-lt-standard-iso-spauda-prog.png)
 
+<br>
 
 -----------------------------------------
 
