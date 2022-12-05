@@ -79,7 +79,7 @@ Išdėstymai rikiuojami pagal [lietuviško teksto patikrose](lt-isdestymu-patikr
    8. QWERTY Baltic-Numeric (ISO) — 69%
    9. QWERTY Lithuanian Programmers (ISO) — 68%
    10. QWERTY Baltic-Numeric Programmers (ISO) — 66%
-<br>
+   
 
 + __Lietuviškų išdėstymų NP vertinimo eilė angliškam tekstui:__
 
@@ -94,7 +94,6 @@ Išdėstymai rikiuojami pagal [lietuviško teksto patikrose](lt-isdestymu-patikr
    9. ĄŽERTY IBM, LT Standard 1992 (ISO) — 73%
    10. ĄŽERTY LT Standard 2000 (ISO) — 70%
    
-<br>
 
 + __Lietuviškų išdėstymų NP vertinimo eilė programavimo tekstui:__
 
@@ -116,7 +115,6 @@ __Pastabos:__
 + Apleistas Ratisės išdėstymo pirmavaizdis [Lietuviška tikrinė klaviatūra](https://albuck.github.io/Ratise-layout/docs/images/sena_tikrine.png) bei jos vėlesnės ar bandomosios atmainos neįtrauktos į palyginimą.
 + Galimi lietuviški išdėstymai, padaryti iš geresnių ergonomiškų angliškų išdėstymų su lietuviškomis raidėmis trečiame lygyje, neįtraukti į palyginimą.
 
-<br>
 
 -----------------------------------------
 
