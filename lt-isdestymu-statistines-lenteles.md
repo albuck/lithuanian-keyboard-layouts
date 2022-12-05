@@ -134,7 +134,6 @@ __Pastabos.__ Patikrai tekste ir išdėstymuose yra suvienodinti ilgieji brūkš
 - Mažesnis skaičius yra geriau.
 - Matavimo vienetas — mygtuko paspaudimo kartas.
 
-<br>
 
 -----------------------------------------
 
