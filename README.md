@@ -9,7 +9,7 @@ Išdėstymai rikiuojami pagal [lietuviško teksto patikrose](lt-isdestymu-patikr
 
   __1. [ŪĖYOQJ Ratisė](https://albuck.github.io/Ratise-layout/) (ISO):__
    ![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO](images/ueyoqj-ratise-iso.svg)
-       - NP — L100% E100% P100%
+       • NP — L100% E100% P100%
 
 
   __2. [ĖOŪYHJ Remigijaus](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html) (ISO):__
