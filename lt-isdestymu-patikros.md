@@ -11,6 +11,7 @@ __Pastabos:__
 
 + __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „išdėstymo įvertinimo taškai“
 
+<br>
 
 ### Lietuviško teksto skaidymas:
 
@@ -144,6 +145,7 @@ __Pastabos:__
    9. ĄŽERTY LT Standard 2000 (ISO) — 41.73
    10. ĄŽERTY IBM, LT Standard 1992 (ISO) — 41.21
 
+<br>
 
 ### Angliško teksto skaidymas:
 
@@ -212,6 +214,7 @@ __Pastabos:__
    9. ĄŽERTY IBM, LT Standard 1992 (ISO) — 41.78
    10. ĄŽERTY LT Standard 2000 (ISO) — 39.91
 
+<br>
 
 ### Programavimo kalbų teksto skaidymas:
 
@@ -241,6 +244,7 @@ __Pastabos:__
    9. ĄŽERTY IBM, LT Standard 1992 (ISO) — 33.95
    10. ĄŽERTY LT Standard 2000 (ISO) — 33.54
 
+<br>
 
 ### Lotyniško teksto „Lorem Ipsum“ skaidymas:
 
@@ -257,6 +261,7 @@ __Pastabos:__
    9. ĄŽERTY IBM, LT Standard 1992 (ISO) — 46.36
    10. ĄŽERTY LT Standard 2000 (ISO) — 46.24
 
+<br>
 
 __Pastabos:__
 + Vadinamieji išdėstymai _Lithuanian [Baltic/Numeric/Skaičiukinis](https://web.archive.org/web/20210125092522/https://www.registrucentras.lt/litwin/keyboard.html)_ (čia neatsižvelgiama lietuviškų raidžių įvedimo būdą: per „mirusį/tęsties“ mygtuką ar per trečią išdėstymo lygį, pastarasis yra patogesnis), _[Skaičiukinis pagerintas](https://rimas.kudelis.lt/numeric/), [LEKP Baltic+](https://lekp.info/images/baltic+.jpg)_ yra vienas ir tas pats išdėstymas su [mažai reikšmingais patikrai skirtumais](http://patorjk.com/keyboard-layout-analyzer/#/load/BWsjctw1), manasis, čia duotas, ko gero, netgi geresnis patikrai (nes turi papildomą ilgąjį brūkšnį ir lietuviškas kabutes pirmame lygyje).
@@ -265,6 +270,7 @@ __Pastabos:__
 + _Programming Punctuation Torture Test_ paimtas iš [stevep99 puslapio](https://stevep99.github.io/keyboard-layout-analyzer/#/main).
 + Išdėstymuose su tokias pačiais spaudais skirtingose vietose patikros nėra patikimos (ypatingai tekstuose su dažnesniau naudojamais tais ženklais), ko gero, jos paskaičiuojamos prastesnės nei iš tikro būtų.
 
+<br>
 
 -----------------------------------------
 
