@@ -142,7 +142,6 @@ __ĄŽERTY LT Standard 2000 (ISO):__
 
 ![ĄŽERTY LT Standard 2000 (ISO)](images/azerty-lt-standard-iso-spauda-prog.png)
 
-<br>
 
 -----------------------------------------
 
