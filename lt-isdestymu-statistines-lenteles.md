@@ -12,6 +12,7 @@
 
 __Pastabos.__ Patikrai tekste ir išdėstymuose yra suvienodinti ilgieji brūkšniai. Sutrumpinimai: K. — „kairysis, kairiosios“, D. — „dešinysis, dešiniosios“.
 
+<br>
 
 ## Pirštų nueitas atstumas spausdinant duotą tekstą:
 
@@ -47,7 +48,6 @@ __Pastabos.__ Patikrai tekste ir išdėstymuose yra suvienodinti ilgieji brūkš
 | QWERTY Lithuanian (ISO)                |   11,9%  |   5,8%    |   6,0%   |   13,0%  |  14,9% |  12,4%   |   15,9%  |    8,2%   |   11,9%  | 195409 |
 | QWERTY Lithuanian Programmers (ISO)    |   12,8%  |   8,9%    |   6,2%   |   12,1%  |  21,0% |  11,9%   |   15,4%  |    7,3%   |   4,4%   | 210298 |
 | QWERTY Baltic-Numeric Programmers (ISO)|   11,5%  |   5,7%    |   8,2%   |   14,0%  |  21,0% |  11,9%   |   15,1%  |    7,3%   |   5,3%   | 210276 |
-
 
 
 <br>
@@ -133,6 +133,8 @@ __Pastabos.__ Patikrai tekste ir išdėstymuose yra suvienodinti ilgieji brūkš
 
 - Mažesnis skaičius yra geriau.
 - Matavimo vienetas — mygtuko paspaudimo kartas.
+
+<br>
 
 -----------------------------------------
 
