@@ -270,8 +270,8 @@ __Pastabos:__
 + _Programming Punctuation Torture Test_ paimtas iš [stevep99 puslapio](https://stevep99.github.io/keyboard-layout-analyzer/#/main).
 + Išdėstymuose su tokias pačiais spaudais skirtingose vietose patikros nėra patikimos (ypatingai tekstuose su dažnesniau naudojamais tais ženklais), ko gero, jos paskaičiuojamos prastesnės nei iš tikro būtų.
 + Kitokie čia naudotos patikros „Keyboard Layout Analyzer“ variantai: 
-   - [Keyboard Layout Analyzer : KLAnext v0.06](https://klanext.keyboard-design.com/#/main)
-   - [Keyboard Layout Analyzer [SP]](https://stevep99.github.io/keyboard-layout-analyzer/#/main)
+   - [Keyboard Layout Analyzer : KLAnext v0.06](https://klanext.keyboard-design.com/#/main) — [Lietuviškos pasakos (KLAnext)](images/test-klanext-lt-txt.png)
+   - [Keyboard Layout Analyzer [SP]](https://stevep99.github.io/keyboard-layout-analyzer/#/main) — [Lietuviškos pasakos (SP)](test-sp-lt-txt.png)
 
 <br>
 
