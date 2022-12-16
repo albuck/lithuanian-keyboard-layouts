@@ -269,6 +269,9 @@ __Pastabos:__
 + Čia patikroje _ĄŽERTY LT Standard 2000_ naudota įprasta spausdinimo visais pirštais tvarka, ne tokia kokią [siūlo šio išdėstymo sudarytojai](http://www.ims.mii.lt/klav/raida.html), nes siūlomoji pasirodo žymiai prasčiau.
 + _Programming Punctuation Torture Test_ paimtas iš [stevep99 puslapio](https://stevep99.github.io/keyboard-layout-analyzer/#/main).
 + Išdėstymuose su tokias pačiais spaudais skirtingose vietose patikros nėra patikimos (ypatingai tekstuose su dažnesniau naudojamais tais ženklais), ko gero, jos paskaičiuojamos prastesnės nei iš tikro būtų.
++ Kitokie čia naudotos patikros „Keyboard Layout Analyzer“ variantai: 
+   - [Keyboard Layout Analyzer : KLAnext v0.06](https://klanext.keyboard-design.com/#/main)
+   - [Keyboard Layout Analyzer [SP]](https://stevep99.github.io/keyboard-layout-analyzer/#/main)
 
 <br>
 
