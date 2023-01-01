@@ -47,9 +47,14 @@ __A Ą B C D E Ę Ė F G H I Į Y J K L (Ł) M N O P (Q) R S T U Ų Ū V (W) X Z
 
 - Tokio nauraštinio teksto pavyzdys: [Brisiaus Galas, Jonas Biliūnas](brisiaus-galas-nauractiu-m.txt)
 
-_Minimaliai optimizuoto lietuviško raidyno (naujaraščio), kompiuterinės klaviatūros Ratisės galimas išdėstymas:_
+_Galimas Ratisės išdėstymas tokiam nauraščiui:_
 
-![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO paprasčiausias naujaraščiui](images/ueyoqj-ratise-njr-iso.svg)
+![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO naujaraščiui](images/ueyoqj-ratise-njr-iso.svg)
+
+_Galimas QWERFY lietuviškas išdėstymas:_
+
+![Lietuviškas ergonomiškas klaviatūros išdėstymas QWERFY LT ISO naujaraščiui](images/qwerfy-lt-njr-iso.svg)
+
 
 <br>
 
