@@ -39,7 +39,7 @@ __A Ą B C D E Ę Ɛ F G H I Į Y J K L (Ł) M N O P Q R S T U Ų V W X Z__.
 
 __Minimalus raidyno optimizavimas__
 
-Galimi ir kitokie ar tik minimalūs raidyno keitimai, pavyzdžiui, išimant tik „paukščiuotas raides“: _Š_ → _C_, _Ž_ → _X_, _či_ → _ti_, _dži_ → _di_.
+Galimi ir kitokie ar tik minimalūs raidyno keitimai, pavyzdžiui, išimant tik „paukščiuotas“ raides: _Š_ → _C_, _Ž_ → _X_, _či_ → _ti_, _dži_ → _di_.
 
 Minimalaus raidyno keitimo atveju, turėtume 30 raidžių lietuvišką raidyną ir 32 raidžių mygtukus klaviatūroje:
 
