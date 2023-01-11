@@ -53,7 +53,7 @@ _Galimas ŪĖYOQJ Ratisės išdėstymas tokiam nauraščiui:_
 
 ![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO naujaraščiui](images/ueyoqj-ratise-njr-iso.svg)
 
-   - Išdėstyman įtraukti (laisvose vietose, kaip pavyzdys) ir papildomi lietuviški ženklai: „Vyties kryžius“ (arba tūkstančio ženklas ҂) ir „Gediminaičių stulpai“ (kuris lietuviškai, ko gero, turėtų būti vadinamas _Arūnu_, nes tasis ženklas yra puolančio aro senovinė stilizacija).
+   - Išdėstyman įtraukti (laisvose vietose, kaip pavyzdys) ir papildomi lietuviški ženklai: „Vyties kryžius“ (arba senovinis tūkstančio ženklas ҂) ir „Gediminaičių stulpai“ (kuris lietuviškai, ko gero, turėtų būti vadinamas _Arūnu_, nes tasis ženklas yra puolančio aro senovinė stilizacija).
 
 _Galimas QWERFY lietuviškas išdėstymas:_
 
