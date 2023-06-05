@@ -51,13 +51,13 @@ __A Ą B C D E Ę Ė F G H I Į Y J K L (Ł) M N O P (Q) R S T U Ų Ū V (W) X Z
 
 _Galimas ŪĖYOQJ Ratisės išdėstymas tokiam nauraščiui:_
 
-![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO naujaraščiui](images/ueyoqj-ratise-njr-iso.svg)
+![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO naujaraščiui](images/ueyoqj-ratise-njr-iso.png)
 
    - Išdėstyman įtraukti (laisvose vietose, kaip pavyzdys) ir papildomi lietuviški ženklai: „Vyties kryžius“ (arba senovinis tūkstančio ženklas ҂) ir „Gediminaičių stulpai“ (kuris lietuviškai, ko gero, turėtų būti vadinamas _Arūnu_, nes tasis ženklas yra puolančio aro senovinė stilizacija).
 
 _Galimas QWERFY lietuviškas išdėstymas:_
 
-![Lietuviškas ergonomiškas klaviatūros išdėstymas QWERFY LT ISO naujaraščiui](images/qwerfy-lt-njr-iso.svg)
+![Lietuviškas ergonomiškas klaviatūros išdėstymas QWERFY LT ISO naujaraščiui](images/qwerfy-lt-njr-iso.png)
 
    - Lyginant su įprastuoju QWERTY išdėstymu šiame yra sukeisti vietomis <kbd>F</kbd> ir <kbd>T</kbd> mygtukai.
    - Įtrauktos ir „senos“ raidės trečiame-ketvirtame lygyje.
