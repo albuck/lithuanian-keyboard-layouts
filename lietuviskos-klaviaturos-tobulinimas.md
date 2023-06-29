@@ -60,7 +60,6 @@ _Galimas QWERFY lietuviškas išdėstymas:_
 ![Lietuviškas ergonomiškas klaviatūros išdėstymas QWERFY LT ISO naujaraščiui](images/qwerfy-lt-njr-iso.png)
 
    - Lyginant su įprastuoju QWERTY išdėstymu šiame yra sukeisti vietomis <kbd>F</kbd> ir <kbd>T</kbd> mygtukai.
-   - Įtrauktos ir „senos“ raidės trečiame-ketvirtame lygyje.
 
 <br>
 
