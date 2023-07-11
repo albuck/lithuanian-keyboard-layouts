@@ -79,7 +79,7 @@ __Pastabos:__
   + šiek tiek sumažėja raidžių skaičius tame pačiame tekste;
   + pagreitėja rašymas ranka (papildomų ženklelių dėliojimas ant raidžių lėtina rašymą ir skaitymą);
   + rašyme ir teksto atpažinime bus daroma mažiau klaidų (mažiau labai panašių raidžių);
-  + „šveplas“ rašymo būdas išnyksta kaip reiškinys;
+  + „sveplas“ rašymo būdas išnyksta kaip reiškinys;
   + pasidaro nuoseklesnė ir aiškesnė kaitomų žodžių šaknų rašyba;
   + dingsta dešimtmetės kirčiuotų _Ėė_ ir _Ūū_ bėdos;
   + glaustesnės gretimos teksto eilutės nelips viena ant kitos.
