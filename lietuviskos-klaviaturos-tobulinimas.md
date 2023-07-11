@@ -81,7 +81,7 @@ __Pastabos:__
   + rašyme ir teksto atpažinime bus daroma mažiau klaidų (mažiau labai panašių raidžių);
   + „sveplas“ rašymo būdas išnyksta kaip reiškinys;
   + pasidaro nuoseklesnė ir aiškesnė kaitomų žodžių šaknų rašyba;
-  + dingsta dešimtmetės kirčiuotų _Ėė_ ir _Ūū_ bėdos;
+  + dingsta kirčiuotų _Ėė_ ir _Ūū_ atvaizdavimo bėdos;
   + glaustesnės gretimos teksto eilutės nelips viena ant kitos.
 
 -----------------------------------------
