@@ -28,38 +28,13 @@ __Rašybos keitimai:__
 - _č_ nekilęs iš suminkštėjusio _t_ keičiamas į _tc_ ⟨tš⟩ arba tiesiog į _c_ ⟨š⟩ (kas kartais yra žodžio tarimo variantu, pvz.: _gintcas/gincas_ ⟨ginčas/ginšas⟩);
 <br>
 
-__Pilnas raidyno optimizavimas__
+__Raidyno optimizavimas__
 
 Taikant visus keitimus, naujasis lietuviškas raidynas turėtų 31 raidę, bei vieną tarminę (papildomą 32-ąją raidę, kietąją _ł_, dedamą į trečiąjį klaviatūrų išdėstymų lygį), taigi, klaviatūroje būtų 31 raidžių mygtukai:
 
 __A Ą B C D E Ę Ɛ F G H I Į Y J K L (Ł) M N O P Q R S T U Ų V W X Z__.
 
 - Nauraštinio teksto pavyzdys: [Brisiaus Galas, Jonas Biliūnas](brisiaus-galas-nauractiu.txt)
-<br>
-
-__Minimalus raidyno optimizavimas__
-
-Galimi ir kitokie ar tik minimalūs raidyno keitimai, pavyzdžiui, išimant tik „paukščiuotas“ raides: _Š_ → _C_, _Ž_ → _X_, _či_ → _ti_, _dži_ → _di_.
-
-Minimalaus raidyno keitimo atveju, turėtume 30 raidžių lietuvišką raidyną ir 32 raidžių mygtukus klaviatūroje:
-
-__A Ą B C D E Ę Ė F G H I Į Y J K L (Ł) M N O P (Q) R S T U Ų Ū V (W) X Z__.
-
-- Tokio nauraštinio teksto pavyzdys: [Brisiaus Galas, Jonas Biliūnas](brisiaus-galas-nauractiu-m.txt)
-
-<br>
-
-_Galimas ŪĖYOQJ Ratisės išdėstymas tokiam nauraščiui:_
-
-![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO naujaraščiui](images/ueyoqj-ratise-njr-iso.png)
-
-   - Išdėstyman įtraukti (laisvose vietose, kaip pavyzdys) ir papildomi lietuviški ženklai: „Vyties kryžius“ (arba, tiksliau, senovinis tūkstančio ženklas ҂) ir „Gediminaičių stulpai“ (kuris lietuviškai, ko gero, turėtų būti vadinamas _Arūnu_, nes tasis ženklas yra puolančio aro senovinė stilizacija).
-
-_Galimas QWERFY lietuviškas išdėstymas:_
-
-![Lietuviškas ergonomiškas klaviatūros išdėstymas QWERFY LT ISO naujaraščiui](images/qwerfy-lt-njr-iso.png)
-
-   - Lyginant su įprastuoju QWERTY išdėstymu šiame yra sukeisti vietomis <kbd>F</kbd> ir <kbd>T</kbd> mygtukai.
 
 <br>
 
