@@ -28,7 +28,7 @@ __Rašybos keitimai:__
 - _č_ nekilęs iš suminkštėjusio _t_ keičiamas į _tc_ ⟨tš⟩ arba tiesiog į _c_ ⟨š⟩ (kas kartais yra žodžio tarimo variantu, pvz.: _gintcas/gincas_ ⟨ginčas/ginšas⟩);
 <br>
 
-__Raidyno optimizavimas__
+## Nauraščio raidynas
 
 Taikant visus keitimus, naujasis lietuviškas raidynas turėtų 31 raidę, bei vieną tarminę (papildomą 32-ąją raidę, kietąją _ł_, dedamą į trečiąjį klaviatūrų išdėstymų lygį), taigi, klaviatūroje būtų 31 raidžių mygtukai:
 
