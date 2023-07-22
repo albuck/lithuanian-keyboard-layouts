@@ -272,7 +272,7 @@ __Pastabos:__
 + Kitokie čia naudotos patikros „Keyboard Layout Analyzer“ variantai: 
    - [Keyboard Layout Analyzer : KLAnext v0.06](https://klanext.keyboard-design.com/#/main) — [Lietuviškos pasakos (KLAnext)](images/test-klanext-lt-txt.png)
    - [Keyboard Layout Analyzer [SP]](https://stevep99.github.io/keyboard-layout-analyzer/#/main) — [Lietuviškos pasakos (SP)](images/test-sp-lt-txt.png)
-+ Galimų lietuviškų išdėstymų padarytų iš žinomesnių angliškų išdėstymų su lietuviškomis raidėmis trečiame lygyje patikros (_Keyboard Layout Analyzer_, „Lietuviškos pasakos“): [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/QsZ5xqXn), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/0X1JJB1P)
++ Galimų lietuviškų išdėstymų padarytų iš žinomesnių angliškų išdėstymų su lietuviškomis raidėmis trečiame lygyje patikros (_Keyboard Layout Analyzer_ „Lietuviškos pasakos“): [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/QsZ5xqXn), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/0X1JJB1P)
    1. MTGAP-Lt — 53.48
    2. Colemak-Lt — 53.24
    3. Norman-Lt — 50.46
