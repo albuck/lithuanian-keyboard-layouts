@@ -273,12 +273,12 @@ __Pastabos:__
    - [Keyboard Layout Analyzer : KLAnext v0.06](https://klanext.keyboard-design.com/#/main) — [Lietuviškos pasakos (KLAnext)](images/test-klanext-lt-txt.png)
    - [Keyboard Layout Analyzer [SP]](https://stevep99.github.io/keyboard-layout-analyzer/#/main) — [Lietuviškos pasakos (SP)](images/test-sp-lt-txt.png)
 + Galimų lietuviškų išdėstymų padarytų iš žinomesnių angliškų išdėstymų su lietuviškomis raidėmis trečiame lygyje patikros („Lietuviškos pasakos“):
-   - MTGAP-Lt — 53.48
-   - Colemak-Lt — 53.24
-   - Norman-Lt — 50.46
-   - Workman-Lt — 50.13
-   - Dvorak-Lt — 47.37
-   - QWERTY-Lt — 44.89
+   1. MTGAP-Lt — 53.48
+   2. Colemak-Lt — 53.24
+   3. Norman-Lt — 50.46
+   4. Workman-Lt — 50.13
+   5. Dvorak-Lt — 47.37
+   6. QWERTY-Lt — 44.89
       - [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/QsZ5xqXn), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/0X1JJB1P)
 
 <br>
