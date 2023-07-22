@@ -279,8 +279,7 @@ __Pastabos:__
    - Workman-Lt — 50.13
    - Dvorak-Lt — 47.37
    - QWERTY-Lt — 44.89
-      - http://patorjk.com/keyboard-layout-analyzer/#/load/QsZ5xqXn
-      - http://patorjk.com/keyboard-layout-analyzer/#/load/0X1JJB1P
+      - [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/QsZ5xqXn), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/0X1JJB1P)
 
 <br>
 
