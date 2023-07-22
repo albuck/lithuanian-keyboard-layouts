@@ -104,8 +104,9 @@ __Pastabos:__
 + Pasenęs lietuviškos [spausdinimo mišinėlės išdėstymas](images/lt-spausdykle.png) neįtrauktas į palyginimą.
 + Apleistas Ratisės išdėstymo pirmavaizdis [Lietuviška tikrinė klaviatūra](https://albuck.github.io/Ratise-layout/docs/images/sena_tikrine.png) bei jos vėlesnės ar bandomosios atmainos neįtrauktos į palyginimą.
 + Galimi lietuviški išdėstymai, padaryti iš geresnių ergonomiškų angliškų išdėstymų su lietuviškomis raidėmis trečiame lygyje, neįtraukti į palyginimą. Padarytas patikras su tokiais galimais išdėstymais žiūrėkite čia:
-     http://patorjk.com/keyboard-layout-analyzer/#/load/QsZ5xqXn
-     http://patorjk.com/keyboard-layout-analyzer/#/load/0X1JJB1P
+
+     - http://patorjk.com/keyboard-layout-analyzer/#/load/QsZ5xqXn
+     - http://patorjk.com/keyboard-layout-analyzer/#/load/0X1JJB1P
 
 -----------------------------------------
 
