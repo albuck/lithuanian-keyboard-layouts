@@ -22,7 +22,7 @@ __Galimi raidyno keitimai:__
 
 __Rašybos keitimai:__
 
-- suminkštėjusio _t+i(j)_ rašymas dviraidžiu _či_ keičiamas į _ti_ (tai būtų kilminė rašyba, dviraidžio skaitymas esant reikalui galėtų priklausyti nuo tarmės), būnantis žodžio gale minkštasis _č_ rašomas dviraidžiu _tj_, sudėtiniuose žodžiuose _t/tj_, pvz.: _matiau_ ⟨mačiau⟩, _Butkewitius_ ⟨Butkevičius⟩, _akɛtwirbalis/akɛtjwirbalis_ (akėtvirbalis/akėčvirbalis), _ypatj_ ⟨ypač⟩; dar kitaip, būnantis žodžio gale ir sudėtiniuose žodžiuose „perminkštėjęs“ _t_ ⟨č⟩ galėtų būti visai niekaip išskirtinai nežymimas — visur paliekamas jo kilminis variantas su _t_ ir tarimas kaip ⟨č⟩ būtų laikomas tarminiu (koks jis ir yra tenais). 
+- suminkštėjusio _t+i(j)_ rašymas dviraidžiu _či_ keičiamas į _ti_ (tai būtų kilminė rašyba, dviraidžio skaitymas esant reikalui galėtų priklausyti nuo tarmės), būnantis žodžio gale minkštasis _č_ rašomas dviraidžiu _tj_, sudėtiniuose žodžiuose _t/tj_, pvz.: _matiau_ ⟨mačiau⟩, _Butkewitius_ ⟨Butkevičius⟩, _akėtwirbalis/akėtjwirbalis_ (akėtvirbalis/akėčvirbalis), _ypatj_ ⟨ypač⟩; dar kitaip, būnantis žodžio gale ir sudėtiniuose žodžiuose „perminkštėjęs“ _t_ ⟨č⟩ galėtų būti visai niekaip išskirtinai nežymimas — visur paliekamas jo kilminis variantas su _t_ ir tarimas kaip ⟨č⟩ būtų laikomas tarminiu (koks jis ir yra tenais). 
 - suminkštėjusio _d+i(j)_ rašymas triraidžiu _dži_ keičiamas į _di_ (tai būtų kilminė rašyba, esant reikalui skaitymas galėtų priklausyti nuo tarmės), pvz.: _gaudiau_ ⟨gaudžiau⟩;
 - _č_ nekilęs iš suminkštėjusio _t_ keičiamas į _tc_ ⟨tš⟩ arba tiesiog į _c_ ⟨š⟩ (kas kartais yra žodžio tarimo variantu, pvz.: _gintcas/gincas_ ⟨ginčas/ginšas⟩);
 <br>
@@ -73,9 +73,9 @@ __Pastabos:__
 + Raidė _V_ yra kilusi iš _U_ raidės atmainos, ir nors jos skaitymas kaip ⟨ū⟩ yra kiek neįprastas dabartiniais laikais, istoriškai jis nėra nepagrįstas.
 + Suminkštėjusių _D_ ir _T_ kilminis rašymas kaip _di_ ir _ti_ irgi nėra naujas dalykas, taip rašė Vydūnas, iš esmės ⟨dži⟩ ir ⟨či⟩ lietuvių kalboje yra suminkštėjusių ⟨di⟩ ir ⟨ti⟩ tarminio tarimo variantai.
 + _Q_ raidės skaitymas: kai skolintinio žodžio šaltinio kalboje rašomas _q_, raidė (jeigu nekeičiama į _k_) būtų skaitoma kaip ⟨k⟩.
-+ Nesant galimybei ir esant būtinybei užrašyti ypatingąsias lietuviškas balses galima dviraidžiais: _ą_ — _ah_, _ę_ — _eh_, _ɛ(ė)_ — _ee_, _į_ — _ih_, _ų_ — _uh_, pvz.: _kah_ ⟨ką⟩, _buweh_ ⟨buvę⟩, _leelee_ ⟨lėlė⟩, _jih_ ⟨jį⟩, _juh_ ⟨jų⟩.
++ Nesant galimybei ir esant būtinybei užrašyti ypatingąsias lietuviškas balses galima dviraidžiais: _ą_ — _ah_, _ę_ — _eh_, _ė_ — _ee_, _į_ — _ih_, _ų_ — _uh_, pvz.: _kah_ ⟨ką⟩, _buweh_ ⟨buvę⟩, _leelee_ ⟨lėlė⟩, _jih_ ⟨jį⟩, _juh_ ⟨jų⟩.
 + Prieg progai, mažinant raidžių skaičių žodžiuose, galima būtų palyginti vieną kurį lietuviškos gramatikos nelygumą, pavyzdžiui — pakeisti tariamosios nuosakos pirmajį asmenį senoviškesne lytimi (dar vis vartojama tarmėse): _sakytiau ⟨sakyčiau⟩ → sakytau_.
-+ _Ėė_ raidė ergonomikos (patogumo, praktiškumo) požiūriu yra nevykusi: raidė su nuolatiniu tašku viršuje yra prastas spendimas — ar rašant ranka, ar ir spausdinant priegaidę ant viršaus — bereikalingi keblumai ir neaiškumai. Galima būtų keisti ją į kokią kitą be taško (_Ɛ_?).
++ _Ėė_ raidė ergonomikos (patogumo, praktiškumo) požiūriu yra nevykusi: raidė su nuolatiniu tašku viršuje yra prastas spendimas — ar rašant ranka, ar ir spausdinant priegaidę ant viršaus — bereikalingi keblumai ir neaiškumai. Ją galima būtų keisti ją į kokią kitą be taško (_Ɛɛ_?).
 + _V_ į _W_ keitimo trūkumas: dažnoka _W_ tekste nelaibai gražiai atrodo (kitas pasirinkimas būtų: _Ū_ → _W_).
 + Bendrai imant, raidžių dizaino požiūriu: _raidės žyminčios skirtingus kalbos garsus turi atrodyti aiškiai skirtingai_. Tik raidė, kurios skaitymas laikinai pakinta kaitaliojantis žodžiui gali turėti tai žymintį uždėtinį ženklą (pavyzdžiui: kirtį, priegaidę). Taigi, raidės — _Čč, Ėė, Ūū, Šš, Žž_ — nevykusios dizaino ir ergonomikos požiūriu.
 + Kiti tokio rašybos patvarkymo privalumai:
