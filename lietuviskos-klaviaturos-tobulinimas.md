@@ -18,7 +18,6 @@ __Galimi raidyno keitimai:__
 - _Š_ keičiama į _C_;
 - _Ž_ keičiama į _X_;
 - _Č_, _Š_, _Ž_, _Ū_ ir _Ė_ raidės išimamos iš lietuviško raidyno;
-- _Ł_ — pridedama papildoma raidė tarminei rašybai, skirta žymėti tarminį kietąjį _L_ prieš priešakinius balsius, pvz.: _saulałė_.
 
 __Rašybos keitimai:__
 
@@ -29,9 +28,13 @@ __Rašybos keitimai:__
 
 ## Nauraščio raidynas
 
-Taikant visus keitimus, naujasis lietuviškas raidynas turėtų 31 raidę, bei vieną tarminę (papildomą 32-ąją raidę, kietąją _ł_, dedamą į trečiąjį klaviatūrų išdėstymų lygį), taigi, klaviatūroje būtų 31 raidžių mygtukai:
+Minimaliai keičiant raidyną, atsisakant tik „paukščiuotų“ raidžių, turėtume 30 raidžių abėcėlėje ir klaviatūroje 32 raides (su _W_ ir _Q_):
 
-__A Ą B C D E Ę Ė F G H I Į Y J K L (Ł) M N O P Q R S T U Ų V W X Z__.
+__A Ą B C D E Ę Ė F G H I Į Y J K L M N O P R S T U Ų Ū V X Z__.
+
+Taikant visus keitimus, naujasis lietuviškas raidynas turėtų 31 raidę, be jokių papildomų nelietuviškų raidžių klaviatūroje:
+
+__A Ą B C D E Ę Ė F G H I Į Y J K L M N O P Q R S T U Ų V W X Z__.
 
 - Nauraštinio teksto pavyzdys: 
 
