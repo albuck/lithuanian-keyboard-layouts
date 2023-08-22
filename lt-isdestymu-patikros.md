@@ -190,7 +190,7 @@ __Pastabos:__
 
 + Keyboard Layout Analyzer — _“Scientific Papers”_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/cRbvHxS4), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/cLXSd9Hx)
 
-   1. __ŪĖYOQJ Ratise (ISO) — 58.91
+   1. __ŪĖYOQJ Ratise (ISO) — 58.91__
    2. QGRLDČ LEKP (ISO) — 58.47
    3. ĖOŪYHJ Remigijaus (ISO) — 55.20
    4. FZVPUJ (ISO) — 44.82
