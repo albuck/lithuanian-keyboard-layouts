@@ -274,8 +274,8 @@ __Pastabos:__
    - [Keyboard Layout Analyzer [SP]](https://stevep99.github.io/keyboard-layout-analyzer/#/main) — [Lietuviškos pasakos (SP)](images/test-sp-lt-txt.png)
 + Galimų lietuviškų išdėstymų padarytų iš žinomesnių angliškų išdėstymų __su lietuviškomis raidėmis trečiame-ketvirtame lygyje__ patikros (_Keyboard Layout Analyzer_ „Lietuviškos pasakos“): [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/QsZ5xqXn), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/CBLf6R0R), palyginiman įtraukti ir keli lietuviški išdėstymai, jų taškai imti iš [čia](https://albuck.github.io/Ratise-layout/docs/lt-isdestymu-palyginimas.html):
 
-   1. _Ratise (ANSI) — 67.64_
-   2. _LEKPa (ANSI) — 58.12_
+   1. __Ratise (ANSI) — 67.64__
+   2. __LEKPa (ANSI) — 58.12__
    3. MTGAP-Lt — 53.48
    4. Colemak-Lt — 53.24
    5. Halmak-Lt — 51.54
@@ -283,12 +283,12 @@ __Pastabos:__
    7. Workman-Lt — 50.13
    8. qwpr-Lt — 50.12
    9. Engram-Lt — 49.91
-   10. _Lithuanian Standard (2000) (ANSI) — 47.73_
+   10. __Lithuanian Standard (2000) (ANSI) — 47.73__
    11. Dvorak-Lt — 47.37
    12. QWERTY-Lt — 44.89
-   13. _Baltic/Numeric (ANSI) — 43.92_
+   13. __Baltic/Numeric (ANSI) — 43.92__
    14. QFMLWY-Lt — 39.25
-   15. _Lithuanian Standard (2000) (ANSI) (spaudžiojimo tvarka pagal kūrėjų patarimą) — 37.64_
+   15. __Lithuanian Standard (2000) (ANSI) (spaudžiojimo tvarka pagal kūrėjų patarimą) — 37.64__
 
 <br>
 
