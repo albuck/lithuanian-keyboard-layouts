@@ -272,13 +272,18 @@ __Pastabos:__
 + Kitokie čia naudotos patikros „Keyboard Layout Analyzer“ variantai: 
    - [Keyboard Layout Analyzer : KLAnext v0.06](https://klanext.keyboard-design.com/#/main) — [Lietuviškos pasakos (KLAnext)](images/test-klanext-lt-txt.png)
    - [Keyboard Layout Analyzer [SP]](https://stevep99.github.io/keyboard-layout-analyzer/#/main) — [Lietuviškos pasakos (SP)](images/test-sp-lt-txt.png)
-+ Galimų lietuviškų išdėstymų padarytų iš žinomesnių angliškų išdėstymų su lietuviškomis raidėmis trečiame lygyje patikros (_Keyboard Layout Analyzer_ „Lietuviškos pasakos“): [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/QsZ5xqXn), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/0X1JJB1P)
++ Galimų lietuviškų išdėstymų padarytų iš žinomesnių angliškų išdėstymų su lietuviškomis raidėmis trečiame lygyje patikros (_Keyboard Layout Analyzer_ „Lietuviškos pasakos“): [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/QsZ5xqXn), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/CBLf6R0R):
+
    1. MTGAP-Lt — 53.48
    2. Colemak-Lt — 53.24
-   3. Norman-Lt — 50.46
-   4. Workman-Lt — 50.13
-   5. Dvorak-Lt — 47.37
-   6. QWERTY-Lt — 44.89
+   3. Halmak-Lt — 51.54
+   4. Norman-Lt — 50.46
+   5. Workman-Lt — 50.13
+   6. qwpr-Lt — 50.12
+   7. Engram-Lt — 49.91
+   8. Dvorak-Lt — 47.37
+   9. QWERTY-Lt — 44.89
+   10. QFMLWY-Lt — 39.25
 
 <br>
 
