@@ -102,7 +102,7 @@ Išdėstymai rikiuojami pagal [lietuviško teksto patikrose](lt-isdestymu-patikr
    
 __Pastabos:__
 + Pasenęs lietuviškos [spausdinimo mišinėlės išdėstymas](images/lt-spausdykle.png) neįtrauktas į palyginimą.
-+ Apleistas Ratisės išdėstymo pirmavaizdis [Lietuviška tikrinė klaviatūra](https://albuck.github.io/Ratise-layout/docs/images/sena_tikrine.png) bei jos vėlesnės ar bandomosios atmainos neįtrauktos į palyginimą.
++ Apleistas Ratisės išdėstymo pirmavaizdis [sena lietuviška tikrinė klaviatūra](https://albuck.github.io/Ratise-layout/docs/images/sena_tikrine.png) bei jos vėlesnės ir bandomosios atmainos neįtrauktos į palyginimą.
 + Galimi lietuviški išdėstymai, padaryti iš geresnių ergonomiškų angliškų išdėstymų su lietuviškomis raidėmis trečiame lygyje, neįtraukti į palyginimą.
 
 -----------------------------------------
