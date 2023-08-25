@@ -66,7 +66,7 @@ Gal ir suprato Brisius, kodėl tasai xmogus jį uxmucė; tik nebegalėjo suprast
 ```
 <br>
 
-Ir su __či__ bei __dži__ keičiant į __tj__ ir __dj__:
+Ir __či__ bei __dži__ keičiant į __tj__ ir __dj__:
 
 ```
 ̱Jonas Biliūnas
