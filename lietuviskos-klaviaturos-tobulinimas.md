@@ -21,8 +21,8 @@ __Galimi raidyno keitimai:__
 
 __Rašybos keitimai:__
 
-- suminkštėjusio _t+i(j)_ rašymas dviraidžiu _či_ keičiamas į _ti_ (tai būtų kilminė rašyba, dviraidžio skaitymas esant reikalui galėtų priklausyti nuo tarmės), būnantis žodžio gale minkštasis _č_ rašomas dviraidžiu _tj_, sudėtiniuose žodžiuose _t/tj_, pvz.: _matiau_ ⟨mačiau⟩, _Butkewitius_ ⟨Butkevičius⟩, _akėtwirbalis/akėtjwirbalis_ (akėtvirbalis/akėčvirbalis), _ypatj_ ⟨ypač⟩; dar kitaip, būnantis žodžio gale ir sudėtiniuose žodžiuose „perminkštėjęs“ _t_ ⟨č⟩ galėtų būti visai niekaip išskirtinai nežymimas — visur paliekamas jo kilminis variantas su _t_ ir tarimas kaip ⟨č⟩ būtų laikomas tarminiu (koks jis ir yra tenais). 
-- suminkštėjusio _d+i(j)_ rašymas triraidžiu _dži_ keičiamas į _di_ (tai būtų kilminė rašyba, esant reikalui skaitymas galėtų priklausyti nuo tarmės), pvz.: _gaudiau_ ⟨gaudžiau⟩;
+- suminkštėjusio _t+i(j)_ rašymas dviraidžiu _či_ keičiamas į _ti_ (arba _tj_, tai būtų kilminė rašyba, dviraidžio skaitymas esant reikalui galėtų priklausyti nuo tarmės), būnantis žodžio gale minkštasis _č_ rašomas dviraidžiu _tj_, sudėtiniuose žodžiuose _t/tj_, pvz.: _matiau_ ⟨mačiau⟩, _Butkewitius_ ⟨Butkevičius⟩, _akėtwirbalis/akėtjwirbalis_ (akėtvirbalis/akėčvirbalis), _ypatj_ ⟨ypač⟩; dar kitaip, būnantis žodžio gale ir sudėtiniuose žodžiuose „perminkštėjęs“ _t_ ⟨č⟩ galėtų būti visai niekaip išskirtinai nežymimas — visur paliekamas jo kilminis variantas su _t_ ir tarimas kaip ⟨č⟩ būtų laikomas tarminiu (koks jis ir yra tenais). 
+- suminkštėjusio _d+i(j)_ rašymas triraidžiu _dži_ keičiamas į _di_ (arba _dj_, tai būtų kilminė rašyba, esant reikalui skaitymas galėtų priklausyti nuo tarmės), pvz.: _gaudiau_ ⟨gaudžiau⟩;
 - _č_ nekilęs iš suminkštėjusio _t_ keičiamas į _tc_ ⟨tš⟩ arba tiesiog į _c_ ⟨š⟩ (kas kartais yra žodžio tarimo variantu, pvz.: _gintcas/gincas_ ⟨ginčas/ginšas⟩);
 <br>
 
