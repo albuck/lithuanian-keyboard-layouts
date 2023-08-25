@@ -32,7 +32,9 @@ Minimaliai keičiant raidyną, atsisakant tik „paukščiuotų“ raidžių, tu
 
 __A Ą B C D E Ę Ė F G H I Į Y J K L M N O P R S T U Ų Ū V X Z__.
 
-- Nauraštinio teksto pavyzdys: 
+- Nauraštinio teksto pavyzdys:
+
+Su __či__ bei __dži__ keičiant į __ti__ ir __di__:
 
 ```
 ̱Jonas Biliūnas
