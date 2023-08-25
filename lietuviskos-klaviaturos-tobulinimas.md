@@ -64,6 +64,7 @@ ir per jo snukį rieda gailios kartios acaros.
 Staiga ugnis ir baisus trenksmas — ir jisai griūva, sopulio pervertas. Pramerkęs akis, tik spėja pamatyti, kaip nuo jo tekinom bėga xmogus, turėdamas rankoj caudyklę...
 Gal ir suprato Brisius, kodėl tasai xmogus jį uxmucė; tik nebegalėjo suprasti, kodėl tekinom nuo jo pabėgo: juk jisai mirdamas tik kojas norėjo jam paskutinį kartą palaixyti...
 ```
+<br>
 
 Taikant visus keitimus, naujasis lietuviškas raidynas turėtų 31 raidę, be jokių papildomų nelietuviškų raidžių klaviatūroje:
 
