@@ -66,6 +66,41 @@ Gal ir suprato Brisius, kodėl tasai xmogus jį uxmucė; tik nebegalėjo suprast
 ```
 <br>
 
+Ir su __či__ bei __dži__ keičiant į __tj__ ir __dj__:
+
+```
+̱Jonas Biliūnas
+Brisiaus galas
+
+Caly diendarxio durų, ant didjulės spalių krūvos, guli senas Brisius — xilas, apxabalęs. Matyti jisai dar mato, bet tik kaip per dūmus, ir savo xmogaus labai daxnai nebepaxįsta. Sunki senatvė ir jam: visų uxmirctas, apleistas. Patsai gerai jautja, kad maxai kam bereikalingas. Bet kiek galėdamas rūpinas dar būti naudingas. Nors nebeprigirdi, o sunkios blakstienos amxinai merkia jo traickanotas akis, tatjau vaiko nuo savęs snaudulį ir klausos. Beklausydamas apsnūsta... Ir girdi per miegą: clama netoli, tartum eina kas svetimas... Sunkiai kelias Brisius ic guolio ir loja uxkimusiu mieguistu balsu.
+— A tu, xabali, ar nenustosi!.. Savo xmogaus nemato, — girdi jisai paxįstamą balsą.
+Susigėdęs ciepia bedantį snukį, inkctja gailiai, tartum atsipracydamas, ir, paspaudęs uodegą, vėl susirietia guoly...
+Jau nebe kartą Brisių pajautos apgauna, jam gėdą padaro. Daxnai troboj, viduasly gulėdamas, sapnuoja jisai vagį ar vilką, kuriuos, jaunas būdamas, kadai vijo, ir jam pradeda regėti, kad tie priecininkai vėl dabar tyko: kelia jisai tada savo seną galvą nuo kojų ir, tartum ko icsigandęs, netikėtai... suloja: am! am!
+Ir netikėtai, vagies vietoj, girdi tik ic visų pusių ickalbinėjimo balsus:
+— A tai xilis! Visai ickvaico.
+Nexinodamas, kur dėtis ic gėdos, kelias jisai ic viduaslio ir, paspaudęs uodegą, lenda pasuolin.
+— Kur velkies? Eik oran! — caukia ant jo.
+Ir Brisius nuliūdęs dūlina pro duris.
+Dabar jisai bijo trobon beeiti. Vertjau jau ant spalių gulėti: vis maxiau kitiems po kojom maicytis. Tiesa, troboj labai gera, pastalėj gulėti cilta. Bet kaulų grauxti vis tiek jau nebegali, o nuo musių ir tenai sunku senam apsiginti. Ir tjonai, jo senatvės pasigailėję, atneca jam kartais kruopų geldelėj palakti, o ne — tai icalkęs eina pacalėmis tokio maisto ieckotų, į kurį seniau ir xiūrėti nexiūrėjo. Taip ir skursta senatvėj...
+O juk buvo jaunas ir jisai, stiprus ir visų branginamas. Tada apsiginti nuo xmonių negalėjo. Su juo vaikai xaidė, jį ratjukuos įsikinkę vaxinėjo: nepyko ant jų Brisius, kad ir kartais visai be reikalo jam skaudjai suduodavo — xinojo, kad maxas ir silpnas ir maxa dar teicmano. Jį troboj kiekvienas į save caukė ir duona penėjo, medjotų su savim vedės. Ustovas ir varckės jam negailėjo, bet tik nuo jo namo nelėktų, galvijus saugotų. O kiek dar, jau senas būdamas, juokų piemenims pridarydavo! Uxmes jie, būdavo, ant Brisiaus galvos tcerkasėlį ir turi, o vienam pasislėpti liepia; paskui paleidja Brisių ieckotų. Ir visados surasdavo, nors tasai ux pusvarstjo eglės vircūnėj būtų pasislėpęs. Susekdavo jo pėdsakus, apuostydavo medį, pakėlęs aukctyn snukį, imdavo loti. Neidavo, kolei tasai nulips. Pamatęs nulipantį, nesitverdavo ic djaugsmo, cokinėdavo inkcdamas aplinkui ir, sugrįxęs į piemenis, ickicęs liexuvį, xiūrėdavo tai į juos, tai į krepcelius: xinojo, kad ic tenai būtinai gaus mėsos kruopelę ar duonos plutelę. Tatjau ir piemenys jį uxmirco...
+Guli senas Brisius ant spalių ir sapnuoja. Mato jisai per miegą antis, kurias jo ceimininkas caudo, o jisai ic vandens neca. Ir tiek tų antjų daug, tokios jos riebios! Primerkia Brisius akis ir saldjai xiovauja, jas atsimindamas. Bet kaipgi jisai stebis, ic tiesų priecais save ceimininką su caudykle ux petjų pamatęs. Savo akimi nenori tikėti: turbūt, ir jį sapnuoja... Bet aickiai girdi, kaip tasai caukia:
+— Sa, Brisiau, sa!
+Tai, turbūt, ic jo, seno, juokias? Kam?
+— Sa, Brisiau, sa! — vadina ceimininkas.
+Brisius ciepia snukį, tartum norėdamas cyptelėti, bet tik kaxin kaip gailiai inkctja...
+— Sa, Brisiau, sa!..
+Jisai nenorom atsikelia nuo spalių ir seka paskui, ne taip, kaip pirma — jaunas ir linksmas, bet paspaudęs uodegą ir nuliūdęs kaip koksai kaltininkas.
+Ceimininkas eina ux klojimo laukan ir atsigręxdamas caukia:
+— Sa, Brisiau, sa!..
+Pamickėj sustoja. Brisius inkctja bailiai ir xiūri į xmogų tartum klausdamas, kam tjonai jį atvedė. Mato, kaip tasai nusiima nuo petjų caudyklę, atsitolina nuo jo kelis xingsnius ir pradeda į jį taikyti...
+Negali būti? Brisius netiki. Tai tik pasijuokti ic jo nori. Bet kam taip baisiai ic seno juoktis? Kam? Juk jisai nekaltas... Brisius nori pasigerinti, suvizginti uodegą, bet ic baimės tupiasi ant paskutinių kojų,
+ir per jo snukį rieda gailios kartjos acaros.
+Staiga ugnis ir baisus trenksmas — ir jisai griūva, sopulio pervertas. Pramerkęs akis, tik spėja pamatyti, kaip nuo jo tekinom bėga xmogus, turėdamas rankoj caudyklę...
+Gal ir suprato Brisius, kodėl tasai xmogus jį uxmucė; tik nebegalėjo suprasti, kodėl tekinom nuo jo pabėgo: juk jisai mirdamas tik kojas norėjo jam paskutinį kartą palaixyti...
+```
+
+<br>
+
 Taikant visus keitimus, naujasis lietuviškas raidynas turėtų 31 raidę, be jokių papildomų nelietuviškų raidžių klaviatūroje:
 
 __A Ą B C D E Ę Ė F G H I Į Y J K L M N O P Q R S T U Ų V W X Z__.
