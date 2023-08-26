@@ -231,9 +231,9 @@ __Pastabos:__
    9. QWERTY Lithuanian Programmers (ISO) — 17.80
    10. QWERTY Baltic-Numeric Programmers (ISO) — 17.80
 
-+ Keyboard Layout Analyzer — _‘Bash, C, CPP, HTML, JavaScript, Python’_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/3XvH0gml), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/NQJQCVs9)
++ Keyboard Layout Analyzer — _‘Bash, C, CPP, HTML, JavaScript, Python’_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/lnVXg6sV), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/NQJQCVs9)
 
-   1. __ŪĖYOQJ Ratise (ISO) — 45.54__
+   1. __ŪĖYOQJ Ratise (ISO) — 46.04__
    2. ĖOŪYHJ Remigijaus (ISO) — 43.49
    3. QGRLDČ LEKP (ISO) — 40.92
    4. QWERTY Lithuanian (ISO) — 36.50
