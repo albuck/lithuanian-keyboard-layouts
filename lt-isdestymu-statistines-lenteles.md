@@ -8,7 +8,7 @@
   - Ženklų (su tarpais): 189920
   - Ženklų (be tarpų): 159873
 
-+ Duomenų šaltinis: _Keyboard Layout Analyzer_ „Lietuviškos pasakos (iš Basanavičiaus rinkinio)“: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/DLqKXSHF), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/Qqs29kvs)
++ Duomenų šaltinis: _Keyboard Layout Analyzer_ „Lietuviškos pasakos (iš Basanavičiaus rinkinio)“: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/STk23sfB), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/Qqs29kvs)
 
 __Pastabos.__ Patikrai tekste ir išdėstymuose yra suvienodinti ilgieji brūkšniai. Sutrumpinimai: K. — „kairysis, kairiosios“, D. — „dešinysis, dešiniosios“.
 
