@@ -31,8 +31,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.0882206"
-     inkscape:cx="958.44539"
-     inkscape:cy="296.35536"
+     inkscape:cx="252.24665"
+     inkscape:cy="297.27428"
      inkscape:window-width="1482"
      inkscape:window-height="1088"
      inkscape:window-x="303"
@@ -153,9 +153,7 @@
    id="tspan50">Enter</tspan> ║</tspan><tspan
          x="55.437927"
          y="139.1571"
-         id="tspan56">║        ║   ‘ ║   [ ║   ] ║   “ ║  <tspan
-   fill="#ff00ff"
-   id="tspan54"> ́ </tspan> ║   € ║   4 ║   5 ║   6 ║   × ║   ¢ ║   / ║        ║</tspan><tspan
+         id="tspan56">║        ║   ‘ ║   [ ║   ] ║   “ ║   ́  ║   € ║   4 ║   5 ║   6 ║   × ║   ¢ ║   / ║        ║</tspan><tspan
          x="55.437927"
          y="149.14777"
          id="tspan58">╠════════╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╗      ║</tspan><tspan
@@ -278,13 +276,7 @@
    id="tspan122">Shift</tspan> ║</tspan><tspan
          x="55.437927"
          y="199.10112"
-         id="tspan132">║       ║ -<tspan
-   fill="#ff00ff"
-   id="tspan126"> ̇ </tspan> ║   ‚ ║   { ║   } ║   „ ║  <tspan
-   fill="#ff00ff"
-   id="tspan128"> ̀ </tspan><tspan
-   fill="#338000"
-   id="tspan130"> </tspan>║   √ ║   0 ║   . ║   , ║   + ║               ║</tspan><tspan
+         id="tspan132">║       ║ - ̇  ║   ‚ ║   { ║   } ║   „ ║   ̀  ║   √ ║   0 ║   . ║   , ║   + ║               ║</tspan><tspan
          x="55.437927"
          y="209.0918"
          id="tspan134">╠═══════╩═╦═══╩═╦═══╩═╦═══╩═══╦═╩═════╩═════╩═════╩═════╩════╦╩═════╩╦════╩╦═════╦════════╣</tspan><tspan
