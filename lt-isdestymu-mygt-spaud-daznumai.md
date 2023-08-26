@@ -8,7 +8,7 @@ Ryškesnė spalva rodo didesnį mygtuko naudojimo dažnumą.
 
 ## Lietuviškas tekstas:
 
-Šaltinis — _Keyboard Layout Analyzer_ — Lietuviškos pasakos (iš Basanavičiaus rinkinio): [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/DLqKXSHF), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/Qqs29kvs)
+Šaltinis — _Keyboard Layout Analyzer_ — Lietuviškos pasakos (iš Basanavičiaus rinkinio): [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/STk23sfB), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/Qqs29kvs)
 
 __ŪĖYOQJ Ratise (ISO):__
 
@@ -54,7 +54,7 @@ __QWERTY Baltic-Numeric Programmers (ISO):__
 
 ## Angliškas tekstas:
 
-Šaltinis — _Keyboard Layout Analyzer_ — Alice in Wonderland, Chapter 1: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/FJzXXpSR), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/MM6QwmSV)
+Šaltinis — _Keyboard Layout Analyzer_ — Alice in Wonderland, Chapter 1: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/8cXCDNrm), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/MM6QwmSV)
 
 __ŪĖYOQJ Ratise (ISO):__
 
@@ -100,7 +100,7 @@ __ĄŽERTY LT Standard 2000 (ISO):__
 
 ## Programavimo kalbų tekstas:
 
-Šaltinis — _Keyboard Layout Analyzer_ — ‘Bash, C, CPP, HTML, JavaScript, Python’: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/3XvH0gml), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/NQJQCVs9)
+Šaltinis — _Keyboard Layout Analyzer_ — ‘Bash, C, CPP, HTML, JavaScript, Python’: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/Qz6cKHCn), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/NQJQCVs9)
 
 __ŪĖYOQJ Ratise (ISO):__
 
