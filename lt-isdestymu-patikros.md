@@ -3,13 +3,7 @@
 
 Čia klaviatūros išdėstymų vertinimui naudotasi puikiu žiniatinklio ištekliu: [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main), kur išdėstymo našumas-patogumas matuojamas taškais. Skaičiuojant taškus atsižvelgiama į pirštų nueinamą atstumą (33%), kaip dažnai tam pačiam pirštui tenka iš eilės spaudinėti (33%), bei kaip dažnai spausdinant kaitaliojami pirštai (17%) ir rankos (17%).
 
-__Pastabos:__
-+ Patikroje penktas viršutinis mygtukas (QWERTY skaičių eilėje ```4```) yra priskirtas kairiosios rankos didžiajam pirštui, septintas viršutinis mygtukas (QWERTY skaičių eilėje ```6```) priskirtas kairiajam smiliui ir vienuoliktas (QWERTY ```0```) dešiniajam bevardžiui, klaviatūrose su skersuotais mygtukais taip patogiau; taip pat perskirtose klaviatūrose tas septintas mygtukas paprastai būna kairėje pusėje. Perpaskyrus, kaip įprastai turėtų būti, patikros taškai gali nežymiai skirtis.
-+ Išdėstymuose patikroje yra suvienodinti ilgieji brūkšniai.
-+ Senesni išdėstymai papildyti ilguoju brūkšniu ir lietuviškomis kabutėmis (žali).
-+ Šičia naudojamas _ĄŽERTY IBM Standard 1992_ yra iš esmės paimtas toks koks naudojamas XKB (Linux), kur jis yra kiek atnaujintas.
-
-+ __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „išdėstymo įvertinimo taškai“
+__Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „išdėstymo įvertinimo taškai“
 
 <br>
 
@@ -264,9 +258,14 @@ __Pastabos:__
 <br>
 
 __Pastabos:__
++ Patikroje penktas viršutinis mygtukas (QWERTY skaičių eilėje ```4```) yra priskirtas kairiosios rankos didžiajam pirštui, septintas viršutinis mygtukas (QWERTY skaičių eilėje ```6```) priskirtas kairiajam smiliui ir vienuoliktas (QWERTY ```0```) dešiniajam bevardžiui, klaviatūrose su skersuotais mygtukais taip patogiau; taip pat perskirtose klaviatūrose tas septintas mygtukas paprastai būna kairėje pusėje. Perpaskyrus, kaip įprastai turėtų būti, patikros taškai gali nežymiai skirtis.
++ Išdėstymuose patikroje yra suvienodinti ilgieji brūkšniai.
++ Senesni išdėstymai papildyti ilguoju brūkšniu ir lietuviškomis kabutėmis (žali).
++ Šičia naudojamas _ĄŽERTY IBM Standard 1992_ yra iš esmės paimtas toks koks naudojamas XKB (Linux), kur jis yra kiek atnaujintas.
++ _Lithuanian Standard_ arba _Lietuviška standartinė klaviatūra_ turi du valstybinius standartus (LST 1582:2000 ir LST 1582:2012), senu įpratimu rašau _LT Standard 2000_, abiejų standartų išdėstymai nesiskiria vienas nuo kito.
++ _AŽERTY Lithuanian (Standard 2000)_ patikroje naudota įprasta mygtukų spaudeliojimo tvarka, ne tokia, [kokia siūloma išdėstymo kūrėjų](http://www.ims.mii.lt/klav/raida.html) — siūlomoji tvarka pasirodo prasčiau.
 + Kai išdėstyme kokie nors spaudos ženklai yra dviejose vietose, patikrų algoritmas ne visada pasirenka patogiausią skaičiuodamas.
 + Vadinamieji išdėstymai _Lithuanian [Baltic/Numeric/Skaičiukinis](https://web.archive.org/web/20210125092522/https://www.registrucentras.lt/litwin/keyboard.html)_ (čia neatsižvelgiama lietuviškų raidžių įvedimo būdą: per „mirusį/tęsties“ mygtuką ar per trečią išdėstymo lygį, pastarasis yra patogesnis), _[Skaičiukinis pagerintas](https://rimas.kudelis.lt/numeric/), [LEKP Baltic+](https://lekp.info/images/baltic+.jpg)_ yra vienas ir tas pats išdėstymas su [mažai reikšmingais patikrai skirtumais](http://patorjk.com/keyboard-layout-analyzer/#/load/BWsjctw1), manasis, čia duotas, ko gero, netgi geresnis patikrai (nes turi papildomą ilgąjį brūkšnį ir lietuviškas kabutes pirmame lygyje).
-+ _Lithuanian Standard_ arba _Lietuviška standartinė klaviatūra_ turi du valstybinius standartus (LST 1582:2000 ir LST 1582:2012), senu įpratimu rašau _LT Standard 2000_, abiejų standartų išdėstymai nesiskiria vienas nuo kito.
 + Čia patikroje _ĄŽERTY LT Standard 2000_ naudota įprasta spausdinimo visais pirštais tvarka, ne tokia kokią [siūlo šio išdėstymo sudarytojai](http://www.ims.mii.lt/klav/raida.html), nes siūlomoji pasirodo žymiai prasčiau.
 + _Programming Punctuation Torture Test_ paimtas iš [stevep99 puslapio](https://stevep99.github.io/keyboard-layout-analyzer/#/main).
 + Išdėstymuose su tokias pačiais spaudais skirtingose vietose patikros nėra patikimos (ypatingai tekstuose su dažnesniau naudojamais tais ženklais), ko gero, jos paskaičiuojamos prastesnės nei iš tikro būtų.
