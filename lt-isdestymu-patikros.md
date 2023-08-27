@@ -14,7 +14,7 @@ __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „i�
    1. __ŪĖYOQJ Ratise (ISO) — 76.16__
    2. ĖOŪYHJ Remigijaus (ISO) — 73.40
    3. QGRLDČ LEKP (ISO) — 69.00
-   4. ĄŽERTY LT Standard 2000 (ISO) — 58.80
+   4. ĄŽERTY LT Standard 2000 (ISO) — 58.80*
    5. ĄŽERTY IBM, LT Standard 1992 (ISO) — 58.56
    6. QWERTY Lithuanian (ISO) — 58.37
    7. FZVPUJ (ISO) — 57.95
@@ -27,7 +27,7 @@ __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „i�
    1. __ŪĖYOQJ Ratise (ISO) — 71.55__
    2. ĖOŪYHJ Remigijaus (ISO) — 66.98
    3. QGRLDČ LEKP (ISO) — 62.67
-   4. ĄŽERTY LT Standard 2000 (ISO) — 50.21
+   4. ĄŽERTY LT Standard 2000 (ISO) — 50.21*
    5. ĄŽERTY IBM, LT Standard 1992 (ISO) — 50.04
    6. QWERTY Lithuanian (ISO) — 49.98
    7. QWERTY Baltic-Numeric (ISO) — 49.53
@@ -40,7 +40,7 @@ __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „i�
    1. __ŪĖYOQJ Ratise (ISO) — 69.24__
    2. ĖOŪYHJ Remigijaus (ISO) — 64.31
    3. QGRLDČ LEKP (ISO) — 59.74
-   4. ĄŽERTY LT Standard 2000 (ISO) — 49.11
+   4. ĄŽERTY LT Standard 2000 (ISO) — 49.11*
    5. ĄŽERTY IBM, LT Standard 1992 (ISO) — 48.47
    6. QWERTY Lithuanian (ISO) — 47.77
    7. QWERTY Baltic-Numeric (ISO) — 47.61
@@ -53,7 +53,7 @@ __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „i�
    1. __ŪĖYOQJ Ratise (ISO) — 68.20__
    2. ĖOŪYHJ Remigijaus (ISO) — 63.09
    3. QGRLDČ LEKP (ISO) — 59.20
-   4. ĄŽERTY LT Standard 2000 (ISO) — 48.01
+   4. ĄŽERTY LT Standard 2000 (ISO) — 48.01*
    5. ĄŽERTY IBM, LT Standard 1992 (ISO) — 47.55
    6. QWERTY Baltic-Numeric (ISO) — 47.49
    7. QWERTY Lithuanian (ISO) — 46.92
@@ -66,7 +66,7 @@ __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „i�
    1. __ŪĖYOQJ Ratise (ISO) — 67.72__
    2. ĖOŪYHJ Remigijaus (ISO) — 63.30
    3. QGRLDČ LEKP (ISO) — 60.14
-   4. ĄŽERTY LT Standard 2000 (ISO) — 48.35
+   4. ĄŽERTY LT Standard 2000 (ISO) — 48.35*
    5. ĄŽERTY IBM, LT Standard 1992 (ISO) — 47.88
    6. QWERTY Lithuanian (ISO) — 47.82
    7. QWERTY Baltic-Numeric (ISO) — 46.98
@@ -79,7 +79,7 @@ __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „i�
    1. __ŪĖYOQJ Ratise (ISO) — 67.42__
    2. ĖOŪYHJ Remigijaus (ISO) — 63.14
    3. QGRLDČ LEKP (ISO) — 57.94
-   4. ĄŽERTY LT Standard 2000 (ISO) — 47.29
+   4. ĄŽERTY LT Standard 2000 (ISO) — 47.29*
    5. ĄŽERTY IBM, LT Standard 1992 (ISO) — 46.82
    6. QWERTY Baltic-Numeric (ISO) — 46.40
    7. QWERTY Lithuanian (ISO) — 45.61
@@ -97,7 +97,7 @@ __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „i�
    6. QWERTY Baltic-Numeric (ISO) — 45.74
    7. QWERTY Lithuanian Programmers (ISO) — 45.69
    8. ĄŽERTY IBM, LT Standard 1992 (ISO) — 45.43
-   9. ĄŽERTY LT Standard 2000 (ISO) — 45.20
+   9. ĄŽERTY LT Standard 2000 (ISO) — 45.20*
    10. QWERTY Baltic-Numeric Programmers (ISO) — 44.45
 
 + Keyboard Layout Analyzer — _Lietuvos Respublikos Konstitucija_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/r2k81R5n), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/CknCBzsg)
@@ -107,7 +107,7 @@ __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „i�
    3. QGRLDČ LEKP (ISO) — 57.38
    4. FZVPUJ (ISO) — 45.51
    5. QWERTY Lithuanian (ISO) — 43.49
-   6. ĄŽERTY LT Standard 2000 (ISO) — 42.85
+   6. ĄŽERTY LT Standard 2000 (ISO) — 42.85*
    7. ĄŽERTY IBM, LT Standard 1992 (ISO) — 42.64
    8. QWERTY Lithuanian Programmers (ISO) — 42.60
    9. QWERTY Baltic-Numeric (ISO) — 42.03
@@ -123,7 +123,7 @@ __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „i�
    6. QWERTY Lithuanian Programmers (ISO) — 43.07
    7. ĄŽERTY IBM, LT Standard 1992 (ISO) — 42.50
    8. QWERTY Baltic-Numeric (ISO) — 41.85
-   9. ĄŽERTY LT Standard 2000 (ISO) — 41.72
+   9. ĄŽERTY LT Standard 2000 (ISO) — 41.72*
    10. QWERTY Baltic-Numeric Programmers (ISO) — 41.58
 
 + Keyboard Layout Analyzer: _Vikipedijos straipsnis „Lietuva“_ (pataisyti ilgieji brūkšniai): [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/rW00bJTx), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/kZm2N4w9)
@@ -136,7 +136,7 @@ __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „i�
    6. QWERTY Lithuanian Programmers (ISO) — 43.15
    7. QWERTY Baltic-Numeric (ISO) — 42.22
    8. QWERTY Baltic-Numeric Programmers (ISO) — 41.83
-   9. ĄŽERTY LT Standard 2000 (ISO) — 41.73
+   9. ĄŽERTY LT Standard 2000 (ISO) — 41.73*
    10. ĄŽERTY IBM, LT Standard 1992 (ISO) — 41.21
 
 <br>
@@ -154,7 +154,7 @@ __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „i�
    7. QWERTY Baltic-Numeric Programmers (ISO) — 49.04
    8. QWERTY Lithuanian (ISO) — 48.81
    9. ĄŽERTY IBM, LT Standard 1992 (ISO) — 47.67
-   10. ĄŽERTY LT Standard 2000 (ISO) — 46.72
+   10. ĄŽERTY LT Standard 2000 (ISO) — 46.72*
 
 + Keyboard Layout Analyzer — _Wikipedia “Physics”_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/QcmK95LB), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/L5xZ6Vrf)
 
@@ -167,7 +167,7 @@ __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „i�
    7. QWERTY Lithuanian (ISO) — 47.53
    8. QWERTY Baltic-Numeric (ISO) — 47.49
    9. ĄŽERTY IBM, LT Standard 1992 (ISO) — 44.95
-   10. ĄŽERTY LT Standard 2000 (ISO) — 42.77
+   10. ĄŽERTY LT Standard 2000 (ISO) — 42.77*
 
 + Keyboard Layout Analyzer — _Alice in Wonderland, Chapter 1_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/8cXCDNrm), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/MM6QwmSV)
 
@@ -180,7 +180,7 @@ __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „i�
    7. QWERTY Lithuanian (ISO) — 52.02
    8. FZVPUJ (ISO) — 50.79
    9. ĄŽERTY IBM, LT Standard 1992 (ISO) — 48.95
-   10. ĄŽERTY LT Standard 2000 (ISO) — 47.12
+   10. ĄŽERTY LT Standard 2000 (ISO) — 47.12*
 
 + Keyboard Layout Analyzer — _“Scientific Papers”_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/NHCnhWkH), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/cLXSd9Hx)
 
@@ -193,7 +193,7 @@ __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „i�
    7. QWERTY Lithuanian (ISO) — 44.38
    8. QWERTY Baltic-Numeric (ISO) — 43.43
    9. ĄŽERTY IBM, LT Standard 1992 (ISO) — 40.97
-   10. ĄŽERTY LT Standard 2000 (ISO) — 39.17
+   10. ĄŽERTY LT Standard 2000 (ISO) — 39.17*
 
 + Keyboard Layout Analyzer — _Quentin Tarantino “Pulp Fiction”_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/9qNBtjBD), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/L7lJ2TBB)
 
@@ -206,7 +206,7 @@ __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „i�
    7. QWERTY Lithuanian (ISO) — 43.21
    8. FZVPUJ (ISO) — 43.18
    9. ĄŽERTY IBM, LT Standard 1992 (ISO) — 41.78
-   10. ĄŽERTY LT Standard 2000 (ISO) — 39.91
+   10. ĄŽERTY LT Standard 2000 (ISO) — 39.91*
 
 <br>
 
@@ -217,7 +217,7 @@ __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „i�
    1. __ŪĖYOQJ Ratise (ISO) — 47.32__
    2. ĖOŪYHJ Remigijaus (ISO) — 42.78
    3. FZVPUJ (ISO) — 41.52
-   4. ĄŽERTY LT Standard 2000 (ISO) — 35.75
+   4. ĄŽERTY LT Standard 2000 (ISO) — 35.75*
    5. ĄŽERTY IBM, LT Standard 1992 (ISO) — 33.71
    6. QWERTY Lithuanian (ISO) — 33.24
    7. QGRLDČ LEKP (ISO) — 24.49
@@ -236,7 +236,7 @@ __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „i�
    7. FZVPUJ (ISO) — 34.60
    8. QWERTY Baltic-Numeric (ISO) — 34.18
    9. ĄŽERTY IBM, LT Standard 1992 (ISO) — 33.95
-   10. ĄŽERTY LT Standard 2000 (ISO) — 33.54
+   10. ĄŽERTY LT Standard 2000 (ISO) — 33.54*
 
 <br>
 
@@ -253,7 +253,7 @@ __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „i�
    7. QWERTY Baltic-Numeric Programmers (ISO) — 48.84
    8. QWERTY Baltic-Numeric (ISO) — 48.67
    9. ĄŽERTY IBM, LT Standard 1992 (ISO) — 46.36
-   10. ĄŽERTY LT Standard 2000 (ISO) — 46.24
+   10. ĄŽERTY LT Standard 2000 (ISO) — 46.24*
 
 <br>
 
@@ -283,7 +283,7 @@ __Pastabos:__
    7. Workman-Lt — 50.13
    8. qwpr-Lt — 50.12
    9. Engram-Lt — 49.91
-   10. __Lithuanian Standard (2000) (ANSI) — 47.73__
+   10. __Lithuanian Standard (2000) (ANSI) — 47.73*__
    11. Dvorak-Lt — 47.37
    12. QWERTY-Lt — 44.89
    13. __Baltic/Numeric (ANSI) — 43.92__
