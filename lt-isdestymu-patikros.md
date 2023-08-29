@@ -22,6 +22,19 @@ __Duomenų pateikimo pavidalas:__ „Pirmenybė“. „Išdėstymas“ — „i�
    9. QWERTY Lithuanian Programmers (ISO) — 56.87
    10. QWERTY Baltic-Numeric Programmers (ISO) — 55.22
 
+ + Keyboard Layout Analyzer — _1660 dažniausių žodžių_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/ljm9xx8M), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/H9fk0rDM)
+
+   1. __ŪĖYOQJ Ratise (ISO) — 74.14__
+   2. ĖOŪYHJ Remigijaus (ISO) — 69.09
+   3. QGRLDČ LEKP (ISO) — 65.28
+   4. ĄŽERTY LT Standard 2000 (ISO) — 50.95*
+   5. ĄŽERTY IBM, LT Standard 1992 (ISO) — 50.76
+   6. FZVPUJ (ISO) — 52.47
+   7. QWERTY Lithuanian (ISO) — 50.43
+   8. QWERTY Baltic-Numeric (ISO) — 49.04
+   9. QWERTY Lithuanian Programmers (ISO) — 48.67
+   10. QWERTY Baltic-Numeric Programmers (ISO) — 47.31
+
 + Keyboard Layout Analyzer — _Paprasti rašiniai_: [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/LDGJBFQR), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/4ThLZ1ND)
 
    1. __ŪĖYOQJ Ratise (ISO) — 71.55__
