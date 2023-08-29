@@ -269,8 +269,8 @@ __Pastabos:__
 + _Programming Punctuation Torture Test_ paimtas iš [stevep99 puslapio](https://stevep99.github.io/keyboard-layout-analyzer/#/main).
 + Išdėstymuose su tokias pačiais spaudais skirtingose vietose patikros nėra patikimos (ypatingai tekstuose su dažnesniau naudojamais tais ženklais), ko gero, jos paskaičiuojamos prastesnės nei iš tikro būtų.
 + Kitokie čia naudotos patikros „Keyboard Layout Analyzer“ variantai: 
-   - [Keyboard Layout Analyzer : KLAnext v0.06](https://klanext.keyboard-design.com/#/main) — [Lietuviškos pasakos (KLAnext)](images/test-klanext-lt-txt.png)
-   - [Keyboard Layout Analyzer [SP]](https://stevep99.github.io/keyboard-layout-analyzer/#/main) — [Lietuviškos pasakos (SP)](images/test-sp-lt-txt.png)
+   - [Keyboard Layout Analyzer : KLAnext v0.06](https://klanext.keyboard-design.com/#/main) — [Paprasti rašiniai (KLAnext)](images/test-klanext-lt-txt.png)
+   - [Keyboard Layout Analyzer [SP]](https://stevep99.github.io/keyboard-layout-analyzer/#/main) — [Paprasti rašiniai (SP)](images/test-sp-lt-txt.png)
 + Galimų lietuviškų išdėstymų padarytų iš žinomesnių angliškų išdėstymų __su lietuviškomis raidėmis trečiame-ketvirtame lygyje__ patikros (_Keyboard Layout Analyzer_ „Lietuviškos pasakos“) [1↗](http://patorjk.com/keyboard-layout-analyzer/#/load/QsZ5xqXn), [2↗](http://patorjk.com/keyboard-layout-analyzer/#/load/CBLf6R0R), palyginiman įtraukti ir lietuviški išdėstymai [3↗](http://patorjk.com/keyboard-layout-analyzer/#/load/96wPqXSC):
 
    1. __Ratise (ANSI) — 67.64__
