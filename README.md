@@ -4,7 +4,7 @@
 Išdėstymai rikiuojami pagal [lietuviško teksto patikrose](lt-isdestymu-patikros.md) surinktų skaičių sumos didumą.
 
 + Duodamas po išdėstymo paveikslėliu _NP_ (našumas-patogumas, ergonomiškumas) išreikštas nuošimčiais, lyginant išdėstymų surinktų taškų sumą su geriausiai pasirodžiusiojo išdėstymo (Ratisės) taškų suma, nuošimtis su priešdėliu _L_ rodo skaičiavimą tik lietuviškam tekstui, nuošimtis su priešdėliu _E_ — tik angliškam, su _P_ — tik programavimo tekstui.
-+ _AŽERTY Lithuanian (Standard 2000)_ patikroje naudota įprasta mygtukų spaudeliojimo tvarka, ne tokia, [kokia siūloma išdėstymo kūrėjų](http://www.ims.mii.lt/klav/raida.html) — siūlomoji tvarka pasirodo prasčiau.
++ _AŽERTY Lithuanian (Standard 2000)_ patikroje naudota įprasta mygtukų spaudeliojimo tvarka, ne tokia, [kokia siūloma išdėstymo kūrėjų](http://www.ims.mii.lt/klav/raida.html){:target="_blank"} — siūlomoji tvarka pasirodo prasčiau.
 
 <br>
 
