@@ -8,51 +8,51 @@ Išdėstymai rikiuojami pagal [lietuviško teksto patikrose](lt-isdestymu-patikr
 
 <br>
 
-  __1. [ŪĖYOQJ Ratisė](https://albuck.github.io/Ratise-layout/){:target="_blank"} (ISO):__
+  **1. [ŪĖYOQJ Ratisė](https://albuck.github.io/Ratise-layout/){:target="_blank"} (ISO):**
    ![Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ Ratisė ISO](images/ueyoqj-ratise-iso.png)
        NP — L100% E100% P100%
 
 
-  __2. [ĖOŪYHJ Remigijaus](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html){:target="_blank"} (ISO):__
+  **2. [ĖOŪYHJ Remigijaus](https://web.archive.org/web/20080315055411/http://pradmenes.net/tekstu_katalogas/remigijus/klaviatura.html){:target="_blank"} (ISO):**
    ![Lietuviškas Remigijaus klaviatūros išdėstymas ĖOŪYHJ Fonetinis ISO](images/eouyhj-iso.png)
        NP — L93% E91% P93%
 
 
-  __3. [QGRLDČ Lekp](https://lekp.info/) (ISO):__
+  **3. [QGRLDČ Lekp](https://lekp.info/){:target="_blank"} (ISO):**
    ![Lietuviškas klaviatūros išdėstymas LEKP QGRLDČ ISO](images/qgrldc-lekp-iso.png)
        NP — L88% E97% P70%
 
 
-  __4. [FZVPUJ, LST 1092-89](http://lietuvybė.lt/standartai/klaviat%C5%ABros-i%C5%A1d%C4%97stymai/){:target="_blank"} (ISO):__
+  **4. [FZVPUJ, LST 1092-89](http://lietuvybė.lt/standartai/klaviat%C5%ABros-i%C5%A1d%C4%97stymai/){:target="_blank"} (ISO):**
    ![Lietuviškas klaviatūros išdėstymas FZVPUJ (LST 1092-89, RST 1092-89) ISO](images/fzvpuj-iso.png)
        NP — L70% E80% P82%
 
 
-  __5. [QWERTY Lithuanian](https://web.archive.org/web/20210125092522/https://www.registrucentras.lt/litwin/keyboard.html){:target="_blank"} (ISO):__
+  **5. [QWERTY Lithuanian](https://web.archive.org/web/20210125092522/https://www.registrucentras.lt/litwin/keyboard.html){:target="_blank"} (ISO):**
    ![Lietuviškas klaviatūros išdėstymas QWERTY Lithuaian ISO](images/qwerty-lt-iso.png)
        NP — L70% E77% P75%
 
 
-  __6. [ĄŽERTY Standard 2000](http://www.ims.mii.lt/klav/){:target="_blank"} (ISO):__
+  **6. [ĄŽERTY Standard 2000](http://www.ims.mii.lt/klav/){:target="_blank"} (ISO):**
    ![Lietuviškas klaviatūros išdėstymas ĄŽERTY Standard Standartinis 2000 ISO](images/azerty-lt-standard-iso.png)
        NP — L70% E70% P75%
 
 
-  __7. [ĄŽERTY IBM Standard 1992](https://web.archive.org/web/20210125092522/https://www.registrucentras.lt/litwin/keyboard.html){:target="_blank"} (ISO):__
+  **7. [ĄŽERTY IBM Standard 1992](https://web.archive.org/web/20210125092522/https://www.registrucentras.lt/litwin/keyboard.html){:target="_blank"} (ISO):**
    ![Lietuviškas klaviatūros išdėstymas ĄŽERTY IBM Standard 1992 ISO](images/azerty-lt-ibm-iso.png)
        NP — L69% E73% P73%
 
 
-  __8. [QWERTY Baltic-Numeric](https://web.archive.org/web/20210125092522/https://www.registrucentras.lt/litwin/keyboard.html){:target="_blank"} (ISO):__
+  **8. [QWERTY Baltic-Numeric](https://web.archive.org/web/20210125092522/https://www.registrucentras.lt/litwin/keyboard.html){:target="_blank"} (ISO):**
    ![Lietuviškas klaviatūros išdėstymas QWERTY Baltic Numeric Skaičiukinis ISO](images/qwerty-baltic-numeric-iso.png)
        NP — L69% E78% P61%
 
-  __9. [QWERTY Lithuanian Programmers](https://web.archive.org/web/20210125092522/https://www.registrucentras.lt/litwin/keyboard.html){:target="_blank"} (ISO):__
+  **9. [QWERTY Lithuanian Programmers](https://web.archive.org/web/20210125092522/https://www.registrucentras.lt/litwin/keyboard.html){:target="_blank"} (ISO):**
    ![Lietuviškas klaviatūros išdėstymas QWERTY Lithuanian Programmers Programuotojų ISO](images/qwerty-lt-programmers-iso.png)
        NP — L68% E78% P57%
 
 
-  __10. [QWERTY Baltic-Numeric Programmers](http://lietuvybė.lt/naudotojams/klaviaturos/){:target="_blank"} (ISO):__
+  **10. [QWERTY Baltic-Numeric Programmers](http://lietuvybė.lt/naudotojams/klaviaturos/){:target="_blank"} (ISO):**
    ![Lietuviškas klaviatūros išdėstymas QWERTY Baltic Numeric Programmers ISO](images/qwerty-baltic-numeric-programmers-iso.png)
        NP — L66% E78% P57%
 
